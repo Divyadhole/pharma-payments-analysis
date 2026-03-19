@@ -1,0 +1,3001 @@
+physician_id,first_name,last_name,specialty,state,years_practice,med_school_tier
+NPI1169664211,John,Kim,General Surgery,WA,8,Other
+NPI5095195844,Sarah,Murphy,Oncology,IN,15,Top 50
+NPI6562664543,Karen,Jones,Dermatology,WA,28,Top 20
+NPI5143560283,Priya,Davis,Orthopedic Surgery,VA,3,Other
+NPI2175807304,Karen,Johnson,Internal Medicine,MI,36,Top 50
+NPI4577266752,Jennifer,Moore,Emergency Medicine,PA,7,Top 50
+NPI4704901255,Susan,Moore,General Surgery,IL,31,Top 50
+NPI2689443301,Jessica,Smith,General Surgery,MA,25,Other
+NPI7806764029,Michelle,White,Internal Medicine,TX,34,Other
+NPI3892606120,Sarah,Smith,Oncology,TX,31,Other
+NPI6300885614,Lisa,Chen,Family Medicine,GA,21,Other
+NPI5641571628,Ahmed,Kim,Pulmonology,TN,30,Top 20
+NPI8896843712,David,Wang,Neurology,AZ,14,Other
+NPI2098134386,Kevin,Brown,Dermatology,VA,23,Top 20
+NPI2028367074,Wei,Murphy,Oncology,NJ,36,Top 50
+NPI3702877021,Elena,Martin,Internal Medicine,FL,4,Top 20
+NPI4880934712,Ahmed,Singh,Rheumatology,OH,14,Other
+NPI3686880238,Charles,Patel,Cardiology,TX,1,Other
+NPI7868683740,James,White,Dermatology,TN,21,Other
+NPI3207392587,Karen,Smith,Neurology,TN,31,Top 50
+NPI1762972684,Patricia,Patel,General Surgery,IL,2,Top 50
+NPI4724198288,Charles,Hernandez,Family Medicine,IL,22,Other
+NPI7960413592,Priya,Singh,Emergency Medicine,OH,17,Top 50
+NPI8655057491,Thomas,Patel,Gastroenterology,MO,31,Top 20
+NPI7600103634,Barbara,Williams,General Surgery,MI,9,Other
+NPI6020980105,Mary,Murphy,Internal Medicine,TN,7,Other
+NPI7517725315,Wei,Johnson,Oncology,NC,4,Other
+NPI7132505817,Wei,Wilson,Cardiology,AZ,16,Other
+NPI3109299692,Joseph,Miller,Internal Medicine,NJ,20,Top 50
+NPI5956830029,Priya,Clark,Orthopedic Surgery,IL,36,Other
+NPI7935483992,Fatima,Jones,Orthopedic Surgery,MO,19,Top 50
+NPI3854085956,Sarah,Singh,Emergency Medicine,MA,7,Other
+NPI6885758319,Mary,Miller,Family Medicine,TN,28,Other
+NPI5333323847,Raj,White,Family Medicine,MD,3,Top 50
+NPI5528429658,Joseph,Williams,Oncology,PA,14,Top 50
+NPI1810495339,Wei,Taylor,Internal Medicine,TX,26,Other
+NPI6995954487,Anita,Thompson,Internal Medicine,VA,10,Other
+NPI8791183317,David,Kim,Oncology,OH,24,Other
+NPI2272881592,Charles,Murphy,Internal Medicine,NC,18,Other
+NPI4294950959,James,Wang,Neurology,PA,38,Other
+NPI1438007093,Raj,Jackson,Oncology,GA,12,Top 20
+NPI1266686973,Mary,Martinez,Dermatology,GA,36,Other
+NPI9906926469,Thomas,Davis,Orthopedic Surgery,GA,25,Other
+NPI5441243574,David,Clark,Family Medicine,MA,30,Top 20
+NPI4199671167,Mary,Thompson,Dermatology,VA,7,Top 50
+NPI3473893689,Jessica,O'Brien,General Surgery,MI,1,Other
+NPI9820113803,Kevin,Hernandez,Family Medicine,FL,29,Other
+NPI3270257069,Jennifer,Moore,Family Medicine,VA,19,Top 50
+NPI7531375560,William,Wang,Orthopedic Surgery,NY,13,Other
+NPI3553822861,Jennifer,Kim,Internal Medicine,OH,35,Other
+NPI1634405548,Patricia,Miller,Internal Medicine,NC,13,Other
+NPI7149489529,Michael,Jackson,Cardiology,FL,17,Top 50
+NPI1014677628,Karen,Miller,General Surgery,GA,29,Top 20
+NPI7081736603,Fatima,Nguyen,Neurology,IL,38,Other
+NPI3253389390,Wei,Smith,Orthopedic Surgery,IN,36,Other
+NPI7714938087,Fatima,Wang,General Surgery,MO,26,Other
+NPI7927751505,Priya,O'Brien,Oncology,CA,5,Top 50
+NPI7516965148,Susan,Smith,Psychiatry,WA,5,Other
+NPI1220350973,Anita,Thompson,Internal Medicine,WA,28,Top 50
+NPI7333629576,Jennifer,Williams,Internal Medicine,GA,20,Other
+NPI9911310525,Wei,Anderson,Neurology,MI,6,Top 20
+NPI3183628316,Patricia,Anderson,Oncology,TN,28,Other
+NPI3468147149,Ahmed,Jackson,Psychiatry,GA,37,Other
+NPI8321738945,John,O'Brien,General Surgery,TX,3,Other
+NPI2443571245,Michael,Hernandez,Neurology,GA,33,Top 50
+NPI6945253078,Susan,Taylor,Rheumatology,IL,14,Other
+NPI7795237396,Wei,Williams,Rheumatology,GA,16,Top 50
+NPI1334445956,Mary,Murphy,Family Medicine,PA,28,Other
+NPI5983858847,Linda,Martinez,Cardiology,FL,10,Top 20
+NPI6182895326,David,Hernandez,Oncology,WI,7,Other
+NPI3730986076,Priya,Williams,Internal Medicine,FL,38,Other
+NPI8887102023,Kevin,Wilson,Family Medicine,MA,14,Top 50
+NPI2464747473,Charles,Martin,Dermatology,MA,7,Top 50
+NPI4277752385,Sarah,O'Brien,Internal Medicine,WA,27,Top 20
+NPI8638018183,David,Martinez,Cardiology,MD,9,Other
+NPI2715784809,Carlos,Martin,Family Medicine,CA,31,Other
+NPI8392367226,Patricia,Murphy,Family Medicine,OH,3,Other
+NPI1711622596,Patricia,Anderson,Neurology,NY,21,Other
+NPI5403061604,Michael,Wilson,Rheumatology,VA,16,Top 50
+NPI1677975961,William,Johnson,General Surgery,WA,38,Top 50
+NPI7101132264,Jessica,O'Brien,Neurology,MO,21,Other
+NPI8115413400,Kevin,Brown,Family Medicine,GA,37,Other
+NPI8648726933,Lisa,Miller,General Surgery,PA,10,Top 50
+NPI9831360255,Susan,Jones,Internal Medicine,MD,19,Other
+NPI7048141500,Michael,Kim,Cardiology,AZ,32,Other
+NPI7921557223,Lisa,Anderson,Internal Medicine,TN,7,Other
+NPI5551824504,Linda,Kim,Orthopedic Surgery,NC,37,Other
+NPI9214632109,Michelle,Thompson,Oncology,NC,31,Top 50
+NPI6793825439,Joseph,Smith,Internal Medicine,GA,27,Top 20
+NPI8951962655,Thomas,Martinez,Endocrinology,MA,10,Other
+NPI3119068152,Anita,Smith,Internal Medicine,PA,32,Other
+NPI5470640025,Barbara,Johnson,Orthopedic Surgery,WI,33,Top 50
+NPI7568370288,Joseph,Moore,Oncology,NY,12,Top 50
+NPI2824495790,Sarah,Davis,Family Medicine,MI,23,Top 50
+NPI2902058139,William,Williams,Family Medicine,OH,3,Other
+NPI9802384662,Mary,Thomas,Neurology,WA,16,Top 50
+NPI4911493246,William,Hernandez,Family Medicine,AZ,6,Top 50
+NPI2636339076,Patricia,Clark,Internal Medicine,MD,22,Top 20
+NPI3983174937,Wei,White,Internal Medicine,TN,22,Other
+NPI4576385333,James,Taylor,Emergency Medicine,PA,21,Other
+NPI6607767316,Barbara,Moore,Gastroenterology,PA,27,Top 50
+NPI9307131930,Raj,Williams,Orthopedic Surgery,MO,37,Other
+NPI9879310682,Karen,Taylor,Family Medicine,MI,8,Other
+NPI6865288829,Wei,Lee,Emergency Medicine,TX,9,Other
+NPI7299301246,Wei,Smith,General Surgery,IN,9,Other
+NPI3896462526,William,O'Brien,Orthopedic Surgery,WA,37,Other
+NPI8714427358,Charles,Jackson,Oncology,CA,4,Other
+NPI2960185016,Michael,Chen,Family Medicine,TN,2,Top 20
+NPI1957425843,Lisa,Wilson,Internal Medicine,WA,7,Top 50
+NPI9759303909,Wei,Singh,Gastroenterology,WA,30,Top 20
+NPI8777248090,Raj,Taylor,Oncology,MO,23,Other
+NPI3732806210,Anita,O'Brien,Internal Medicine,MI,36,Other
+NPI7076536446,James,Jackson,Family Medicine,MI,8,Other
+NPI5203165216,William,White,Psychiatry,WA,16,Top 50
+NPI3908153854,Thomas,Miller,Internal Medicine,NY,22,Other
+NPI3580967896,Barbara,Clark,Dermatology,NY,3,Top 50
+NPI2224247006,Charles,Garcia,General Surgery,IN,36,Top 50
+NPI5943862739,Elena,Smith,Orthopedic Surgery,PA,32,Other
+NPI5019370210,Linda,Hernandez,Oncology,NJ,6,Top 20
+NPI5609677782,Raj,Singh,Neurology,IL,33,Top 50
+NPI2938214507,Raj,O'Brien,Psychiatry,PA,18,Top 50
+NPI9447496036,Anita,Singh,Neurology,VA,14,Other
+NPI6747320766,John,Martin,Internal Medicine,IN,37,Top 50
+NPI9096405915,William,O'Brien,Family Medicine,NC,21,Other
+NPI1983440494,Patricia,Moore,Cardiology,FL,9,Other
+NPI6605658692,Patricia,Moore,Endocrinology,PA,32,Other
+NPI8645156366,Mary,Garcia,Family Medicine,NY,28,Top 50
+NPI3978287017,Jessica,Chen,Internal Medicine,MO,8,Other
+NPI2756288522,John,Martinez,Internal Medicine,OH,27,Top 20
+NPI3385191751,William,Garcia,Psychiatry,GA,25,Other
+NPI3456403540,Michelle,Taylor,Internal Medicine,TX,11,Other
+NPI5024790683,Raj,Thompson,Pulmonology,NC,17,Top 50
+NPI3933672424,Kevin,Wilson,Psychiatry,MD,33,Top 50
+NPI3441466654,Mary,Anderson,Family Medicine,NC,7,Other
+NPI6836610684,Lisa,Martinez,Psychiatry,AZ,29,Other
+NPI1477291344,Lisa,Lee,Cardiology,NY,33,Other
+NPI4063274002,Patricia,Kim,Emergency Medicine,FL,37,Other
+NPI7207767692,Anita,Patel,Endocrinology,MA,13,Other
+NPI2582647743,Richard,Jones,General Surgery,TX,11,Other
+NPI2988350759,Michelle,Anderson,Internal Medicine,NC,37,Other
+NPI2805999628,Patricia,White,Endocrinology,OH,19,Top 50
+NPI1008334960,Lisa,Miller,Endocrinology,CA,23,Other
+NPI5263909766,Patricia,Williams,Pulmonology,NJ,21,Other
+NPI1350629104,Kevin,Martinez,Psychiatry,WI,21,Top 50
+NPI3456458305,Charles,Patel,Oncology,TX,25,Top 50
+NPI9953230820,John,White,Family Medicine,IN,17,Top 20
+NPI9265565901,Michael,Brown,Family Medicine,NJ,16,Other
+NPI2935682273,David,Patel,Endocrinology,MA,16,Other
+NPI3790021886,James,Garcia,Oncology,TX,26,Top 50
+NPI5173341239,James,Nguyen,Cardiology,MO,32,Other
+NPI8599721919,Anita,Martin,Dermatology,CA,22,Top 20
+NPI8223813471,Michelle,Brown,Gastroenterology,MD,27,Other
+NPI2136172928,Thomas,Anderson,Internal Medicine,AZ,17,Other
+NPI2120039635,Anita,Wang,Rheumatology,OH,31,Other
+NPI4750590284,Lisa,Thomas,Internal Medicine,CA,16,Other
+NPI8830858505,James,Patel,Neurology,WA,17,Top 20
+NPI8938764990,Priya,Nguyen,Family Medicine,TX,3,Other
+NPI1966292647,James,Smith,Neurology,WA,11,Other
+NPI6168675591,Carlos,O'Brien,Orthopedic Surgery,TN,29,Top 20
+NPI2401076773,Susan,Anderson,General Surgery,IL,4,Other
+NPI7175163789,Robert,Chen,Internal Medicine,PA,9,Top 20
+NPI9247899230,Linda,Moore,Pulmonology,PA,31,Other
+NPI5092923631,Wei,Lee,Internal Medicine,PA,35,Top 50
+NPI1747744972,Elena,Anderson,Cardiology,FL,17,Other
+NPI6213287762,Karen,Singh,Rheumatology,PA,16,Top 20
+NPI4676650030,Robert,Brown,Family Medicine,AZ,20,Top 20
+NPI8298088770,Anita,Murphy,Dermatology,OH,31,Other
+NPI4063100174,Fatima,Miller,General Surgery,TN,19,Other
+NPI8874074803,Richard,Murphy,Family Medicine,IN,7,Top 50
+NPI3463303668,Thomas,Smith,Emergency Medicine,TN,17,Other
+NPI2417658722,Kevin,Smith,Family Medicine,NJ,10,Other
+NPI3758323395,Susan,Williams,Endocrinology,OH,27,Other
+NPI1314242126,James,Martin,Family Medicine,MD,6,Top 50
+NPI3531213701,Robert,Davis,Pulmonology,PA,24,Other
+NPI6941058704,Charles,Lee,Internal Medicine,MI,6,Other
+NPI2280546806,Michelle,Wang,Cardiology,MI,38,Top 50
+NPI2002284754,Ahmed,Smith,Oncology,MA,25,Other
+NPI2191467621,Charles,Jackson,Emergency Medicine,NJ,6,Other
+NPI1697965068,Barbara,Nguyen,Gastroenterology,TN,38,Top 50
+NPI8871718705,Jessica,Thomas,General Surgery,MD,23,Top 50
+NPI9497036038,Mary,O'Brien,Gastroenterology,GA,24,Top 50
+NPI1419050365,Susan,White,Gastroenterology,MO,3,Other
+NPI7840646033,Charles,Johnson,Endocrinology,NY,8,Other
+NPI7634365719,Anita,Martin,Family Medicine,MD,32,Other
+NPI9972184820,Anita,Taylor,General Surgery,NY,19,Other
+NPI4130835955,Carlos,Brown,Neurology,MO,25,Top 50
+NPI3569580924,James,Rodriguez,Family Medicine,GA,39,Top 20
+NPI5077739086,Carlos,Miller,Internal Medicine,WI,17,Top 50
+NPI8709176593,Michael,Williams,General Surgery,FL,15,Top 50
+NPI7557342782,Charles,Miller,Family Medicine,MI,32,Top 20
+NPI5244614325,Kevin,Wang,Pulmonology,MD,3,Other
+NPI3201065589,Raj,Lee,Internal Medicine,CA,18,Top 50
+NPI7543141670,Lisa,Wang,Internal Medicine,IL,34,Top 20
+NPI8690741811,William,Hernandez,Dermatology,TX,9,Top 50
+NPI4599561079,Sarah,Brown,Internal Medicine,OH,12,Top 50
+NPI7017269011,Priya,Taylor,Internal Medicine,GA,19,Top 50
+NPI4601908190,Sarah,Garcia,Psychiatry,WA,3,Top 50
+NPI5306440942,Richard,Martin,Gastroenterology,IL,3,Top 50
+NPI5724193419,Richard,Wilson,Internal Medicine,NY,10,Other
+NPI7981532325,Karen,Clark,Family Medicine,NY,36,Other
+NPI9797553856,Mary,Taylor,General Surgery,MD,9,Other
+NPI4999295463,Michelle,Martinez,Emergency Medicine,WI,29,Other
+NPI4080835055,Patricia,Clark,Endocrinology,PA,17,Other
+NPI4362319057,Michelle,Jackson,Internal Medicine,NY,30,Other
+NPI2205001624,Mary,Garcia,Cardiology,TX,13,Other
+NPI3672448640,Sarah,Moore,Internal Medicine,WI,35,Other
+NPI1778026719,Richard,Davis,Internal Medicine,MA,15,Other
+NPI4851048368,Karen,Kim,Neurology,TN,31,Top 50
+NPI2506215423,Jessica,Lee,Internal Medicine,IL,33,Top 50
+NPI4117660713,Raj,Kim,Endocrinology,WA,17,Top 50
+NPI8142199743,James,Rodriguez,Orthopedic Surgery,TX,27,Other
+NPI3213348855,Michelle,Kim,Psychiatry,AZ,5,Top 20
+NPI6507051591,Wei,Anderson,Internal Medicine,VA,20,Other
+NPI9110632772,Fatima,Miller,General Surgery,OH,15,Other
+NPI6102362682,Robert,Jackson,Orthopedic Surgery,MA,38,Other
+NPI2744133514,Mary,Hernandez,Orthopedic Surgery,WA,37,Top 20
+NPI4102895745,Susan,Martinez,Internal Medicine,NC,31,Other
+NPI6313322864,Barbara,Wang,Internal Medicine,NY,38,Top 50
+NPI5559500257,Fatima,O'Brien,Pulmonology,CA,39,Other
+NPI2337578526,Raj,Taylor,Family Medicine,MD,30,Other
+NPI5021167101,Richard,Patel,Family Medicine,IL,24,Other
+NPI5887600253,Fatima,Clark,Endocrinology,OH,8,Other
+NPI3405994429,Mary,Smith,Neurology,AZ,32,Other
+NPI6512009637,Ahmed,Anderson,Emergency Medicine,IL,8,Other
+NPI1631440895,John,Nguyen,Family Medicine,GA,8,Top 20
+NPI4029463301,Wei,Moore,Pulmonology,MA,35,Top 50
+NPI8238491494,Susan,Chen,Cardiology,VA,5,Top 20
+NPI3333563207,Richard,Moore,Rheumatology,AZ,6,Other
+NPI6446591649,William,Johnson,Neurology,CA,20,Other
+NPI4690267422,Richard,Hernandez,Internal Medicine,MI,23,Other
+NPI3848141281,Raj,Thomas,Internal Medicine,MI,2,Other
+NPI9245185190,Carlos,Singh,Family Medicine,WA,15,Other
+NPI4089355462,David,Jones,Emergency Medicine,NY,9,Top 50
+NPI3130083113,William,Jones,Psychiatry,NY,12,Top 20
+NPI9183711839,Sarah,Jones,Pulmonology,TN,8,Other
+NPI7713499202,Wei,Lee,General Surgery,AZ,27,Other
+NPI7136197422,Jennifer,Clark,Oncology,IN,19,Other
+NPI1445814478,Priya,Thompson,General Surgery,IL,38,Top 50
+NPI2180844646,Kevin,Wang,Cardiology,WI,1,Other
+NPI6745059673,Elena,Singh,Internal Medicine,IL,31,Other
+NPI2884895528,Thomas,Thompson,Dermatology,AZ,36,Other
+NPI3030741870,Barbara,Thompson,General Surgery,NY,19,Top 50
+NPI8012246637,Barbara,Davis,Internal Medicine,MD,28,Other
+NPI3573324539,Ahmed,Rodriguez,Rheumatology,OH,18,Other
+NPI1644285719,Jessica,Chen,Psychiatry,IN,24,Other
+NPI1327887525,Patricia,Murphy,Gastroenterology,OH,36,Other
+NPI4988601884,Wei,Clark,Psychiatry,TN,21,Other
+NPI6554157198,Robert,Anderson,Family Medicine,MI,23,Other
+NPI8819967099,Michelle,Jones,Family Medicine,TX,39,Other
+NPI1997239555,Richard,Singh,Family Medicine,NY,20,Other
+NPI2770055436,David,Moore,Neurology,AZ,7,Top 20
+NPI5768205497,Mary,Rodriguez,Gastroenterology,NY,27,Top 50
+NPI4276975259,Jennifer,Patel,Oncology,IL,28,Other
+NPI5342837060,Kevin,Davis,Family Medicine,NJ,10,Top 20
+NPI9317121839,Thomas,Anderson,Internal Medicine,IL,29,Top 20
+NPI5904024884,Anita,Thompson,General Surgery,FL,3,Other
+NPI4736085495,Kevin,Taylor,General Surgery,WA,13,Other
+NPI9904959159,Mary,Wilson,Internal Medicine,AZ,34,Top 20
+NPI1586941029,Susan,Miller,Cardiology,MA,25,Top 50
+NPI9389021034,Elena,White,Psychiatry,MD,24,Other
+NPI5514956578,Joseph,Johnson,Internal Medicine,FL,25,Other
+NPI5533807039,Sarah,Williams,Dermatology,NC,7,Other
+NPI9297679006,Karen,Johnson,Family Medicine,PA,38,Other
+NPI5565915815,Priya,Nguyen,Internal Medicine,MD,12,Top 50
+NPI4945663814,Kevin,Smith,Pulmonology,NJ,31,Other
+NPI3452397328,Raj,Thomas,Internal Medicine,TX,39,Top 20
+NPI6929350900,Charles,Brown,Family Medicine,AZ,10,Other
+NPI6126805818,Karen,Lee,Internal Medicine,CA,25,Top 50
+NPI2929108932,David,Johnson,Internal Medicine,IL,2,Top 20
+NPI7384716234,Patricia,Smith,Cardiology,MA,25,Top 50
+NPI6796781715,Priya,Thomas,Cardiology,NJ,18,Other
+NPI4576004957,James,Patel,Internal Medicine,TN,3,Top 50
+NPI1039608297,Wei,Brown,Cardiology,VA,27,Top 50
+NPI5019230351,Joseph,Moore,Psychiatry,IN,38,Top 50
+NPI1054523054,Fatima,Wang,Neurology,VA,4,Other
+NPI1674986403,Kevin,Thompson,Family Medicine,TX,35,Other
+NPI4875489121,Thomas,Nguyen,Family Medicine,TX,33,Other
+NPI1737278957,Karen,Martinez,Endocrinology,TN,22,Other
+NPI3480988903,Joseph,Rodriguez,Gastroenterology,CA,36,Other
+NPI6899422316,Susan,Jones,Dermatology,GA,13,Other
+NPI3777538083,John,Thompson,Cardiology,CA,29,Top 20
+NPI9978837346,James,Hernandez,Internal Medicine,OH,28,Other
+NPI9246718304,Priya,Smith,Internal Medicine,VA,23,Other
+NPI6267789140,Anita,Rodriguez,Family Medicine,NY,33,Top 50
+NPI9702524246,Mary,Kim,Psychiatry,MI,35,Other
+NPI8812155649,Barbara,Miller,Family Medicine,WI,31,Top 50
+NPI3870086669,Charles,Johnson,Cardiology,TX,23,Other
+NPI7746366213,Priya,Patel,Family Medicine,TX,39,Other
+NPI2231486055,Ahmed,Martin,Endocrinology,IL,22,Other
+NPI7160962818,Wei,Johnson,Internal Medicine,IN,25,Top 50
+NPI5419736437,John,Clark,Dermatology,NC,8,Other
+NPI1151433453,Linda,Kim,Cardiology,WA,13,Other
+NPI3468068401,Joseph,Hernandez,Pulmonology,CA,36,Top 50
+NPI9598439955,Mary,Davis,Internal Medicine,MA,20,Other
+NPI3842483365,David,Wilson,Dermatology,TX,20,Other
+NPI2633090097,Susan,Hernandez,Gastroenterology,MA,32,Other
+NPI2687783018,Michelle,Johnson,Emergency Medicine,FL,13,Other
+NPI5312919381,Barbara,Taylor,General Surgery,MO,11,Top 20
+NPI8583843165,Michelle,Miller,General Surgery,IL,1,Top 50
+NPI7822015885,Priya,Brown,Neurology,NY,10,Top 50
+NPI4931668067,Wei,Brown,General Surgery,OH,20,Top 50
+NPI2878541950,Carlos,Anderson,Internal Medicine,CA,29,Other
+NPI1414584100,Elena,Taylor,Rheumatology,NY,13,Other
+NPI5163672874,Michael,Anderson,Endocrinology,VA,18,Other
+NPI8332978135,Richard,Patel,Dermatology,OH,9,Other
+NPI7567137941,Sarah,Jackson,Oncology,GA,32,Top 50
+NPI4677406908,Michelle,Garcia,Family Medicine,IN,21,Top 50
+NPI6352324046,Mary,Clark,Neurology,FL,6,Other
+NPI4926218688,Joseph,Kim,Family Medicine,GA,24,Other
+NPI6211144987,Michael,Moore,Internal Medicine,NY,14,Top 50
+NPI5657547199,Michael,Johnson,Oncology,MI,34,Other
+NPI7128699400,Ahmed,O'Brien,Family Medicine,OH,11,Other
+NPI5569379591,Michael,Nguyen,Internal Medicine,CA,34,Top 50
+NPI9465498982,Fatima,Hernandez,Family Medicine,TX,28,Other
+NPI4852253633,Michelle,Jones,Family Medicine,MO,6,Other
+NPI1143246727,Fatima,Brown,Family Medicine,TX,30,Top 50
+NPI3127361818,Jennifer,Wilson,Family Medicine,TN,29,Other
+NPI5505461722,Robert,Miller,Orthopedic Surgery,MD,18,Other
+NPI5865146666,Jessica,Miller,Family Medicine,MI,7,Other
+NPI5971463103,Thomas,Thomas,Emergency Medicine,OH,19,Other
+NPI7430968883,Fatima,Johnson,Pulmonology,TN,24,Other
+NPI3471833283,Richard,Martinez,Oncology,WI,6,Other
+NPI6984133110,Jennifer,Murphy,Family Medicine,FL,14,Top 20
+NPI7336290457,Michelle,Singh,Rheumatology,WI,28,Top 50
+NPI4701526773,Anita,Smith,Dermatology,MD,22,Top 50
+NPI4619521891,Lisa,Patel,Neurology,FL,39,Top 50
+NPI2610323070,Wei,Clark,General Surgery,TX,9,Other
+NPI4725886385,Kevin,Lee,Rheumatology,MA,31,Top 50
+NPI8081346624,Joseph,Taylor,Neurology,TX,17,Top 50
+NPI9180757049,Robert,Moore,Family Medicine,WA,9,Other
+NPI6342518721,Charles,Miller,Orthopedic Surgery,TX,38,Top 50
+NPI3694333089,Jessica,Taylor,Internal Medicine,AZ,25,Other
+NPI7140607467,Fatima,Rodriguez,Orthopedic Surgery,PA,21,Other
+NPI7661315877,Fatima,Thompson,Dermatology,TX,12,Top 50
+NPI3989915008,Joseph,Thomas,Internal Medicine,TX,35,Top 20
+NPI8438930752,Susan,Brown,Psychiatry,NY,2,Other
+NPI1663262489,Richard,O'Brien,Internal Medicine,NJ,5,Top 20
+NPI1096783458,Charles,Jones,Orthopedic Surgery,TX,8,Other
+NPI2106736953,Lisa,Kim,Internal Medicine,IN,26,Other
+NPI2404075130,Sarah,Martinez,Pulmonology,WA,5,Other
+NPI8910361295,Sarah,Wilson,Internal Medicine,IL,32,Other
+NPI4824835319,Michelle,Garcia,Emergency Medicine,WI,8,Other
+NPI3474385227,Linda,Taylor,General Surgery,AZ,27,Top 20
+NPI4861676043,Jennifer,Patel,Psychiatry,AZ,32,Other
+NPI4553568033,Fatima,Thomas,General Surgery,NY,35,Other
+NPI3713155011,Kevin,Smith,General Surgery,MA,12,Other
+NPI2241096241,Charles,Davis,Emergency Medicine,VA,3,Top 50
+NPI6903239157,Richard,Jones,Family Medicine,WI,30,Top 50
+NPI2229439624,David,Thomas,Psychiatry,MI,18,Other
+NPI7978820073,Joseph,O'Brien,Internal Medicine,AZ,38,Top 50
+NPI2815192119,Mary,Rodriguez,Psychiatry,OH,8,Other
+NPI7582341763,Sarah,Clark,Internal Medicine,CA,23,Other
+NPI8250274950,William,Brown,Psychiatry,FL,5,Other
+NPI2127934087,Linda,Moore,Psychiatry,MO,19,Other
+NPI1780711914,Thomas,Johnson,Oncology,MA,1,Top 50
+NPI9546154934,Kevin,Moore,Endocrinology,GA,30,Other
+NPI5167421260,Michael,Lee,General Surgery,AZ,24,Other
+NPI6672119454,Anita,Chen,General Surgery,CA,4,Top 50
+NPI1209343961,Sarah,Anderson,Endocrinology,CA,20,Other
+NPI3508391624,Michelle,Johnson,Psychiatry,NJ,17,Other
+NPI5548578890,Susan,Hernandez,Pulmonology,WA,27,Top 20
+NPI8975964819,Michelle,Thomas,Internal Medicine,MD,20,Other
+NPI3442954757,Lisa,Thompson,Internal Medicine,TN,18,Top 50
+NPI7976721877,Wei,Williams,Internal Medicine,IL,33,Other
+NPI6959916353,Thomas,Thompson,Neurology,IN,21,Other
+NPI2037436910,Jessica,Thomas,Family Medicine,MI,32,Other
+NPI3640376554,Sarah,Nguyen,General Surgery,IN,35,Other
+NPI3140776327,Elena,Clark,Neurology,NY,34,Top 50
+NPI4982748287,Fatima,Miller,Family Medicine,CA,38,Other
+NPI6718008186,James,Nguyen,Gastroenterology,TX,28,Top 50
+NPI4900777799,Wei,Brown,General Surgery,WI,22,Other
+NPI3200829181,Elena,Clark,Family Medicine,TX,21,Top 50
+NPI7262908913,Ahmed,Moore,Family Medicine,MD,8,Top 50
+NPI6260239851,Joseph,Nguyen,Family Medicine,MA,33,Top 20
+NPI5673825166,David,Chen,Internal Medicine,FL,28,Top 50
+NPI5989776376,Wei,Thompson,Internal Medicine,MO,35,Top 50
+NPI2997105816,Lisa,Taylor,Pulmonology,FL,28,Top 20
+NPI7123879549,Susan,Nguyen,Oncology,FL,19,Other
+NPI4487504819,Richard,Moore,Family Medicine,VA,12,Other
+NPI4271210377,Susan,White,Orthopedic Surgery,IL,39,Top 50
+NPI2347607874,Mary,Thompson,Rheumatology,IL,29,Other
+NPI6371536010,James,Hernandez,Pulmonology,NY,35,Other
+NPI6423979694,John,Brown,General Surgery,WA,23,Other
+NPI4062705792,Richard,Wilson,Oncology,CA,20,Top 50
+NPI8738650510,Sarah,Rodriguez,Family Medicine,PA,2,Other
+NPI8609121087,Richard,Jackson,Emergency Medicine,VA,3,Top 50
+NPI1981488758,Kevin,White,Orthopedic Surgery,MI,28,Top 50
+NPI7255345489,Michael,Davis,Emergency Medicine,AZ,9,Other
+NPI4544512805,Susan,Kim,Internal Medicine,PA,4,Other
+NPI9997433658,Linda,Moore,Dermatology,WA,31,Other
+NPI3025212666,William,Miller,Neurology,TN,25,Top 50
+NPI3524717848,Karen,Jones,Internal Medicine,GA,5,Other
+NPI4978956650,Barbara,Taylor,Psychiatry,IL,20,Other
+NPI3418436337,Barbara,Martin,Orthopedic Surgery,VA,19,Top 20
+NPI7227940296,Wei,Wilson,Cardiology,VA,1,Top 20
+NPI5328173009,Carlos,Davis,Oncology,TX,24,Top 50
+NPI2987909513,Michael,Wilson,Dermatology,VA,16,Top 50
+NPI5557366624,Patricia,Wilson,Family Medicine,NY,35,Top 50
+NPI8999089896,Linda,Nguyen,Oncology,VA,5,Top 20
+NPI8131560820,Karen,Moore,Oncology,MD,34,Other
+NPI5489460319,Kevin,Moore,Family Medicine,NJ,1,Other
+NPI3596433427,Robert,Jones,Pulmonology,TN,30,Other
+NPI2618978182,Mary,Martin,General Surgery,OH,31,Other
+NPI8905445893,Sarah,Rodriguez,Internal Medicine,MD,16,Top 50
+NPI7391502463,Michelle,Nguyen,Emergency Medicine,IN,11,Other
+NPI6149469727,Thomas,Hernandez,Gastroenterology,MD,6,Other
+NPI8914911812,Anita,Martinez,Family Medicine,MA,14,Other
+NPI2095212586,Lisa,Anderson,Dermatology,WA,27,Top 50
+NPI7142403573,James,Smith,Internal Medicine,NJ,29,Other
+NPI2950410811,Richard,Smith,Emergency Medicine,MD,8,Other
+NPI2085196969,Fatima,Chen,Neurology,IN,1,Other
+NPI5190476589,Sarah,Singh,Neurology,NC,22,Other
+NPI4486536367,Jennifer,Clark,Internal Medicine,TX,23,Other
+NPI9470562482,Jennifer,Thompson,Gastroenterology,CA,39,Other
+NPI3915815920,Lisa,O'Brien,Cardiology,PA,30,Other
+NPI8334120330,Jessica,Thomas,Internal Medicine,TX,22,Other
+NPI7739443003,Karen,Davis,Internal Medicine,PA,24,Other
+NPI7011314829,Susan,Davis,General Surgery,FL,26,Top 20
+NPI9283604255,David,Davis,Internal Medicine,WI,18,Other
+NPI4671321349,Lisa,Nguyen,Pulmonology,TX,27,Top 50
+NPI4507040673,James,Smith,Neurology,WA,8,Top 50
+NPI2448526812,Jessica,Rodriguez,Cardiology,GA,33,Top 50
+NPI3481858679,Susan,Chen,Cardiology,NY,34,Other
+NPI8917988103,Fatima,Taylor,Cardiology,MA,17,Top 20
+NPI5269439195,Priya,Kim,Psychiatry,WI,18,Top 50
+NPI4072179899,Richard,Jones,General Surgery,TN,20,Top 20
+NPI2945008495,Linda,Thomas,Internal Medicine,WI,32,Other
+NPI5364642251,Linda,Brown,Dermatology,VA,7,Other
+NPI7449988333,Michael,Brown,Cardiology,AZ,14,Other
+NPI3580228228,William,Smith,General Surgery,FL,24,Other
+NPI7819448686,Ahmed,Chen,Pulmonology,MO,28,Top 50
+NPI6668089971,Mary,Nguyen,General Surgery,MA,12,Other
+NPI8088063062,James,Murphy,Orthopedic Surgery,IL,5,Top 20
+NPI3258186659,Thomas,Clark,Dermatology,GA,20,Other
+NPI6679253301,Michael,Rodriguez,Cardiology,WA,25,Other
+NPI2383617515,Carlos,Clark,Internal Medicine,CA,30,Other
+NPI4274172839,Ahmed,Smith,Internal Medicine,IN,1,Top 20
+NPI7519240852,Fatima,Chen,Endocrinology,IL,1,Top 20
+NPI6685015469,Jessica,Kim,Orthopedic Surgery,TX,16,Other
+NPI2690746527,Jessica,Jones,Neurology,OH,22,Other
+NPI8725084047,Richard,Jones,Dermatology,IN,1,Other
+NPI1480158841,Jennifer,Clark,Internal Medicine,IL,7,Other
+NPI6356941196,Karen,Murphy,Orthopedic Surgery,NJ,17,Other
+NPI9854384501,Elena,Martinez,Internal Medicine,IN,11,Top 50
+NPI5783542586,Linda,Williams,Family Medicine,CA,28,Other
+NPI8206046378,Mary,Anderson,Orthopedic Surgery,TN,2,Top 50
+NPI6356628758,Thomas,Smith,Emergency Medicine,IL,35,Other
+NPI8047794833,Susan,Patel,Psychiatry,AZ,7,Other
+NPI6900347217,Fatima,Taylor,Cardiology,NY,18,Other
+NPI7220188130,Elena,Johnson,Psychiatry,FL,39,Other
+NPI3050300359,Kevin,Clark,Cardiology,TN,26,Top 50
+NPI7676388221,Susan,Wang,Gastroenterology,IN,39,Other
+NPI3141188979,Anita,O'Brien,Orthopedic Surgery,WI,1,Other
+NPI9825762475,Patricia,Clark,Internal Medicine,AZ,29,Other
+NPI3050084718,Susan,Smith,Internal Medicine,MI,3,Other
+NPI3130156032,Linda,Chen,Internal Medicine,NY,24,Other
+NPI8728058083,Anita,Chen,Emergency Medicine,IL,13,Top 50
+NPI3186872757,Charles,Chen,Oncology,WA,31,Other
+NPI4248125141,David,Davis,General Surgery,OH,5,Other
+NPI7431761449,Robert,Taylor,Neurology,MI,35,Top 50
+NPI2428737221,Fatima,O'Brien,Psychiatry,NY,19,Other
+NPI2431645793,Lisa,Johnson,Internal Medicine,NC,21,Top 50
+NPI5377225808,Elena,White,Emergency Medicine,PA,23,Top 50
+NPI3193270787,Jessica,Chen,Family Medicine,FL,2,Top 20
+NPI3120921599,Robert,Chen,Psychiatry,FL,13,Other
+NPI1083150292,David,Lee,Orthopedic Surgery,NJ,28,Other
+NPI4334046320,Charles,Chen,Neurology,GA,38,Top 50
+NPI3864254991,Linda,O'Brien,Pulmonology,TX,39,Top 20
+NPI1280402297,John,Nguyen,Internal Medicine,NJ,21,Top 50
+NPI6591098603,Carlos,Brown,Endocrinology,NY,11,Top 50
+NPI6639896637,Sarah,Davis,Family Medicine,CA,19,Other
+NPI1637204245,Susan,Martinez,Oncology,FL,19,Top 50
+NPI3853374065,Thomas,Anderson,Internal Medicine,NC,16,Top 50
+NPI8855249787,Ahmed,Anderson,Internal Medicine,WI,15,Top 20
+NPI6239503613,James,Miller,Family Medicine,PA,34,Other
+NPI4707772515,Jessica,Patel,Family Medicine,IL,16,Other
+NPI5185917355,Linda,Brown,Oncology,PA,2,Other
+NPI2874519949,John,Chen,Psychiatry,GA,29,Other
+NPI8306933505,Mary,White,Neurology,MA,26,Other
+NPI9226042348,Jessica,Rodriguez,Family Medicine,OH,15,Other
+NPI9195976379,Thomas,Smith,Family Medicine,AZ,25,Other
+NPI3015409525,Sarah,Wilson,Internal Medicine,MO,37,Other
+NPI3796662409,Fatima,Murphy,Psychiatry,MD,37,Top 20
+NPI2445604973,Jessica,Moore,Family Medicine,VA,31,Other
+NPI3764810202,Karen,Martin,Cardiology,MA,23,Other
+NPI3995248348,Carlos,Smith,Family Medicine,MD,2,Other
+NPI6697951632,Lisa,Nguyen,Oncology,TN,20,Top 50
+NPI2706817433,Anita,Davis,Internal Medicine,IL,32,Other
+NPI9274572318,Michael,Rodriguez,Psychiatry,FL,33,Other
+NPI1927895230,Fatima,Taylor,Psychiatry,FL,31,Top 50
+NPI1061902099,Wei,Garcia,Orthopedic Surgery,MO,39,Top 20
+NPI8694506156,Karen,Lee,Neurology,VA,21,Top 50
+NPI7333928269,James,Moore,Neurology,IL,5,Other
+NPI4198238832,Thomas,Moore,Family Medicine,OH,20,Other
+NPI6359497352,Elena,Rodriguez,General Surgery,IL,13,Other
+NPI3011896907,Lisa,Anderson,Rheumatology,IN,33,Other
+NPI2515506837,James,Taylor,Oncology,WA,31,Other
+NPI5240342215,William,Thompson,Psychiatry,MO,17,Top 50
+NPI4178690467,Karen,Garcia,Family Medicine,OH,16,Top 50
+NPI6537070454,Carlos,Wang,Endocrinology,MI,7,Top 50
+NPI2963342660,Jessica,Miller,Orthopedic Surgery,FL,2,Other
+NPI6966349304,Elena,Davis,Gastroenterology,WI,13,Top 20
+NPI7901753681,Fatima,Smith,Pulmonology,NJ,10,Top 50
+NPI2499725287,William,Anderson,Endocrinology,VA,11,Other
+NPI1394724550,Jennifer,Lee,Endocrinology,NC,39,Other
+NPI4956286377,Anita,Kim,General Surgery,IL,27,Top 20
+NPI7966216773,Karen,Murphy,Family Medicine,MD,22,Other
+NPI6857018519,Elena,Chen,Dermatology,MI,7,Other
+NPI7316935483,Anita,Martinez,Endocrinology,AZ,33,Other
+NPI4625554059,Richard,Wang,Internal Medicine,CA,26,Other
+NPI3114509907,Mary,Garcia,Cardiology,IL,21,Top 20
+NPI5786009589,Anita,Miller,Dermatology,IN,19,Top 50
+NPI2839291243,Karen,Anderson,Cardiology,TX,22,Top 50
+NPI7536058272,Patricia,Martin,Family Medicine,FL,33,Other
+NPI2772698103,Sarah,Miller,Family Medicine,IN,29,Other
+NPI3621369400,James,O'Brien,Internal Medicine,OH,19,Other
+NPI5558903004,William,Wilson,Family Medicine,IL,27,Other
+NPI5380389406,David,Taylor,Orthopedic Surgery,VA,37,Top 50
+NPI6407644387,Jessica,Thompson,Cardiology,NY,13,Top 20
+NPI4937001404,Thomas,Thomas,Dermatology,CA,36,Top 50
+NPI9275259775,Elena,Thomas,Dermatology,CA,24,Other
+NPI8559406846,David,Clark,Family Medicine,TX,8,Other
+NPI8912021060,Ahmed,Hernandez,Internal Medicine,NY,38,Other
+NPI6665649142,Kevin,Brown,Psychiatry,AZ,27,Top 50
+NPI6715071242,Ahmed,Kim,Internal Medicine,IL,16,Other
+NPI6482788152,Linda,Kim,Family Medicine,TX,9,Top 50
+NPI4913957389,Wei,Miller,Emergency Medicine,CA,36,Other
+NPI3898954009,William,Singh,Emergency Medicine,MI,33,Top 20
+NPI6328025986,Joseph,Taylor,General Surgery,IN,2,Other
+NPI1229786534,Lisa,Jones,Family Medicine,OH,25,Top 50
+NPI1067107882,William,Garcia,Orthopedic Surgery,TX,5,Top 50
+NPI8664776435,James,Kim,Orthopedic Surgery,PA,12,Other
+NPI1417816402,Elena,Miller,Family Medicine,MI,23,Top 50
+NPI5723156352,Priya,Moore,Neurology,NY,10,Other
+NPI6534889865,Patricia,Nguyen,Cardiology,WI,20,Top 50
+NPI2783541066,Susan,Singh,Internal Medicine,TN,17,Other
+NPI9061577543,Linda,Moore,Endocrinology,OH,23,Top 50
+NPI2710861945,Michelle,O'Brien,Internal Medicine,WI,32,Other
+NPI8960634885,Kevin,Martinez,Internal Medicine,OH,7,Other
+NPI7866912423,Wei,Murphy,Dermatology,FL,32,Other
+NPI3166686581,Jessica,Davis,Emergency Medicine,MD,9,Top 50
+NPI2356697496,Mary,Johnson,Rheumatology,WI,2,Other
+NPI3846094391,Linda,Kim,Dermatology,OH,18,Top 20
+NPI4581555096,John,Nguyen,Emergency Medicine,VA,12,Other
+NPI3212062088,Fatima,O'Brien,Internal Medicine,NY,8,Other
+NPI9990023937,John,O'Brien,Oncology,WA,17,Other
+NPI3066871025,Wei,Brown,Family Medicine,AZ,34,Other
+NPI8475713442,Kevin,Thompson,Cardiology,MA,23,Top 50
+NPI2432059723,Barbara,Kim,General Surgery,VA,29,Top 20
+NPI9822201626,Wei,Thompson,Oncology,MA,6,Top 50
+NPI3029711124,Raj,Smith,Oncology,VA,3,Other
+NPI4795196992,Richard,Johnson,Internal Medicine,IN,14,Top 50
+NPI6027076600,Jessica,Patel,Internal Medicine,NY,31,Other
+NPI2082571436,Michael,Singh,Gastroenterology,MI,35,Other
+NPI8351380606,Richard,Garcia,Cardiology,NC,4,Other
+NPI3472169793,Raj,Johnson,Internal Medicine,NJ,19,Other
+NPI5943429113,Lisa,Thomas,Family Medicine,FL,16,Top 20
+NPI5946704295,Michael,Martinez,Endocrinology,OH,30,Top 50
+NPI6423765870,Sarah,Clark,Psychiatry,WI,9,Other
+NPI1499373878,Priya,O'Brien,Endocrinology,FL,19,Top 50
+NPI2517568856,John,Martin,Internal Medicine,WA,34,Top 50
+NPI2450730186,Ahmed,Rodriguez,Internal Medicine,AZ,19,Top 50
+NPI3718461334,Michael,Miller,Dermatology,MI,31,Other
+NPI2304227411,William,Clark,Neurology,CA,25,Other
+NPI9297291886,Richard,Hernandez,Neurology,CA,24,Top 50
+NPI5616590054,Sarah,Moore,Neurology,IL,11,Top 50
+NPI6612176328,Anita,Johnson,General Surgery,FL,39,Other
+NPI4217393578,Michael,Garcia,Cardiology,TX,10,Top 50
+NPI3486215269,Linda,Garcia,Family Medicine,NY,37,Other
+NPI5528594531,Susan,Moore,Rheumatology,NY,39,Other
+NPI3648906773,Elena,Garcia,Family Medicine,IN,20,Other
+NPI4092813331,Kevin,Brown,Dermatology,WA,34,Other
+NPI5074757867,Jessica,Thompson,Endocrinology,CA,28,Other
+NPI5551603184,Wei,Murphy,General Surgery,WA,29,Top 50
+NPI9858826105,Anita,Williams,Dermatology,FL,3,Other
+NPI3009903293,Elena,Martin,Endocrinology,NC,6,Other
+NPI5391785483,Wei,Rodriguez,Pulmonology,CA,3,Other
+NPI2345605655,Thomas,Thomas,Psychiatry,TX,2,Other
+NPI4149993094,Michelle,Garcia,Dermatology,FL,33,Top 50
+NPI7455796467,Linda,Williams,Family Medicine,NC,7,Other
+NPI2570159293,David,Rodriguez,Endocrinology,MI,1,Top 50
+NPI6232161767,Priya,Thomas,Rheumatology,GA,37,Top 50
+NPI4750309211,James,Brown,Internal Medicine,WA,11,Other
+NPI1464215899,Sarah,Singh,Family Medicine,MA,32,Other
+NPI9397677172,Elena,Wang,Pulmonology,MA,38,Other
+NPI4722428262,Jennifer,Kim,Neurology,VA,21,Top 50
+NPI8055338820,Carlos,Williams,Internal Medicine,NJ,37,Top 20
+NPI4746821398,Richard,Williams,Family Medicine,MI,38,Other
+NPI9436242893,Elena,Miller,Internal Medicine,PA,6,Other
+NPI3614233009,Lisa,Jones,Cardiology,MI,6,Other
+NPI4710075846,Robert,Jackson,Pulmonology,CA,15,Other
+NPI7829778161,Ahmed,Taylor,Oncology,WI,22,Other
+NPI4093005837,Mary,Nguyen,Family Medicine,GA,31,Other
+NPI4279213641,Linda,Brown,Psychiatry,TN,8,Top 50
+NPI9953408559,Raj,Kim,Cardiology,WI,8,Other
+NPI6000530730,Raj,Rodriguez,Family Medicine,MI,12,Other
+NPI7204424082,Mary,Brown,Orthopedic Surgery,MO,11,Other
+NPI6791160106,Susan,White,Neurology,MI,37,Other
+NPI8451317323,John,Jackson,Emergency Medicine,FL,16,Other
+NPI8756425894,William,Williams,Psychiatry,CA,34,Top 50
+NPI6069305191,Michelle,Wilson,Oncology,FL,3,Other
+NPI3651004674,Jennifer,Chen,General Surgery,MD,4,Other
+NPI1205202228,Lisa,Murphy,Gastroenterology,MI,32,Other
+NPI6529629258,Carlos,Taylor,Orthopedic Surgery,OH,10,Top 50
+NPI8429219498,Raj,Brown,Emergency Medicine,NC,4,Top 50
+NPI5054858249,David,Davis,General Surgery,IL,24,Other
+NPI2482355264,Wei,Singh,Gastroenterology,MO,6,Other
+NPI3592738656,Joseph,Lee,Internal Medicine,WI,3,Other
+NPI5589900365,Patricia,Thomas,Orthopedic Surgery,TX,16,Top 50
+NPI8530130969,Michael,Smith,Oncology,MA,22,Other
+NPI2545778314,Ahmed,Chen,Rheumatology,OH,21,Other
+NPI6509348880,Wei,Hernandez,Neurology,CA,23,Top 50
+NPI7780317524,Sarah,Martin,Emergency Medicine,MD,1,Top 50
+NPI9424427682,Fatima,Singh,Emergency Medicine,TX,12,Other
+NPI2050333224,Wei,Martin,Family Medicine,PA,14,Top 50
+NPI9337524706,David,O'Brien,Orthopedic Surgery,CA,12,Other
+NPI6413207815,William,Martin,General Surgery,MI,22,Other
+NPI7900314286,Kevin,Anderson,Family Medicine,VA,9,Other
+NPI1483972386,Michelle,O'Brien,Internal Medicine,OH,25,Top 50
+NPI5555333400,James,White,Cardiology,TX,37,Other
+NPI6603667066,Fatima,Nguyen,General Surgery,FL,26,Other
+NPI3761504558,Patricia,Miller,Endocrinology,MD,16,Other
+NPI4884851872,Elena,Patel,Emergency Medicine,IN,17,Other
+NPI5988683216,Karen,Martin,Oncology,MD,23,Other
+NPI5972931457,Wei,Brown,Emergency Medicine,NJ,29,Other
+NPI1376753728,Priya,Davis,Family Medicine,NJ,12,Other
+NPI4955335898,Charles,O'Brien,General Surgery,TN,2,Other
+NPI2924363392,Linda,Lee,Internal Medicine,WA,28,Top 50
+NPI9250255701,Carlos,Chen,Rheumatology,NC,26,Top 50
+NPI9789219910,Thomas,Garcia,General Surgery,IL,4,Other
+NPI3696822066,Thomas,Miller,Pulmonology,MI,25,Top 50
+NPI2576668575,Barbara,Rodriguez,Dermatology,TX,3,Other
+NPI2975537358,James,Thomas,Cardiology,NY,26,Other
+NPI5299770297,Thomas,Murphy,Family Medicine,MA,30,Other
+NPI8870550391,David,Wang,Cardiology,MO,1,Top 20
+NPI5500325933,Lisa,Anderson,Internal Medicine,FL,29,Other
+NPI1498528555,David,Rodriguez,Neurology,TX,5,Top 20
+NPI1358970424,Michelle,Chen,Orthopedic Surgery,TX,11,Other
+NPI3046518510,Wei,Brown,General Surgery,TN,28,Other
+NPI8584941497,Jessica,Williams,Gastroenterology,OH,14,Other
+NPI6593325017,Priya,Brown,Orthopedic Surgery,OH,39,Other
+NPI6066620683,Lisa,Nguyen,General Surgery,CA,38,Other
+NPI3870726332,Charles,Jones,Cardiology,WI,39,Top 50
+NPI9364828644,Karen,Wilson,Internal Medicine,NC,5,Top 50
+NPI3980604204,Anita,Hernandez,Psychiatry,TN,7,Other
+NPI8514499713,Barbara,Jones,Dermatology,MA,8,Other
+NPI9063131660,Richard,Martinez,Cardiology,FL,23,Top 50
+NPI5350015118,Linda,Patel,Endocrinology,IN,17,Top 50
+NPI9048603424,Karen,Clark,Neurology,VA,30,Top 50
+NPI3491229586,Michelle,Moore,Cardiology,WA,12,Other
+NPI6925900834,Charles,Nguyen,Family Medicine,PA,8,Top 50
+NPI1791673736,Michael,Jackson,Gastroenterology,IN,26,Other
+NPI5265407926,Anita,Hernandez,Neurology,MD,25,Top 20
+NPI2955986219,Fatima,Jackson,Internal Medicine,NC,27,Other
+NPI1564869501,Jessica,Rodriguez,Dermatology,TX,13,Top 50
+NPI1033529572,Robert,Johnson,Family Medicine,IN,21,Other
+NPI3922769047,Richard,Jackson,Dermatology,MO,37,Top 50
+NPI6305775350,Carlos,Johnson,Family Medicine,NJ,24,Other
+NPI5097073128,Karen,Murphy,Psychiatry,VA,37,Other
+NPI3715923686,Jennifer,Thompson,Family Medicine,PA,17,Top 50
+NPI9920800275,Robert,Johnson,Family Medicine,TX,2,Other
+NPI9455725358,Michelle,Thompson,Gastroenterology,MD,30,Top 50
+NPI2130879761,Jessica,Hernandez,Internal Medicine,MI,18,Other
+NPI4735966839,Wei,Johnson,Internal Medicine,IL,2,Other
+NPI6839622405,David,Clark,Family Medicine,AZ,6,Top 50
+NPI7601417177,John,Taylor,Orthopedic Surgery,CA,13,Other
+NPI4297349393,Richard,Smith,General Surgery,TX,8,Top 20
+NPI7716536313,Wei,Thompson,Emergency Medicine,PA,27,Other
+NPI2117350116,David,Taylor,Family Medicine,MI,24,Other
+NPI3986313626,Charles,White,Family Medicine,GA,13,Other
+NPI7447898581,Jessica,Jones,Internal Medicine,NY,4,Top 50
+NPI6631145111,David,Wang,Psychiatry,GA,4,Other
+NPI8534891932,Linda,Thomas,Emergency Medicine,OH,37,Top 50
+NPI1421713203,Linda,Thomas,Orthopedic Surgery,NJ,14,Other
+NPI2569525460,Linda,Wang,Psychiatry,VA,5,Top 50
+NPI1436451240,Priya,Martin,Family Medicine,MO,28,Top 50
+NPI2729028018,David,Smith,Pulmonology,IN,34,Top 20
+NPI1038545295,Ahmed,Lee,Endocrinology,IL,5,Other
+NPI5537892714,Barbara,White,Internal Medicine,MD,37,Top 50
+NPI5754829559,Barbara,Martinez,Family Medicine,NJ,29,Other
+NPI6921026031,Anita,Garcia,Cardiology,NY,10,Other
+NPI4464212024,Raj,Johnson,Internal Medicine,OH,31,Top 50
+NPI1028869216,Richard,Singh,Cardiology,MA,17,Top 20
+NPI7065020388,William,Smith,Oncology,IN,25,Top 50
+NPI1488619789,Priya,Lee,Neurology,GA,5,Top 20
+NPI8795533876,John,Singh,Family Medicine,NY,10,Other
+NPI1203885889,Jessica,Anderson,Family Medicine,NY,31,Other
+NPI5774276108,Karen,Miller,Emergency Medicine,FL,32,Top 50
+NPI9054260940,Wei,Kim,General Surgery,AZ,1,Top 50
+NPI6152406181,Patricia,Thompson,Rheumatology,NJ,9,Other
+NPI6475750718,James,Smith,Family Medicine,MI,24,Top 50
+NPI7134497634,William,Lee,Gastroenterology,AZ,36,Other
+NPI2101679629,Patricia,Smith,Internal Medicine,IN,27,Other
+NPI7074343906,Sarah,Taylor,Family Medicine,TN,28,Top 50
+NPI8923193937,Anita,Martinez,Gastroenterology,FL,16,Other
+NPI9767987494,William,Singh,Rheumatology,VA,3,Other
+NPI4987467993,Jessica,Clark,Orthopedic Surgery,MO,30,Other
+NPI4100543664,Michael,Patel,Psychiatry,TN,32,Other
+NPI7779786539,Mary,Nguyen,Neurology,OH,18,Other
+NPI5885868592,Priya,Smith,Family Medicine,GA,20,Other
+NPI3315741889,Linda,Johnson,Internal Medicine,MO,10,Other
+NPI2549420964,Thomas,Chen,Family Medicine,CA,18,Other
+NPI2532072705,Wei,Thomas,Internal Medicine,NJ,10,Other
+NPI5132593328,Elena,Jackson,Gastroenterology,FL,17,Other
+NPI2531119650,Jennifer,Patel,Family Medicine,MO,6,Top 50
+NPI1177470496,Karen,Anderson,Rheumatology,CA,24,Other
+NPI1468798974,Anita,Patel,General Surgery,CA,10,Top 50
+NPI9368960894,Joseph,Kim,General Surgery,OH,29,Top 50
+NPI1656652070,Mary,Davis,Oncology,PA,21,Top 50
+NPI1658626215,Linda,Patel,Oncology,MI,35,Top 50
+NPI5060696009,Fatima,Garcia,Emergency Medicine,IL,9,Other
+NPI3205902540,Fatima,Martinez,Neurology,GA,11,Top 50
+NPI9664244668,Barbara,Chen,General Surgery,VA,10,Other
+NPI9198872554,Jennifer,Clark,Gastroenterology,VA,25,Other
+NPI4642689237,William,Johnson,General Surgery,MD,5,Top 50
+NPI5038583674,Linda,White,Internal Medicine,MI,27,Top 50
+NPI4376022877,Ahmed,Lee,Rheumatology,VA,32,Other
+NPI1340795049,Elena,Thompson,Internal Medicine,AZ,27,Other
+NPI3635621552,Mary,Chen,Neurology,NY,6,Top 50
+NPI2104061226,Ahmed,Williams,Emergency Medicine,AZ,20,Top 50
+NPI1921332970,Ahmed,Nguyen,Endocrinology,MO,21,Top 50
+NPI6047754155,Charles,Wilson,Oncology,OH,16,Top 20
+NPI1888883719,Raj,Jones,Cardiology,NY,19,Top 20
+NPI1926381914,Mary,Hernandez,Emergency Medicine,OH,30,Other
+NPI5324623432,Wei,Smith,Internal Medicine,IL,33,Top 20
+NPI4980541285,Patricia,Thompson,Cardiology,VA,12,Top 50
+NPI2238713066,Raj,Martin,Family Medicine,MO,13,Other
+NPI1040041223,Joseph,Jackson,Cardiology,VA,9,Other
+NPI2736769975,John,Smith,Oncology,FL,16,Other
+NPI3123030287,Ahmed,Nguyen,Endocrinology,OH,22,Other
+NPI8202235991,Ahmed,Johnson,Family Medicine,AZ,28,Other
+NPI9238945153,Jessica,Davis,Cardiology,OH,11,Top 20
+NPI4653499576,Barbara,Taylor,Internal Medicine,VA,9,Top 50
+NPI4645240538,James,Kim,Family Medicine,AZ,2,Other
+NPI7412331553,Anita,Thomas,Cardiology,OH,4,Other
+NPI6642298140,Jennifer,Wang,Orthopedic Surgery,WA,3,Other
+NPI2657261680,Elena,Rodriguez,Internal Medicine,GA,9,Top 50
+NPI1969202100,Karen,Nguyen,Family Medicine,FL,28,Other
+NPI4938507015,Wei,Johnson,Family Medicine,GA,31,Top 50
+NPI6083455267,Wei,Chen,Family Medicine,NC,38,Other
+NPI2248368428,Elena,Miller,Cardiology,CA,22,Other
+NPI3639461440,Mary,Murphy,Internal Medicine,MO,18,Top 50
+NPI3753486967,Michelle,Clark,Dermatology,NJ,36,Top 50
+NPI3351683808,Mary,Williams,Cardiology,CA,6,Other
+NPI5146851396,Michelle,Williams,Endocrinology,MO,25,Other
+NPI6877572258,Linda,Patel,Endocrinology,MO,32,Top 20
+NPI5584508952,Elena,Jones,Family Medicine,CA,20,Other
+NPI2813109060,John,Clark,Oncology,NY,11,Top 50
+NPI1926451423,Jessica,Martin,General Surgery,GA,25,Other
+NPI8396834165,Thomas,Lee,Dermatology,NJ,39,Top 50
+NPI5313742143,Kevin,Singh,Family Medicine,MA,10,Other
+NPI1559252657,Patricia,Miller,Family Medicine,NC,22,Top 50
+NPI3323093496,Mary,Martin,Internal Medicine,WA,2,Other
+NPI8236304004,Lisa,Clark,Oncology,CA,10,Top 50
+NPI7765536922,Mary,Smith,Orthopedic Surgery,AZ,30,Other
+NPI8882349695,Fatima,Garcia,Internal Medicine,MD,20,Other
+NPI6418790433,Mary,Jones,Family Medicine,NJ,8,Top 50
+NPI4806153408,Michelle,Anderson,Pulmonology,MI,14,Top 50
+NPI4839714977,Sarah,Brown,Cardiology,IL,5,Top 50
+NPI2746000400,Kevin,Garcia,Oncology,WI,31,Other
+NPI6857190653,Patricia,Singh,Orthopedic Surgery,CA,37,Other
+NPI6265618804,William,Hernandez,Internal Medicine,IL,5,Other
+NPI2393779702,Jessica,Anderson,Cardiology,FL,10,Other
+NPI8970966279,James,Thomas,Internal Medicine,MO,34,Other
+NPI4316213829,Patricia,Clark,Pulmonology,MI,35,Other
+NPI1447648889,Barbara,Moore,Cardiology,MD,30,Top 50
+NPI3950928286,Ahmed,Moore,Internal Medicine,AZ,28,Top 20
+NPI8828710431,Priya,O'Brien,Cardiology,VA,34,Top 50
+NPI9252609271,John,Johnson,Internal Medicine,NJ,15,Other
+NPI5413585754,Mary,Moore,Psychiatry,PA,35,Top 50
+NPI9607059459,Lisa,Nguyen,Internal Medicine,VA,35,Other
+NPI8877176282,David,Jackson,Psychiatry,AZ,9,Top 50
+NPI8427076453,Fatima,Murphy,Psychiatry,WI,3,Other
+NPI8737390581,William,Murphy,Dermatology,NJ,21,Top 20
+NPI4436878709,David,Anderson,Cardiology,MD,30,Other
+NPI7808220466,Michael,Wang,Dermatology,MD,34,Top 20
+NPI6196051027,Linda,Davis,Psychiatry,NJ,6,Top 50
+NPI7477156014,Priya,Davis,Internal Medicine,NC,15,Top 20
+NPI2600074968,Joseph,Clark,General Surgery,FL,30,Other
+NPI7582545205,Lisa,Smith,Dermatology,IL,3,Other
+NPI9618331906,John,Anderson,Family Medicine,MO,29,Top 20
+NPI3723969901,Thomas,Thompson,Pulmonology,FL,12,Other
+NPI9875451914,Jessica,Thomas,Oncology,GA,1,Other
+NPI4405384132,Anita,Singh,Psychiatry,AZ,10,Other
+NPI2797511472,Richard,Davis,Emergency Medicine,PA,29,Other
+NPI2010576068,Patricia,Martin,Family Medicine,WI,34,Top 50
+NPI8064657218,Wei,Brown,General Surgery,WA,4,Other
+NPI5993428602,Robert,Miller,Family Medicine,CA,19,Other
+NPI3764181642,Anita,Garcia,General Surgery,PA,8,Other
+NPI6476053327,Susan,Nguyen,Psychiatry,MA,27,Top 50
+NPI3988910690,Fatima,Miller,Internal Medicine,MO,31,Other
+NPI5035219815,Lisa,Patel,Family Medicine,MD,38,Top 50
+NPI8763977130,Jessica,Anderson,Family Medicine,MO,14,Other
+NPI7013498291,Karen,Martin,Cardiology,TX,12,Top 20
+NPI7861616556,Jennifer,Murphy,Cardiology,MA,13,Top 50
+NPI6251441962,John,Singh,Family Medicine,FL,30,Other
+NPI9922582438,Ahmed,Smith,Cardiology,TX,18,Other
+NPI3172690596,Kevin,Chen,Internal Medicine,AZ,1,Top 20
+NPI3360620446,Elena,Rodriguez,Orthopedic Surgery,MI,37,Other
+NPI1833030448,Barbara,Patel,Orthopedic Surgery,WA,5,Other
+NPI5986175518,David,Garcia,Orthopedic Surgery,MO,37,Other
+NPI6520233127,David,White,Family Medicine,TX,7,Other
+NPI7533654155,Priya,White,Gastroenterology,NJ,21,Top 20
+NPI4019013333,Charles,White,Psychiatry,IN,13,Top 50
+NPI1110311216,Fatima,Thomas,Internal Medicine,NC,27,Other
+NPI6690065833,Kevin,Jackson,Internal Medicine,NJ,16,Top 50
+NPI9988259431,Susan,White,Orthopedic Surgery,MI,15,Other
+NPI3650944183,Lisa,Hernandez,Internal Medicine,MD,19,Other
+NPI2655410072,Sarah,Chen,Endocrinology,CA,38,Other
+NPI3535902620,Kevin,Kim,Emergency Medicine,MO,10,Top 50
+NPI4828739272,David,Martinez,Cardiology,IN,9,Other
+NPI3258216360,Jennifer,Thompson,Cardiology,IN,3,Other
+NPI4122640227,Susan,Nguyen,Emergency Medicine,NC,29,Top 20
+NPI6743860646,Charles,Moore,Psychiatry,NJ,27,Top 50
+NPI4105251881,Kevin,Kim,Internal Medicine,GA,24,Top 50
+NPI4564530502,Carlos,Brown,Gastroenterology,IL,1,Top 50
+NPI1360281365,James,Taylor,Gastroenterology,MO,31,Other
+NPI9261482513,Sarah,Kim,Rheumatology,NJ,32,Other
+NPI4661973638,Robert,Murphy,Psychiatry,MA,37,Top 50
+NPI3953291643,David,White,Family Medicine,FL,37,Other
+NPI1778357766,Kevin,White,Cardiology,TN,11,Top 50
+NPI6707648937,Michelle,Anderson,Psychiatry,AZ,28,Top 50
+NPI8774424551,Robert,Kim,Family Medicine,WI,16,Top 20
+NPI1370378800,Robert,Anderson,Neurology,FL,24,Other
+NPI2307452206,Wei,Johnson,Dermatology,NJ,13,Other
+NPI2317508459,Richard,Davis,Cardiology,NJ,26,Other
+NPI6420473697,Richard,Thompson,Psychiatry,NJ,38,Other
+NPI9291074523,Raj,Rodriguez,Internal Medicine,TX,26,Top 50
+NPI4939915303,Anita,Moore,Gastroenterology,MI,36,Other
+NPI4094258033,Anita,Singh,Family Medicine,IL,37,Top 50
+NPI7892566169,Fatima,Chen,Psychiatry,WA,5,Top 50
+NPI7683121555,Michelle,Martin,Rheumatology,PA,38,Other
+NPI3220805253,Priya,Wang,Family Medicine,NC,32,Top 20
+NPI2447437260,Raj,Thomas,Neurology,WA,17,Top 50
+NPI4220290291,Thomas,Hernandez,Orthopedic Surgery,TX,24,Top 50
+NPI7980430529,Mary,Nguyen,Psychiatry,TN,25,Top 50
+NPI7255570508,Carlos,White,General Surgery,MA,31,Other
+NPI6992683356,Anita,Jackson,Emergency Medicine,TX,32,Top 50
+NPI8464857040,Barbara,Thomas,Family Medicine,TX,4,Other
+NPI3494172810,Richard,Clark,Endocrinology,MO,1,Other
+NPI4057153528,Karen,Johnson,Cardiology,IL,10,Other
+NPI1381055055,Lisa,Johnson,General Surgery,MO,21,Other
+NPI8818711981,Wei,Moore,Endocrinology,MI,34,Other
+NPI6241867613,Susan,Johnson,Family Medicine,OH,26,Top 50
+NPI3683100626,Elena,Anderson,Internal Medicine,IL,6,Top 50
+NPI1624748782,Carlos,Lee,Gastroenterology,AZ,28,Other
+NPI7510685527,Kevin,Thomas,Family Medicine,FL,19,Other
+NPI7738637675,Karen,Miller,Orthopedic Surgery,NC,15,Other
+NPI6995607868,John,Wilson,Internal Medicine,OH,31,Top 20
+NPI2834028738,Elena,Thompson,Emergency Medicine,NY,12,Other
+NPI9218944525,John,Rodriguez,Internal Medicine,GA,25,Other
+NPI7778422170,Jennifer,Chen,Internal Medicine,NJ,8,Other
+NPI6919806911,William,Martin,Dermatology,AZ,15,Top 50
+NPI6858495310,Jennifer,Jones,Pulmonology,TX,22,Top 50
+NPI9139219299,Priya,Davis,Internal Medicine,MO,25,Other
+NPI9354764196,Jessica,Hernandez,Oncology,MO,36,Other
+NPI6360736761,Michael,Davis,Orthopedic Surgery,AZ,12,Top 20
+NPI4750024698,James,Patel,Gastroenterology,MD,35,Top 20
+NPI4273605815,Michael,Anderson,Family Medicine,NC,32,Other
+NPI8371709568,Wei,Singh,Endocrinology,IN,15,Other
+NPI6801448057,Fatima,Wilson,Orthopedic Surgery,MA,6,Other
+NPI1695394272,William,Moore,Orthopedic Surgery,VA,11,Other
+NPI2279674116,John,Kim,General Surgery,NY,26,Top 50
+NPI9101673055,Thomas,Miller,Psychiatry,VA,31,Top 50
+NPI8960483332,Fatima,Nguyen,Internal Medicine,MD,24,Other
+NPI9566492037,John,Lee,Gastroenterology,WI,29,Other
+NPI4850658705,Fatima,White,Gastroenterology,NC,4,Top 50
+NPI8056548167,Jennifer,Hernandez,General Surgery,PA,20,Other
+NPI8454025245,Linda,Rodriguez,Internal Medicine,MA,35,Top 50
+NPI3841272152,Charles,Chen,Internal Medicine,TX,16,Top 50
+NPI2308039400,Mary,Garcia,Orthopedic Surgery,NY,36,Other
+NPI9973237253,Barbara,Martin,Cardiology,VA,5,Top 20
+NPI1271972833,Robert,O'Brien,Emergency Medicine,WI,39,Top 20
+NPI6376023267,Michael,Wilson,Family Medicine,OH,31,Other
+NPI6851910466,Fatima,Martin,Orthopedic Surgery,NC,25,Top 50
+NPI7136104077,Michael,Nguyen,Gastroenterology,OH,25,Top 50
+NPI3300649695,Mary,Wilson,Family Medicine,NC,37,Other
+NPI7494213197,Michael,Jackson,Family Medicine,CA,15,Top 50
+NPI2947596069,John,Martin,Psychiatry,VA,7,Other
+NPI8461344300,Charles,Garcia,Psychiatry,VA,36,Top 50
+NPI2972050066,Michelle,Garcia,Family Medicine,OH,5,Top 20
+NPI7270354260,Jennifer,Martin,Psychiatry,IL,26,Other
+NPI8050721371,Priya,Garcia,Pulmonology,TN,11,Top 50
+NPI2700511753,David,Rodriguez,Oncology,NY,37,Other
+NPI3141878388,John,Jackson,Internal Medicine,CA,38,Other
+NPI8011933647,Wei,Kim,Family Medicine,CA,19,Other
+NPI1773990744,Michael,Taylor,Family Medicine,MO,21,Top 50
+NPI2716848572,Sarah,Wilson,Internal Medicine,GA,18,Top 50
+NPI5099778155,Sarah,Moore,Internal Medicine,FL,17,Other
+NPI9371637357,Karen,Kim,Orthopedic Surgery,MO,37,Other
+NPI6056900513,Robert,Taylor,Family Medicine,FL,12,Other
+NPI4489100633,Linda,Wilson,Emergency Medicine,OH,38,Other
+NPI9805331999,Ahmed,Jones,Internal Medicine,CA,26,Top 50
+NPI5173401755,Anita,Martin,Internal Medicine,AZ,38,Top 20
+NPI4903614762,James,Patel,General Surgery,AZ,24,Other
+NPI4704798851,Richard,Jackson,Gastroenterology,TN,32,Other
+NPI3809620653,Raj,Davis,Family Medicine,IL,20,Top 50
+NPI3931253287,William,Davis,Internal Medicine,OH,19,Other
+NPI7190533538,Jessica,Taylor,Internal Medicine,MD,11,Other
+NPI1367520376,Anita,Anderson,Endocrinology,IN,9,Top 50
+NPI7136350530,Michelle,Miller,Oncology,CA,2,Top 50
+NPI2810840482,Lisa,Rodriguez,Family Medicine,AZ,15,Other
+NPI4457872028,Wei,Martinez,Cardiology,IN,39,Other
+NPI2318850752,Charles,Davis,Oncology,VA,37,Other
+NPI5974759396,William,Thompson,Emergency Medicine,WA,27,Top 50
+NPI7564154003,Raj,Wang,Neurology,CA,15,Other
+NPI4191900184,Mary,Hernandez,Endocrinology,CA,21,Other
+NPI2470749197,Mary,Patel,Internal Medicine,CA,30,Other
+NPI3038550237,Charles,Williams,Family Medicine,NY,1,Top 50
+NPI8363016265,Elena,Jackson,Family Medicine,WI,36,Top 20
+NPI3408838615,Carlos,Johnson,General Surgery,WA,34,Other
+NPI7972323336,Wei,Jones,Gastroenterology,TN,38,Top 50
+NPI3980794660,Susan,Lee,Gastroenterology,IL,4,Top 50
+NPI2698592988,David,Miller,Emergency Medicine,MD,37,Other
+NPI7545777035,Richard,Johnson,Emergency Medicine,NY,24,Top 50
+NPI5216905264,Linda,Garcia,Emergency Medicine,MD,22,Other
+NPI1281495261,Richard,Chen,Cardiology,CA,8,Other
+NPI9639481773,Patricia,Lee,Internal Medicine,CA,20,Other
+NPI2329781005,Barbara,Taylor,Family Medicine,TX,15,Top 50
+NPI4180662787,Kevin,Clark,Rheumatology,TN,39,Other
+NPI4463151714,Priya,Taylor,Internal Medicine,IL,14,Other
+NPI5404869092,Robert,Murphy,Dermatology,MI,9,Other
+NPI8068996200,William,Anderson,Psychiatry,MI,37,Top 50
+NPI1054812517,Linda,Smith,Rheumatology,TN,8,Top 50
+NPI9392248461,William,Brown,Internal Medicine,OH,36,Other
+NPI6813905141,Wei,Wilson,Family Medicine,CA,38,Top 20
+NPI9555839911,Raj,Garcia,Internal Medicine,GA,12,Other
+NPI8356505835,Priya,Jones,Dermatology,IL,27,Top 20
+NPI9350543961,Joseph,Taylor,Psychiatry,MA,32,Top 20
+NPI6409004957,Robert,Clark,Orthopedic Surgery,TN,21,Other
+NPI4215780845,Robert,Miller,Family Medicine,TX,28,Other
+NPI4986226567,Carlos,Davis,Family Medicine,TN,6,Other
+NPI6922290792,Wei,Clark,Family Medicine,TX,21,Other
+NPI4842386737,Sarah,Miller,General Surgery,WA,21,Other
+NPI7585055050,Karen,Wang,General Surgery,GA,23,Other
+NPI1826632144,Elena,Thompson,Internal Medicine,OH,37,Top 50
+NPI8469879840,Carlos,O'Brien,Pulmonology,MI,33,Top 50
+NPI2837697756,John,Martin,Internal Medicine,OH,24,Top 50
+NPI9495528484,Susan,Lee,Gastroenterology,TN,16,Other
+NPI2399912199,Mary,Miller,Internal Medicine,WI,16,Top 50
+NPI2162477764,Susan,Lee,Family Medicine,IN,1,Other
+NPI8306884994,Lisa,Patel,Dermatology,NC,22,Other
+NPI8368316448,Michael,Clark,Internal Medicine,NJ,10,Other
+NPI7648834778,Robert,Williams,Family Medicine,NC,35,Other
+NPI9644774174,Joseph,Jones,Oncology,TN,31,Other
+NPI3434856657,Sarah,Smith,Internal Medicine,VA,36,Other
+NPI8439838650,Priya,Chen,Orthopedic Surgery,MI,39,Top 50
+NPI4168364770,James,Williams,Dermatology,NC,16,Other
+NPI5836587629,Linda,O'Brien,Gastroenterology,GA,17,Top 50
+NPI5010400266,Fatima,Anderson,Family Medicine,VA,24,Other
+NPI1052650204,Wei,Wilson,Rheumatology,AZ,17,Top 50
+NPI6170159741,Raj,Clark,Family Medicine,NC,11,Top 50
+NPI7727552989,Carlos,Kim,Internal Medicine,IN,28,Top 50
+NPI2570971452,Elena,Martin,Internal Medicine,IN,18,Other
+NPI9384902756,Sarah,Murphy,Pulmonology,NC,37,Other
+NPI5773595854,Kevin,Nguyen,Gastroenterology,MD,9,Top 50
+NPI2604214028,Richard,White,General Surgery,NY,18,Top 50
+NPI6813528137,Anita,Martinez,Endocrinology,MD,21,Other
+NPI2727304376,Susan,Clark,Endocrinology,IL,36,Other
+NPI1571800134,Jessica,Kim,Rheumatology,VA,23,Other
+NPI7167837181,Wei,Rodriguez,Rheumatology,IL,3,Top 50
+NPI1996253949,Susan,Rodriguez,Oncology,NC,14,Other
+NPI1955957035,Robert,Martin,Internal Medicine,OH,35,Other
+NPI7659492067,Raj,Anderson,Internal Medicine,MA,11,Other
+NPI1496820098,Jessica,Rodriguez,Emergency Medicine,TX,14,Other
+NPI8287922610,Anita,Clark,Endocrinology,IN,6,Other
+NPI8165338827,Susan,Brown,Emergency Medicine,MD,29,Other
+NPI2272540852,Michelle,White,Internal Medicine,VA,6,Top 50
+NPI5665425824,Charles,Thompson,Rheumatology,NJ,15,Top 20
+NPI1869629418,Fatima,Nguyen,Internal Medicine,AZ,28,Top 50
+NPI6693140977,Ahmed,Clark,Family Medicine,NY,35,Top 20
+NPI1566370116,Michael,Davis,Cardiology,MA,9,Top 50
+NPI9500327705,Carlos,Clark,Internal Medicine,PA,13,Other
+NPI2869576618,Kevin,White,Pulmonology,AZ,5,Other
+NPI7146051902,Lisa,Williams,Family Medicine,OH,18,Top 20
+NPI2154622819,Kevin,Jackson,Psychiatry,MA,39,Top 20
+NPI2886368034,Elena,Jones,Oncology,TN,12,Other
+NPI5058546839,Lisa,Rodriguez,Family Medicine,PA,11,Other
+NPI6157865271,Joseph,Nguyen,Rheumatology,WA,16,Top 50
+NPI9989769162,Elena,O'Brien,Internal Medicine,MI,35,Other
+NPI1233336052,Jennifer,Thompson,Emergency Medicine,IL,22,Top 50
+NPI1002829776,Thomas,Taylor,Dermatology,VA,24,Top 20
+NPI4153303852,Carlos,Thomas,Orthopedic Surgery,WI,31,Other
+NPI4295407309,Kevin,Rodriguez,Oncology,CA,28,Other
+NPI8954535124,William,Jones,Internal Medicine,WI,24,Top 50
+NPI9213242928,John,Murphy,Pulmonology,MO,22,Other
+NPI8924724786,David,Thomas,Family Medicine,NJ,21,Other
+NPI2288608754,Elena,Lee,Cardiology,WA,8,Top 20
+NPI4708943516,Sarah,Patel,Family Medicine,GA,17,Other
+NPI7712966459,Mary,Williams,General Surgery,FL,34,Top 50
+NPI3813499609,Patricia,Jones,Psychiatry,VA,2,Other
+NPI6969142255,David,Jones,General Surgery,IN,33,Other
+NPI3134285768,David,Chen,General Surgery,PA,23,Top 50
+NPI3910773321,Robert,Williams,Internal Medicine,MA,14,Top 50
+NPI8743866843,Joseph,Thompson,Pulmonology,MA,5,Other
+NPI3254581324,Joseph,Brown,Oncology,TN,30,Top 50
+NPI9678916780,Jennifer,Chen,Neurology,OH,1,Other
+NPI3756336048,Michael,Clark,Cardiology,GA,22,Top 50
+NPI1211752988,Lisa,Thomas,Emergency Medicine,NC,7,Other
+NPI3294108133,Kevin,Miller,Family Medicine,MO,36,Other
+NPI2540844480,Michelle,Hernandez,Cardiology,MD,8,Top 50
+NPI5561442695,Thomas,Patel,Oncology,NC,32,Other
+NPI2014444596,Mary,Kim,Internal Medicine,WI,23,Other
+NPI6634439894,Raj,White,Internal Medicine,VA,2,Other
+NPI8874091634,Kevin,Lee,Neurology,GA,29,Other
+NPI4262669935,William,Thompson,Family Medicine,CA,35,Other
+NPI2516434473,Richard,Miller,Pulmonology,WA,9,Other
+NPI4600224961,James,Miller,Family Medicine,WA,38,Other
+NPI8073701392,Carlos,O'Brien,Orthopedic Surgery,WI,32,Other
+NPI6323389066,Fatima,Lee,Oncology,MA,29,Top 50
+NPI1910288919,James,Singh,Neurology,CA,14,Other
+NPI5834684388,Priya,Thompson,Psychiatry,VA,5,Other
+NPI5212768432,Richard,Hernandez,Oncology,MA,17,Other
+NPI3944010303,Thomas,Lee,Emergency Medicine,MI,32,Top 50
+NPI1991445364,Michael,Patel,Family Medicine,NC,23,Top 50
+NPI9830007419,Carlos,Garcia,Internal Medicine,IN,26,Top 50
+NPI2584389878,Richard,Hernandez,Neurology,WA,31,Other
+NPI2734686016,Elena,Kim,Dermatology,AZ,14,Other
+NPI2310244228,Robert,Williams,Cardiology,MI,2,Top 50
+NPI6131737347,Karen,Williams,Oncology,IL,35,Top 50
+NPI4993026169,Barbara,Jones,Gastroenterology,NJ,24,Other
+NPI3246014637,Kevin,Lee,General Surgery,WI,23,Other
+NPI4864810446,Thomas,Davis,Emergency Medicine,WA,23,Other
+NPI7061696658,Priya,Hernandez,Rheumatology,MA,34,Top 20
+NPI3535304783,John,Jones,Neurology,FL,31,Top 20
+NPI9237211983,Wei,Davis,Family Medicine,WI,27,Top 20
+NPI3757116134,Patricia,Smith,Emergency Medicine,PA,31,Top 50
+NPI2783611277,David,Wang,Family Medicine,WI,12,Other
+NPI9591110620,Michael,Hernandez,Orthopedic Surgery,NC,28,Top 50
+NPI8295045490,James,Garcia,Family Medicine,MD,39,Top 50
+NPI4088238623,Karen,Jackson,Rheumatology,MO,10,Top 20
+NPI8572886659,Linda,O'Brien,Orthopedic Surgery,TN,23,Top 50
+NPI5669328241,Sarah,Wang,Endocrinology,MD,27,Top 20
+NPI4120772484,Ahmed,Murphy,Gastroenterology,WA,21,Top 50
+NPI8556504305,Jennifer,Thomas,Family Medicine,IN,38,Top 20
+NPI7769485601,Priya,Anderson,Neurology,NY,16,Other
+NPI3680873583,William,Martinez,Family Medicine,TX,9,Other
+NPI6460106636,Barbara,Martinez,Family Medicine,NJ,6,Other
+NPI4324512011,Karen,O'Brien,Oncology,IN,34,Top 20
+NPI1009467753,Charles,Jones,Internal Medicine,TN,27,Other
+NPI9656341671,Lisa,Singh,Internal Medicine,NJ,23,Other
+NPI5946661684,Jennifer,O'Brien,Neurology,NJ,17,Other
+NPI6385893414,Karen,Singh,Neurology,WA,16,Top 20
+NPI6399022830,Linda,Thompson,Neurology,MO,37,Other
+NPI5955773146,William,Singh,Cardiology,IN,27,Other
+NPI3610430602,Kevin,Smith,Family Medicine,FL,38,Other
+NPI9744185123,Patricia,Wang,Internal Medicine,VA,32,Other
+NPI6595015712,Richard,Jackson,General Surgery,GA,30,Other
+NPI7038292244,Jessica,Rodriguez,Dermatology,TN,22,Other
+NPI5093134815,Linda,Williams,Family Medicine,NJ,10,Top 20
+NPI3590752604,Fatima,O'Brien,Neurology,WI,26,Top 50
+NPI1579140839,Joseph,Lee,Internal Medicine,NC,28,Other
+NPI4152071768,Priya,Brown,Family Medicine,AZ,21,Top 50
+NPI2584876863,Susan,Jackson,Internal Medicine,FL,1,Top 50
+NPI6958794413,Raj,Johnson,Family Medicine,MD,38,Top 50
+NPI8911034962,Priya,Williams,Neurology,NY,33,Top 50
+NPI3724793723,Barbara,Jackson,Pulmonology,GA,14,Top 20
+NPI3995943628,Kevin,Wang,Internal Medicine,IN,20,Other
+NPI7033280533,Elena,Brown,Rheumatology,WI,5,Other
+NPI2343442908,Karen,Davis,Orthopedic Surgery,MI,37,Other
+NPI9364936839,James,Taylor,Emergency Medicine,MI,9,Top 50
+NPI4274621028,Karen,Martin,Psychiatry,CA,15,Other
+NPI1910795013,Wei,Smith,Family Medicine,WI,17,Other
+NPI2572156044,David,White,Psychiatry,CA,11,Other
+NPI9394714683,Robert,Moore,Family Medicine,CA,25,Top 50
+NPI3224073595,Thomas,Rodriguez,Emergency Medicine,MI,39,Top 20
+NPI6960419233,Carlos,Martinez,Family Medicine,CA,34,Other
+NPI2405487011,Barbara,Moore,Orthopedic Surgery,NY,21,Other
+NPI2746915230,Jessica,Williams,Cardiology,WA,6,Top 20
+NPI8913143969,James,O'Brien,Family Medicine,MA,34,Other
+NPI2332298980,Priya,Singh,Gastroenterology,IL,11,Other
+NPI1168755280,Elena,Anderson,Psychiatry,TN,36,Top 50
+NPI5511098705,Fatima,Hernandez,Oncology,WA,16,Other
+NPI8764541318,Richard,Singh,Pulmonology,PA,21,Top 50
+NPI3933919408,Mary,Wilson,Dermatology,MA,18,Top 20
+NPI2153460435,Joseph,Davis,Family Medicine,VA,18,Other
+NPI9840077465,Kevin,Davis,Rheumatology,IN,7,Other
+NPI7090647664,John,Kim,Endocrinology,NY,22,Other
+NPI8656215686,Michael,Miller,Neurology,PA,16,Other
+NPI7769244450,Elena,Williams,Family Medicine,OH,34,Other
+NPI7284180465,Karen,Jones,Internal Medicine,OH,19,Other
+NPI4461076603,Jennifer,Clark,Pulmonology,MO,38,Other
+NPI3919059938,James,Murphy,Pulmonology,MA,12,Top 50
+NPI7452627362,Richard,Rodriguez,Dermatology,NJ,13,Other
+NPI7450417072,Karen,Wilson,Emergency Medicine,NJ,2,Other
+NPI9555295455,Elena,Hernandez,Orthopedic Surgery,MO,29,Other
+NPI6117938360,Raj,Moore,General Surgery,NC,3,Top 50
+NPI3651589951,Jessica,Jackson,General Surgery,PA,12,Top 50
+NPI5405759193,Richard,Smith,Oncology,FL,36,Other
+NPI6523424349,Anita,Lee,Oncology,OH,24,Other
+NPI4840568195,Fatima,Johnson,Internal Medicine,AZ,22,Top 50
+NPI8120198109,Michael,Wilson,Neurology,MI,32,Other
+NPI6261518909,Wei,Wilson,Family Medicine,NC,31,Other
+NPI1084921548,Priya,Patel,Family Medicine,MI,35,Other
+NPI6128558993,Linda,Murphy,Psychiatry,WI,26,Top 50
+NPI6702434072,Michelle,Patel,Family Medicine,WI,18,Other
+NPI9237351262,William,Hernandez,Internal Medicine,NY,6,Top 20
+NPI4723495062,Thomas,Jackson,General Surgery,FL,15,Top 50
+NPI6170208932,Joseph,Jackson,Dermatology,PA,28,Other
+NPI5274977055,Wei,Jones,Internal Medicine,MO,10,Top 50
+NPI5784907855,Anita,Rodriguez,Cardiology,MI,27,Top 20
+NPI1605736635,Susan,O'Brien,Family Medicine,MO,6,Top 50
+NPI9075553006,Susan,Davis,General Surgery,WA,3,Other
+NPI9193711057,Ahmed,Brown,Dermatology,VA,15,Other
+NPI5932536488,Kevin,Jones,Internal Medicine,IL,9,Top 50
+NPI6008999640,Anita,Thompson,General Surgery,OH,35,Other
+NPI1518004323,Ahmed,Smith,Internal Medicine,FL,15,Other
+NPI6381554617,Priya,Brown,Family Medicine,NJ,17,Top 50
+NPI4862366108,Fatima,White,Emergency Medicine,IL,16,Other
+NPI7381392671,Kevin,Jones,Internal Medicine,IL,13,Top 50
+NPI1424124249,James,Williams,Internal Medicine,CA,36,Other
+NPI7397989143,Karen,Smith,Family Medicine,TN,29,Top 20
+NPI3582044414,Mary,Kim,Psychiatry,MD,7,Top 20
+NPI6865347973,Karen,Anderson,Pulmonology,MI,9,Top 20
+NPI6644133777,Susan,Wilson,Emergency Medicine,NJ,4,Top 20
+NPI3041573361,Barbara,White,Cardiology,MD,10,Other
+NPI4964071106,Raj,Garcia,Internal Medicine,NJ,26,Other
+NPI8520699330,Priya,Jackson,General Surgery,WA,37,Other
+NPI6450324791,Karen,Moore,Family Medicine,NC,19,Other
+NPI1618644717,Raj,Patel,Gastroenterology,NJ,4,Other
+NPI4986179481,John,Thompson,Neurology,NJ,2,Top 50
+NPI3805943128,Lisa,Patel,Internal Medicine,MA,17,Other
+NPI6774811109,Robert,Miller,Dermatology,WA,11,Top 50
+NPI6531075471,Michael,Jones,Internal Medicine,NJ,23,Other
+NPI1093582913,Jennifer,Martin,Family Medicine,TX,5,Other
+NPI6469259584,Thomas,Johnson,Rheumatology,MD,9,Top 50
+NPI7613646885,Charles,Hernandez,Endocrinology,MO,22,Other
+NPI7918570290,Ahmed,Thompson,Orthopedic Surgery,NY,11,Other
+NPI1530781933,Jessica,Wang,Neurology,IL,15,Other
+NPI3732925753,Kevin,White,Emergency Medicine,WI,9,Top 50
+NPI4791462044,Susan,Clark,Emergency Medicine,OH,3,Other
+NPI2617945369,Robert,Martin,Endocrinology,IN,14,Other
+NPI4786604840,Mary,Hernandez,Internal Medicine,TN,13,Top 50
+NPI1640165822,Patricia,Davis,Orthopedic Surgery,MO,36,Other
+NPI2018955546,Jessica,Patel,Emergency Medicine,CA,35,Top 20
+NPI7018252864,Richard,Wang,Family Medicine,MI,17,Other
+NPI3363152150,Elena,Martinez,Oncology,VA,12,Top 20
+NPI7402652626,Patricia,Williams,Family Medicine,IN,17,Top 50
+NPI1432976752,Linda,Smith,Cardiology,PA,24,Top 50
+NPI6064327476,Michelle,Thompson,Neurology,OH,16,Other
+NPI4523037971,James,White,Family Medicine,NY,30,Other
+NPI8172742526,Richard,Brown,General Surgery,TN,38,Top 20
+NPI8055564221,Jennifer,Smith,Dermatology,WI,16,Top 50
+NPI4380036781,Thomas,White,Dermatology,FL,5,Other
+NPI6604426126,Michelle,Taylor,Family Medicine,PA,5,Other
+NPI3047939819,Michael,Thomas,Family Medicine,OH,35,Top 20
+NPI6223661525,Susan,Davis,General Surgery,MO,17,Other
+NPI1731382245,Jessica,Kim,General Surgery,NC,13,Top 50
+NPI4911438556,Fatima,Nguyen,Endocrinology,IL,25,Other
+NPI2644549133,Michelle,Johnson,Gastroenterology,OH,38,Top 50
+NPI8950430637,John,Williams,Internal Medicine,VA,17,Other
+NPI5004107361,Joseph,Martin,Gastroenterology,GA,13,Other
+NPI6316963737,Ahmed,Thompson,Internal Medicine,FL,34,Top 50
+NPI4243436742,James,Jones,Internal Medicine,IN,4,Other
+NPI3598669316,Carlos,Jones,Rheumatology,NC,33,Other
+NPI2826278047,Linda,Patel,Cardiology,IL,21,Other
+NPI9206844243,Sarah,Hernandez,Cardiology,MA,1,Other
+NPI8195192041,Michelle,Brown,Cardiology,MA,9,Other
+NPI2199350299,Lisa,Thompson,Oncology,NY,27,Other
+NPI7720523885,Michelle,Williams,General Surgery,TX,30,Top 20
+NPI4766776992,Charles,Miller,Cardiology,CA,8,Top 20
+NPI1138569894,Michael,Kim,Neurology,TN,26,Top 50
+NPI5755305882,Wei,Miller,Dermatology,WA,39,Other
+NPI2170417960,Charles,Johnson,Internal Medicine,TN,27,Top 50
+NPI2889408817,Barbara,Rodriguez,Internal Medicine,WA,28,Top 50
+NPI7264368652,John,Miller,Dermatology,NC,8,Other
+NPI3314278334,Lisa,Jackson,Dermatology,VA,25,Top 50
+NPI9026993815,Karen,Wang,Rheumatology,MA,28,Top 50
+NPI6914527825,Fatima,Clark,Dermatology,GA,5,Other
+NPI8490551363,Patricia,Wang,Internal Medicine,MD,13,Top 50
+NPI6536705844,Thomas,Anderson,Family Medicine,MO,35,Other
+NPI8819646318,Carlos,Singh,Orthopedic Surgery,IN,39,Top 50
+NPI4255162074,Raj,Smith,Family Medicine,WI,7,Other
+NPI5942265191,Kevin,Martinez,General Surgery,GA,29,Other
+NPI5643013603,Michael,Garcia,Endocrinology,FL,20,Top 50
+NPI9134116371,Jennifer,Jackson,General Surgery,MI,24,Top 20
+NPI2484238677,Karen,Murphy,Oncology,MA,20,Other
+NPI6202546868,Jessica,Chen,Family Medicine,TN,34,Top 50
+NPI7789880747,Linda,Clark,Internal Medicine,GA,18,Top 50
+NPI4330447844,Patricia,Jones,Internal Medicine,IL,23,Other
+NPI8808233720,Robert,Nguyen,General Surgery,NC,27,Other
+NPI4357132903,David,Kim,Internal Medicine,IN,22,Other
+NPI2559778838,Ahmed,Hernandez,Internal Medicine,TX,35,Top 50
+NPI6256435198,Mary,Williams,Internal Medicine,OH,10,Top 50
+NPI4785112089,Patricia,Brown,Internal Medicine,PA,37,Other
+NPI1136710942,Linda,O'Brien,Dermatology,IN,27,Top 50
+NPI1628547332,Raj,Wilson,Family Medicine,MI,38,Top 50
+NPI2757494621,Michelle,White,Emergency Medicine,TX,15,Top 20
+NPI7923969634,Jessica,Rodriguez,Internal Medicine,IL,19,Top 20
+NPI9028355643,Mary,Moore,Neurology,CA,2,Other
+NPI5910767865,James,Miller,Oncology,MI,37,Top 50
+NPI1950089162,Elena,Moore,Family Medicine,WI,32,Other
+NPI5809770569,Jessica,Miller,Gastroenterology,VA,12,Top 50
+NPI8700449144,John,Garcia,Emergency Medicine,MO,3,Top 50
+NPI7745298661,Elena,Wang,Gastroenterology,MA,28,Top 50
+NPI3619883472,Sarah,Anderson,Internal Medicine,MO,27,Other
+NPI2115015483,David,Patel,Internal Medicine,OH,21,Other
+NPI9106135296,Jessica,Kim,Neurology,WI,7,Other
+NPI8686798718,Michael,Martin,Family Medicine,PA,36,Top 20
+NPI1483438286,Anita,Martin,Orthopedic Surgery,NC,17,Other
+NPI8413070407,Fatima,Garcia,Psychiatry,AZ,29,Other
+NPI1874913739,Jennifer,Jackson,Rheumatology,IL,34,Top 20
+NPI1569552700,Ahmed,Nguyen,Dermatology,IL,22,Other
+NPI7827408073,Jennifer,Garcia,Orthopedic Surgery,FL,4,Top 50
+NPI5826795596,Jessica,Miller,Cardiology,CA,35,Other
+NPI4730932216,Ahmed,Patel,Cardiology,NJ,27,Other
+NPI9134759762,Mary,Clark,Psychiatry,WI,35,Top 50
+NPI8553732147,Priya,Taylor,Endocrinology,PA,24,Other
+NPI1518611243,Michael,Wang,Family Medicine,NC,36,Other
+NPI6544785176,Wei,Garcia,Family Medicine,MD,34,Other
+NPI7950406628,Joseph,Lee,General Surgery,TN,9,Other
+NPI5954415217,James,Rodriguez,Dermatology,CA,7,Top 50
+NPI9847049490,Ahmed,Hernandez,Rheumatology,NJ,7,Other
+NPI7174427541,Linda,Jackson,Family Medicine,FL,32,Top 50
+NPI1937287114,Kevin,Jones,Family Medicine,PA,10,Other
+NPI2784682107,Elena,Jackson,Endocrinology,PA,18,Top 50
+NPI8436210589,Jennifer,Lee,Family Medicine,WA,31,Other
+NPI9970810057,Charles,Clark,Psychiatry,NY,17,Other
+NPI1885053401,David,Miller,Neurology,IL,3,Other
+NPI1902963860,Charles,Anderson,Cardiology,PA,15,Other
+NPI7870483486,Thomas,White,Cardiology,GA,4,Other
+NPI1579188535,William,Rodriguez,Internal Medicine,AZ,16,Other
+NPI1617041044,Lisa,Davis,Gastroenterology,GA,29,Other
+NPI8999348346,Linda,Patel,Neurology,OH,21,Top 50
+NPI8204048310,Anita,Murphy,Internal Medicine,NJ,27,Other
+NPI8934068797,Kevin,Thompson,Gastroenterology,WA,5,Top 50
+NPI6854620618,Robert,Thomas,Oncology,CA,30,Other
+NPI3902827797,Priya,Davis,Oncology,MO,17,Other
+NPI9156818712,Anita,Wilson,Pulmonology,MD,12,Top 50
+NPI3688511724,Patricia,Johnson,Cardiology,WA,26,Other
+NPI3479597554,Ahmed,Jones,Internal Medicine,VA,6,Other
+NPI8977603771,Kevin,Hernandez,Psychiatry,AZ,20,Other
+NPI7127403331,Michael,Jones,Internal Medicine,NC,17,Other
+NPI9061048761,Karen,Smith,Neurology,GA,7,Other
+NPI2403111603,Fatima,Patel,Internal Medicine,GA,38,Other
+NPI9570671178,David,Williams,Internal Medicine,NY,15,Top 50
+NPI6514679409,Linda,Jones,Internal Medicine,IN,2,Top 20
+NPI7012315396,Susan,Lee,Family Medicine,OH,18,Other
+NPI9226545222,David,O'Brien,Internal Medicine,IL,38,Top 50
+NPI4426776771,Priya,Kim,Internal Medicine,WI,27,Top 20
+NPI7476174951,Susan,Smith,Dermatology,NJ,25,Top 50
+NPI6763065589,Susan,Garcia,Family Medicine,WA,36,Top 50
+NPI8089774469,Kevin,Nguyen,Family Medicine,PA,4,Other
+NPI9072485125,Karen,Kim,Cardiology,IL,22,Top 50
+NPI7120547698,Anita,Taylor,Family Medicine,MA,13,Top 50
+NPI1608755990,Priya,Rodriguez,Family Medicine,MI,27,Other
+NPI2648263112,Raj,Murphy,Psychiatry,FL,34,Other
+NPI9585803639,Jennifer,Nguyen,Internal Medicine,IN,4,Top 50
+NPI9717854259,Kevin,Nguyen,Gastroenterology,NC,7,Other
+NPI9706719822,Kevin,Chen,Pulmonology,AZ,38,Top 50
+NPI1331194603,Mary,Jones,Internal Medicine,OH,20,Other
+NPI4442033511,David,Kim,Internal Medicine,VA,13,Top 20
+NPI7837054335,Richard,Rodriguez,Internal Medicine,TN,6,Other
+NPI7775972232,Richard,Miller,Psychiatry,MO,14,Top 50
+NPI1773180144,Fatima,Smith,Internal Medicine,PA,1,Other
+NPI6485399983,Wei,Anderson,Dermatology,AZ,9,Top 20
+NPI2285826566,Michael,Wilson,General Surgery,MD,8,Other
+NPI5438883995,Charles,Rodriguez,Dermatology,WA,4,Other
+NPI3157171307,Michelle,Hernandez,Endocrinology,FL,38,Top 20
+NPI1478450545,Jessica,White,Emergency Medicine,NY,31,Other
+NPI1720174829,Anita,Clark,Cardiology,PA,37,Top 50
+NPI9198036546,Lisa,Chen,Family Medicine,FL,10,Top 50
+NPI7701813677,Anita,Nguyen,Family Medicine,TN,12,Top 50
+NPI9386415835,Anita,Clark,Emergency Medicine,WI,12,Top 50
+NPI5229909390,James,Patel,Psychiatry,NJ,22,Top 50
+NPI4719632490,Carlos,Miller,General Surgery,VA,8,Other
+NPI4225665632,Jennifer,Kim,Internal Medicine,TN,10,Other
+NPI6546763863,Carlos,Martinez,Emergency Medicine,NC,39,Other
+NPI4164034482,Carlos,Martinez,Endocrinology,MI,14,Other
+NPI7716459105,Linda,White,Endocrinology,VA,31,Other
+NPI8211855935,Mary,Martinez,Emergency Medicine,OH,9,Top 50
+NPI8882601339,Richard,Smith,Family Medicine,TX,37,Other
+NPI3185208371,Barbara,Clark,Family Medicine,VA,28,Other
+NPI5743198443,Thomas,Lee,Psychiatry,IN,34,Top 50
+NPI3011001550,John,Patel,Internal Medicine,TX,21,Other
+NPI1338002410,Mary,Wang,Family Medicine,PA,36,Other
+NPI7370427736,Jessica,White,Internal Medicine,IL,15,Other
+NPI5940831464,Fatima,Thompson,Internal Medicine,IN,19,Other
+NPI7515345515,Barbara,Chen,Gastroenterology,NJ,3,Top 50
+NPI1788606202,Barbara,Wilson,Psychiatry,NJ,7,Other
+NPI9959735610,Robert,Wang,Family Medicine,WA,31,Top 50
+NPI9949137101,William,Kim,Family Medicine,IL,13,Top 20
+NPI5184998429,William,Garcia,Oncology,MA,4,Other
+NPI8794528435,Linda,Jones,Neurology,CA,12,Top 50
+NPI3192117002,David,Murphy,Pulmonology,FL,14,Other
+NPI7638095450,William,Murphy,Pulmonology,IN,28,Other
+NPI8913032710,Wei,Clark,Family Medicine,AZ,4,Other
+NPI8331996393,David,Brown,Family Medicine,NY,2,Other
+NPI8305966703,Ahmed,Murphy,Oncology,NC,29,Other
+NPI5167239688,Charles,Singh,Psychiatry,TX,6,Other
+NPI8379909529,Lisa,Chen,Oncology,AZ,17,Other
+NPI7216343316,Karen,Moore,Neurology,TN,27,Other
+NPI2192062583,Anita,Jackson,Rheumatology,IL,21,Other
+NPI2027659636,Linda,Thomas,Family Medicine,GA,5,Top 50
+NPI7947299222,Michelle,Smith,Family Medicine,PA,29,Top 20
+NPI6629176798,Michael,Jackson,Family Medicine,GA,2,Top 50
+NPI5674385054,Robert,Davis,Internal Medicine,IL,10,Other
+NPI9165356116,Carlos,Miller,Internal Medicine,PA,5,Top 50
+NPI6936313211,Raj,Johnson,Orthopedic Surgery,NC,20,Other
+NPI4565320705,John,Hernandez,Family Medicine,MO,27,Other
+NPI4725386273,Karen,Johnson,Internal Medicine,TN,26,Other
+NPI6447199246,Sarah,Singh,Rheumatology,IL,6,Other
+NPI7842477561,Michael,Murphy,General Surgery,MD,14,Other
+NPI6079179761,Sarah,Wang,Family Medicine,PA,6,Other
+NPI5578847939,Wei,Martinez,Dermatology,MD,14,Other
+NPI7542106323,Karen,Jones,Pulmonology,OH,9,Top 50
+NPI7347380948,Sarah,Jackson,Psychiatry,NJ,29,Other
+NPI8473121564,Raj,Patel,Neurology,PA,30,Top 50
+NPI1562966076,Michael,Smith,Cardiology,TN,32,Top 50
+NPI7794569187,Charles,Singh,Emergency Medicine,OH,8,Top 50
+NPI5623844058,Barbara,Hernandez,Family Medicine,MO,1,Other
+NPI1672238080,Michelle,Wang,Pulmonology,TX,2,Other
+NPI7111090252,Linda,Williams,Psychiatry,NJ,33,Top 20
+NPI7448861745,Raj,Thomas,Cardiology,NY,36,Other
+NPI5712644525,Charles,Hernandez,Cardiology,MO,9,Top 50
+NPI8144190798,Michael,Johnson,Neurology,NC,35,Top 50
+NPI3702232977,Ahmed,Kim,Rheumatology,AZ,21,Top 50
+NPI2817164966,Linda,O'Brien,Cardiology,MO,8,Top 50
+NPI4156605565,Linda,Martin,Orthopedic Surgery,NJ,13,Other
+NPI4690454619,David,Taylor,Dermatology,TX,11,Top 20
+NPI7263402420,Wei,White,Endocrinology,PA,30,Top 50
+NPI8609679440,Susan,Anderson,Oncology,PA,8,Top 20
+NPI7488263709,Karen,Anderson,Cardiology,MD,8,Other
+NPI2565888031,Thomas,Nguyen,General Surgery,MD,29,Other
+NPI4295953762,Jennifer,Lee,Family Medicine,MI,12,Other
+NPI2425723420,Michael,Davis,Gastroenterology,MO,10,Other
+NPI7180517795,Barbara,Thomas,Family Medicine,PA,32,Other
+NPI3233546903,Michael,Singh,Psychiatry,AZ,37,Top 50
+NPI5728482395,Anita,Jackson,Family Medicine,GA,22,Top 20
+NPI8126468587,Susan,Williams,Internal Medicine,PA,33,Other
+NPI7038453473,Richard,Singh,General Surgery,IL,33,Top 50
+NPI3685365915,Wei,Nguyen,Endocrinology,NC,23,Other
+NPI3995800755,Fatima,Wilson,Rheumatology,OH,33,Other
+NPI6880278578,Wei,Rodriguez,Emergency Medicine,PA,1,Top 50
+NPI5945209743,Thomas,Rodriguez,Emergency Medicine,OH,2,Other
+NPI1867541387,Michelle,Clark,Dermatology,FL,35,Top 50
+NPI8865924302,Raj,Taylor,Internal Medicine,WI,6,Top 20
+NPI5613519231,Michael,O'Brien,Psychiatry,GA,29,Other
+NPI5260249118,Robert,Wang,Gastroenterology,FL,17,Other
+NPI2785954029,Susan,Murphy,Family Medicine,VA,31,Top 20
+NPI4392944370,Elena,Martin,Internal Medicine,MO,26,Top 20
+NPI3995423760,Kevin,Wilson,General Surgery,GA,3,Top 20
+NPI3436621145,Priya,Miller,Oncology,IN,14,Top 20
+NPI6106659171,Wei,Rodriguez,Psychiatry,WA,28,Top 20
+NPI5160478242,Linda,Jackson,Emergency Medicine,MA,36,Top 50
+NPI9002779166,Karen,O'Brien,Psychiatry,IL,32,Other
+NPI9472095792,Jennifer,Martin,Family Medicine,CA,35,Other
+NPI2975260862,Thomas,Martin,Family Medicine,OH,38,Other
+NPI1900948858,Jennifer,Williams,Family Medicine,MD,35,Other
+NPI8068037962,John,Thomas,Internal Medicine,TN,23,Other
+NPI9953752631,Michelle,Martin,General Surgery,TN,14,Other
+NPI8772400627,Raj,Brown,Dermatology,MO,20,Other
+NPI1213276619,Wei,Jones,Family Medicine,GA,32,Other
+NPI3261371956,Charles,Lee,Family Medicine,OH,17,Other
+NPI1390080493,Linda,Davis,Gastroenterology,MD,33,Other
+NPI8387014392,Karen,Kim,Cardiology,VA,28,Other
+NPI6232662786,Ahmed,Hernandez,Endocrinology,IL,9,Top 50
+NPI5623466869,Thomas,Thomas,Oncology,IL,36,Top 20
+NPI5990048937,William,Brown,Orthopedic Surgery,MO,34,Other
+NPI3272061328,Susan,Thomas,Internal Medicine,TX,24,Top 20
+NPI6414745321,Elena,Martin,Neurology,TX,8,Top 50
+NPI1276002806,Linda,Lee,Family Medicine,MA,9,Top 20
+NPI6814105515,Kevin,Wilson,Psychiatry,CA,33,Top 50
+NPI7609904470,Ahmed,Smith,Cardiology,NY,1,Other
+NPI7057236372,Raj,Rodriguez,Oncology,WI,19,Top 50
+NPI3989057664,Sarah,Rodriguez,Endocrinology,NC,25,Top 50
+NPI8436366235,Michael,O'Brien,Internal Medicine,MA,10,Other
+NPI7439895973,Mary,Wilson,Internal Medicine,MI,34,Top 50
+NPI2154675906,Thomas,Thompson,Internal Medicine,TX,21,Other
+NPI2756297984,Susan,Jones,Family Medicine,NY,3,Other
+NPI6733975717,Patricia,O'Brien,Internal Medicine,TN,13,Top 20
+NPI3604745201,Anita,Smith,Emergency Medicine,TX,16,Other
+NPI2074896472,Michelle,Moore,Family Medicine,VA,9,Top 20
+NPI2394720938,Susan,Singh,General Surgery,OH,37,Other
+NPI2490554624,Wei,Kim,Emergency Medicine,GA,15,Other
+NPI5300118160,Richard,Singh,Cardiology,WI,20,Other
+NPI6466469080,Joseph,Moore,Neurology,WA,21,Top 50
+NPI2587620473,Charles,Williams,Gastroenterology,WA,9,Other
+NPI7412469492,Richard,Smith,Neurology,GA,23,Other
+NPI3529113467,Carlos,Jones,Oncology,GA,14,Other
+NPI3804023245,Jennifer,Johnson,Oncology,AZ,1,Top 50
+NPI3011487589,Wei,Hernandez,Cardiology,CA,16,Other
+NPI8066855222,Michelle,Johnson,Rheumatology,PA,23,Top 50
+NPI9638324495,Elena,Garcia,Emergency Medicine,WA,5,Top 20
+NPI5432498637,Mary,Thomas,Emergency Medicine,WA,31,Other
+NPI1378275772,Patricia,Nguyen,Cardiology,TX,26,Other
+NPI3345123847,Charles,Patel,Orthopedic Surgery,TN,13,Top 50
+NPI2422452619,Anita,Johnson,Family Medicine,NJ,24,Other
+NPI8584860562,Elena,O'Brien,Gastroenterology,PA,12,Other
+NPI1763685886,Anita,Martin,Cardiology,TN,26,Other
+NPI9698286165,Robert,Anderson,Pulmonology,WI,7,Other
+NPI6296623989,Sarah,Taylor,Dermatology,NC,24,Other
+NPI5659658083,Priya,Singh,Internal Medicine,IL,3,Other
+NPI8626155600,Charles,Hernandez,Cardiology,IL,1,Top 20
+NPI1247928591,Fatima,Davis,Dermatology,VA,10,Top 20
+NPI7994374743,Michael,Thomas,Internal Medicine,CA,7,Other
+NPI2049436410,Jessica,Williams,Rheumatology,MI,20,Top 50
+NPI8567002889,Jessica,Jones,Pulmonology,CA,7,Top 50
+NPI5762585972,Kevin,Martinez,Psychiatry,CA,10,Other
+NPI1550164621,Michael,Miller,Family Medicine,NC,4,Top 50
+NPI8499205348,Barbara,Anderson,Oncology,MA,35,Top 50
+NPI1245827053,James,Johnson,Cardiology,MO,29,Other
+NPI2245336235,Robert,Thompson,Emergency Medicine,TX,9,Top 50
+NPI8180420713,Michelle,Brown,Family Medicine,PA,5,Other
+NPI5183840114,Elena,Miller,Internal Medicine,NC,34,Top 20
+NPI8932498338,Linda,Clark,Family Medicine,VA,27,Other
+NPI6718863454,Priya,Smith,Emergency Medicine,WI,35,Top 50
+NPI6611758788,Karen,Wilson,Internal Medicine,AZ,7,Other
+NPI3630115954,Anita,Jackson,Gastroenterology,NJ,14,Top 20
+NPI2203124711,Barbara,Martinez,Orthopedic Surgery,TX,5,Top 50
+NPI9650551517,Michelle,Martinez,Dermatology,TX,17,Other
+NPI1943179202,Susan,Brown,Emergency Medicine,NY,7,Top 50
+NPI5761095400,Priya,Thomas,Dermatology,AZ,1,Other
+NPI3453117317,Susan,Nguyen,Pulmonology,OH,20,Top 50
+NPI3377265971,Wei,Lee,Internal Medicine,PA,39,Top 50
+NPI6351275973,David,O'Brien,General Surgery,AZ,26,Top 50
+NPI8181407053,Elena,Patel,Rheumatology,IN,30,Other
+NPI7994615344,Lisa,Chen,Rheumatology,NC,32,Top 50
+NPI8819215201,William,Thomas,Gastroenterology,MO,38,Top 50
+NPI3636124640,Kevin,Thompson,Emergency Medicine,MA,6,Other
+NPI5191762434,Priya,Lee,Orthopedic Surgery,MA,10,Top 50
+NPI1084011158,Richard,Wang,Endocrinology,MO,25,Other
+NPI7721718607,Robert,Jackson,Oncology,NY,33,Other
+NPI3721088008,Michelle,Thomas,Family Medicine,TN,31,Other
+NPI6053441798,Ahmed,Williams,Family Medicine,WI,29,Other
+NPI2523702538,Wei,Singh,Family Medicine,WI,13,Top 50
+NPI8374595563,Carlos,Hernandez,Internal Medicine,VA,15,Other
+NPI8355449972,Charles,Chen,Cardiology,TN,4,Other
+NPI8897076231,Michael,Patel,General Surgery,MO,13,Top 50
+NPI1413432973,Linda,Smith,Oncology,MO,7,Other
+NPI9932128386,John,White,Pulmonology,MO,37,Other
+NPI3230014729,Mary,Moore,Psychiatry,IN,4,Other
+NPI3784903174,Priya,Davis,Cardiology,GA,15,Top 50
+NPI3244021562,Elena,Davis,Internal Medicine,MA,35,Other
+NPI3407794285,Robert,White,Internal Medicine,NC,38,Other
+NPI5973952204,Karen,Williams,Emergency Medicine,IN,15,Other
+NPI3158294898,Patricia,Thompson,Internal Medicine,IN,19,Top 50
+NPI4543941802,Richard,Singh,Endocrinology,MD,21,Top 50
+NPI6900459241,Fatima,Williams,Pulmonology,VA,33,Top 50
+NPI8524235831,Carlos,Smith,Emergency Medicine,MI,30,Top 20
+NPI7234673501,Kevin,Johnson,Internal Medicine,NY,21,Other
+NPI6348905602,Barbara,Kim,Cardiology,WA,15,Top 20
+NPI2329557062,Kevin,Singh,Internal Medicine,VA,15,Top 50
+NPI8345040413,Fatima,Clark,Cardiology,NJ,26,Other
+NPI1335473991,David,Smith,Internal Medicine,AZ,33,Other
+NPI3377724968,Barbara,Moore,Psychiatry,MO,3,Top 50
+NPI1513530252,Patricia,Johnson,Pulmonology,FL,30,Other
+NPI7006860779,Anita,Taylor,Rheumatology,NC,19,Top 50
+NPI4315339742,Michael,Martinez,Psychiatry,MA,6,Other
+NPI6868436348,William,Thompson,Internal Medicine,IN,4,Top 20
+NPI4123278633,Richard,O'Brien,General Surgery,TN,14,Other
+NPI5101666576,Robert,Wang,Psychiatry,TN,10,Other
+NPI5121649091,Carlos,Johnson,Gastroenterology,MO,5,Top 50
+NPI1410225882,Wei,Davis,Emergency Medicine,WI,12,Other
+NPI4872038736,Robert,Wilson,Family Medicine,WA,33,Top 50
+NPI6769579267,Robert,Davis,Internal Medicine,PA,28,Other
+NPI5914470214,James,Anderson,Internal Medicine,VA,9,Top 50
+NPI1677553896,Kevin,Thompson,Oncology,MA,27,Other
+NPI7012503870,Jessica,Nguyen,Emergency Medicine,FL,18,Other
+NPI3779764793,Lisa,Rodriguez,Family Medicine,TN,30,Other
+NPI1129913224,Robert,Kim,General Surgery,NJ,10,Top 20
+NPI2400360013,Michael,Wilson,Rheumatology,MD,3,Other
+NPI5478036915,Thomas,Garcia,Internal Medicine,PA,13,Other
+NPI3793614930,Michael,Taylor,Family Medicine,MD,39,Top 50
+NPI7249447123,Charles,Chen,Neurology,NC,22,Other
+NPI3165881279,Anita,Clark,Neurology,VA,3,Top 20
+NPI7955165515,Barbara,Taylor,Oncology,AZ,39,Top 50
+NPI3578294632,Charles,Garcia,Internal Medicine,VA,33,Other
+NPI6587773367,Anita,Smith,Orthopedic Surgery,MD,22,Top 50
+NPI8192947421,Raj,Williams,Internal Medicine,NY,29,Top 50
+NPI4470005157,James,White,Pulmonology,MA,8,Other
+NPI1421244476,Patricia,Lee,Internal Medicine,WI,24,Other
+NPI5819009688,Michelle,White,Internal Medicine,PA,36,Top 20
+NPI9958681552,Anita,Smith,Endocrinology,IL,18,Top 50
+NPI9720926796,Barbara,Hernandez,Endocrinology,MI,2,Other
+NPI2989199745,Sarah,Garcia,Endocrinology,MA,30,Other
+NPI7801268584,Karen,Anderson,Oncology,WI,29,Other
+NPI4104566486,Wei,Thompson,Emergency Medicine,TN,29,Other
+NPI2442452321,Ahmed,Wilson,Endocrinology,TN,26,Other
+NPI6993232304,Susan,White,Oncology,NC,6,Other
+NPI5507818565,Raj,Wilson,Family Medicine,WA,5,Top 50
+NPI5853075018,Mary,Jackson,Cardiology,PA,31,Top 50
+NPI8446533959,James,Hernandez,Psychiatry,MI,34,Top 50
+NPI4028893082,Kevin,Taylor,Internal Medicine,NY,4,Top 50
+NPI7003852835,Jennifer,Brown,Neurology,CA,23,Top 50
+NPI4295723202,Michelle,Lee,Cardiology,MO,20,Other
+NPI1384515069,William,Clark,Emergency Medicine,IN,14,Top 50
+NPI4402135965,David,White,Oncology,NJ,26,Top 50
+NPI9550310167,James,Nguyen,Gastroenterology,CA,36,Other
+NPI5349362338,Kevin,Wang,Oncology,TX,33,Other
+NPI1974073931,David,Johnson,Cardiology,FL,6,Top 50
+NPI7190441463,Jennifer,Chen,Dermatology,MA,19,Other
+NPI9670414146,Joseph,Davis,Neurology,PA,37,Other
+NPI9171507217,Robert,White,General Surgery,IL,10,Other
+NPI6147647539,Fatima,Clark,Oncology,MO,34,Other
+NPI4386526698,John,Murphy,Neurology,MO,20,Other
+NPI6226099016,Joseph,Thomas,Dermatology,TN,21,Top 50
+NPI8343379558,Susan,Singh,Neurology,OH,10,Other
+NPI8751136077,Mary,Thompson,Family Medicine,VA,36,Top 20
+NPI8369594963,Mary,Brown,Neurology,PA,21,Other
+NPI5099287405,Sarah,Davis,Neurology,MO,23,Other
+NPI2069721906,Susan,Rodriguez,Emergency Medicine,TX,19,Top 50
+NPI6122560840,Patricia,O'Brien,Family Medicine,MA,4,Other
+NPI2407859452,Robert,Murphy,Family Medicine,NJ,31,Top 50
+NPI1548625005,Carlos,Taylor,General Surgery,TN,13,Top 50
+NPI5488010500,Priya,Martinez,Endocrinology,MI,10,Other
+NPI6898361049,Charles,Wang,Orthopedic Surgery,NY,31,Top 50
+NPI8687325756,Elena,Smith,Oncology,TN,8,Other
+NPI8045519984,John,Murphy,Internal Medicine,WA,27,Top 50
+NPI8715164613,Wei,Thompson,Orthopedic Surgery,MI,19,Other
+NPI7840618936,Ahmed,Thompson,Internal Medicine,GA,32,Top 50
+NPI7329154571,Michael,Hernandez,Internal Medicine,OH,2,Top 50
+NPI1091238122,Thomas,Clark,Psychiatry,MI,31,Other
+NPI6634920805,Fatima,Nguyen,General Surgery,IL,9,Other
+NPI2084336237,Charles,Johnson,Gastroenterology,IL,34,Top 50
+NPI1528004190,Linda,Jackson,Family Medicine,IL,14,Other
+NPI2407709368,Lisa,Singh,Internal Medicine,CA,1,Top 50
+NPI8409629452,Ahmed,Williams,Emergency Medicine,MD,20,Top 20
+NPI7694644537,James,Nguyen,Internal Medicine,PA,3,Other
+NPI9538951645,Karen,Davis,Internal Medicine,NY,11,Other
+NPI9810786326,Sarah,Jackson,Family Medicine,NY,28,Other
+NPI9039555876,Susan,Murphy,Rheumatology,WI,22,Other
+NPI2196334458,Mary,Moore,Gastroenterology,MI,28,Other
+NPI8905444667,John,Johnson,General Surgery,OH,35,Top 50
+NPI8547734212,Ahmed,Smith,Orthopedic Surgery,NC,19,Top 50
+NPI8839772737,Carlos,Nguyen,Internal Medicine,TX,22,Top 20
+NPI2365170553,Richard,O'Brien,Family Medicine,OH,3,Other
+NPI2051126449,Kevin,Wilson,Oncology,PA,12,Top 20
+NPI9314279915,Anita,Rodriguez,Internal Medicine,IN,29,Other
+NPI2564439842,Lisa,Hernandez,Family Medicine,TX,3,Other
+NPI4317595579,Karen,Johnson,Family Medicine,NC,15,Other
+NPI5103863644,Kevin,Jackson,Internal Medicine,TN,6,Top 20
+NPI2119982750,Charles,Clark,Rheumatology,IN,34,Top 50
+NPI1185708592,Kevin,Davis,Orthopedic Surgery,NJ,22,Other
+NPI9946814226,Michelle,Rodriguez,Cardiology,PA,26,Other
+NPI8889915202,Jennifer,White,Oncology,OH,27,Other
+NPI9211041363,Lisa,Taylor,General Surgery,PA,9,Other
+NPI3561067623,Priya,Patel,General Surgery,AZ,2,Other
+NPI2980914154,Carlos,Thomas,General Surgery,IL,16,Top 50
+NPI4832799023,David,Williams,Oncology,WA,8,Other
+NPI5079874320,Elena,Murphy,Dermatology,AZ,13,Top 20
+NPI1050394949,Joseph,Taylor,Internal Medicine,MD,13,Other
+NPI8013278012,Susan,Martin,Family Medicine,GA,31,Top 50
+NPI9970003342,Robert,Nguyen,Internal Medicine,WI,13,Top 50
+NPI5758217830,Barbara,Williams,Oncology,NC,6,Top 20
+NPI4494328254,Michelle,Kim,Family Medicine,AZ,38,Other
+NPI4534767038,Priya,Anderson,Internal Medicine,AZ,2,Other
+NPI1864694189,Priya,Martin,General Surgery,IN,8,Top 50
+NPI3395456365,Raj,Hernandez,Family Medicine,MI,14,Top 50
+NPI5519195097,William,Chen,Family Medicine,TN,3,Top 50
+NPI4886632009,Lisa,Garcia,Internal Medicine,GA,36,Top 50
+NPI5905312711,Susan,Brown,Oncology,MI,14,Other
+NPI8641590836,Elena,Thomas,Family Medicine,MI,31,Top 20
+NPI3027180724,Richard,Brown,Family Medicine,MA,6,Other
+NPI1248977628,Elena,Davis,Internal Medicine,WA,21,Other
+NPI1344029007,Ahmed,White,General Surgery,TX,5,Top 20
+NPI2207519247,Fatima,Wang,Pulmonology,IN,10,Other
+NPI6134346862,Anita,Patel,Endocrinology,TN,16,Other
+NPI8273663289,Fatima,Martinez,Neurology,FL,34,Other
+NPI8981253452,Barbara,Wang,Gastroenterology,WI,12,Other
+NPI6716018817,Sarah,Thomas,Emergency Medicine,AZ,30,Top 20
+NPI4628289271,Joseph,Garcia,Psychiatry,TX,4,Top 20
+NPI2390632373,Mary,Nguyen,Gastroenterology,MI,10,Other
+NPI4612765054,Karen,Jackson,Gastroenterology,IN,24,Top 50
+NPI3991736204,Jessica,Taylor,General Surgery,IL,19,Other
+NPI8830232926,Susan,White,Oncology,MD,20,Other
+NPI5380474396,Patricia,Kim,Cardiology,NC,27,Other
+NPI3035763099,Sarah,Miller,Cardiology,PA,4,Top 50
+NPI3599209601,Karen,Brown,Oncology,GA,28,Top 50
+NPI2228231480,Patricia,Jackson,Endocrinology,NJ,34,Other
+NPI9267269040,Lisa,Johnson,Family Medicine,AZ,30,Top 50
+NPI1453112616,Jennifer,White,Psychiatry,MD,12,Top 20
+NPI1115616236,Robert,Hernandez,Rheumatology,NY,14,Other
+NPI2646900401,Richard,Miller,Dermatology,WI,38,Other
+NPI8297866160,Susan,Lee,Internal Medicine,NJ,31,Other
+NPI5711201079,Anita,Taylor,Internal Medicine,FL,37,Other
+NPI6632589585,John,Taylor,General Surgery,MD,36,Other
+NPI4219585078,David,Miller,Dermatology,OH,17,Other
+NPI1618101869,Ahmed,Patel,Emergency Medicine,WA,6,Other
+NPI8705423461,Linda,O'Brien,Gastroenterology,AZ,9,Top 50
+NPI2727048448,Michelle,Thompson,Gastroenterology,CA,12,Top 50
+NPI1297532804,Ahmed,Davis,Family Medicine,PA,33,Top 50
+NPI6154337222,Kevin,Singh,Family Medicine,AZ,11,Other
+NPI1749602983,Kevin,Brown,Family Medicine,OH,15,Other
+NPI1861856666,Patricia,Wilson,Psychiatry,CA,34,Other
+NPI8203393282,Jessica,Johnson,Pulmonology,CA,7,Other
+NPI5424486303,Ahmed,Singh,Family Medicine,IN,26,Other
+NPI3173576069,James,Johnson,Rheumatology,NY,22,Other
+NPI4137637809,Jessica,Martin,Family Medicine,FL,39,Other
+NPI7563168808,Wei,Garcia,Internal Medicine,VA,20,Other
+NPI1597187302,Fatima,Miller,Internal Medicine,FL,21,Top 20
+NPI2048325543,Richard,Thompson,Cardiology,AZ,34,Other
+NPI6546358314,Elena,Wang,Emergency Medicine,NJ,39,Other
+NPI6462745609,Wei,Smith,Family Medicine,WA,29,Top 50
+NPI9752159659,Mary,Jones,Dermatology,MI,28,Other
+NPI4370945330,William,Wilson,Neurology,TN,35,Other
+NPI1585698644,Kevin,Rodriguez,Internal Medicine,WA,39,Top 50
+NPI5837836913,James,Johnson,Internal Medicine,NC,29,Other
+NPI6745121305,Patricia,Garcia,General Surgery,CA,12,Top 50
+NPI2256425071,David,Thomas,Family Medicine,IL,26,Other
+NPI5975757761,Michelle,Martinez,Pulmonology,FL,10,Other
+NPI2779904094,Priya,Johnson,Internal Medicine,CA,20,Top 20
+NPI8602570520,Robert,Martin,Neurology,IL,18,Other
+NPI8516453461,Susan,Thompson,General Surgery,PA,39,Top 50
+NPI4866661863,Kevin,Garcia,Internal Medicine,TX,22,Top 50
+NPI9700688713,Michael,Patel,Family Medicine,OH,38,Other
+NPI9817964869,Karen,Johnson,Emergency Medicine,NJ,32,Top 20
+NPI2163259800,Jessica,Kim,Family Medicine,NY,34,Other
+NPI4309424243,Ahmed,Davis,Oncology,IL,7,Top 50
+NPI6402893229,Ahmed,Miller,Oncology,CA,31,Top 50
+NPI1763540286,Carlos,Garcia,Family Medicine,TX,10,Other
+NPI4443899533,Patricia,Murphy,General Surgery,NY,23,Other
+NPI3350548755,Jessica,Jackson,General Surgery,MI,19,Other
+NPI9568451987,Wei,Patel,Family Medicine,AZ,11,Other
+NPI4704272405,Richard,Miller,Dermatology,TN,39,Other
+NPI7864037726,Wei,Johnson,Internal Medicine,WA,35,Top 50
+NPI4480348271,Lisa,Johnson,Cardiology,WA,23,Top 20
+NPI2186308633,Susan,Hernandez,Psychiatry,MD,1,Other
+NPI8768363770,Patricia,Martinez,Emergency Medicine,IL,8,Top 20
+NPI1003752252,Michelle,Chen,Cardiology,TN,9,Other
+NPI1503467865,Carlos,Chen,Internal Medicine,MD,38,Other
+NPI4279459652,Raj,Martinez,Endocrinology,VA,16,Other
+NPI7182084298,William,Hernandez,General Surgery,IN,2,Other
+NPI4075338657,Barbara,Taylor,Internal Medicine,FL,23,Other
+NPI1596815358,Barbara,Patel,Family Medicine,MO,38,Top 20
+NPI3860560303,James,Thompson,General Surgery,VA,22,Other
+NPI3204827730,Jennifer,White,Family Medicine,PA,18,Other
+NPI1048778198,Barbara,Johnson,Internal Medicine,TX,7,Top 50
+NPI5813217218,Michelle,Anderson,Internal Medicine,MA,35,Other
+NPI2049813232,Michael,Clark,Family Medicine,NC,5,Other
+NPI3587466598,Sarah,Anderson,Oncology,OH,37,Top 50
+NPI6770708471,Thomas,Garcia,Dermatology,GA,9,Other
+NPI7526041198,David,Garcia,Neurology,WI,6,Other
+NPI3371100641,Anita,Smith,Orthopedic Surgery,NC,14,Top 20
+NPI3962743039,John,Chen,Emergency Medicine,TX,1,Other
+NPI3222183142,Raj,Smith,Family Medicine,IL,1,Top 50
+NPI9611997401,Ahmed,Lee,Family Medicine,FL,8,Top 20
+NPI2714677542,Barbara,Taylor,Pulmonology,AZ,28,Top 50
+NPI2648625432,Fatima,Williams,Family Medicine,IN,32,Other
+NPI5005317662,Richard,Murphy,Orthopedic Surgery,IN,10,Top 50
+NPI2703757232,Michelle,Nguyen,General Surgery,WA,26,Top 50
+NPI2410376106,Mary,Wang,Internal Medicine,TN,14,Other
+NPI1862915839,James,Rodriguez,Oncology,NC,17,Other
+NPI6761541232,Thomas,O'Brien,Internal Medicine,WA,14,Top 50
+NPI6508740293,Anita,Kim,Internal Medicine,FL,35,Top 50
+NPI6851466026,Mary,Martin,Oncology,NJ,20,Other
+NPI7959700071,Fatima,Patel,Family Medicine,VA,20,Other
+NPI3937222114,Kevin,Hernandez,General Surgery,CA,34,Other
+NPI9265813601,Joseph,Garcia,Gastroenterology,NJ,26,Top 20
+NPI7598841498,Raj,Taylor,General Surgery,MA,6,Other
+NPI8242377296,Ahmed,Moore,Family Medicine,GA,8,Other
+NPI7488659473,Michael,Johnson,Family Medicine,NJ,14,Top 50
+NPI4226100808,Elena,Singh,Family Medicine,IL,4,Top 50
+NPI3547292392,Wei,O'Brien,Internal Medicine,IL,27,Top 50
+NPI4802653625,James,Thomas,Pulmonology,FL,20,Top 50
+NPI1873273244,Karen,Moore,Family Medicine,OH,2,Top 50
+NPI5061524513,Lisa,Singh,Internal Medicine,IN,16,Other
+NPI1388268847,Carlos,Hernandez,Dermatology,MD,33,Other
+NPI1035513640,Fatima,Patel,Family Medicine,WA,36,Other
+NPI9383490454,Joseph,Jackson,Cardiology,WA,38,Top 50
+NPI7204031744,William,Wilson,Internal Medicine,WA,36,Other
+NPI6056622523,Jennifer,Chen,Neurology,MI,24,Other
+NPI4069918354,John,Garcia,General Surgery,NC,37,Other
+NPI6134842131,Lisa,Miller,Internal Medicine,WA,38,Other
+NPI9024181986,Kevin,Patel,Pulmonology,TN,25,Other
+NPI6871421204,John,Kim,Dermatology,NC,17,Top 50
+NPI6422337980,Priya,Rodriguez,Dermatology,VA,38,Other
+NPI5141840526,Karen,Kim,Internal Medicine,MI,17,Other
+NPI4111273275,Jennifer,Smith,Cardiology,IL,7,Other
+NPI7286924024,Michael,Singh,Gastroenterology,IL,5,Other
+NPI9828828468,William,Thomas,Family Medicine,TX,23,Other
+NPI4822819241,Wei,Smith,Psychiatry,NC,2,Other
+NPI4529846835,William,Lee,General Surgery,MA,5,Top 50
+NPI4853021250,Carlos,Garcia,Internal Medicine,AZ,10,Top 50
+NPI4829895712,Susan,Thomas,General Surgery,WI,21,Other
+NPI9915622959,Patricia,Moore,Pulmonology,CA,19,Other
+NPI7361004316,John,Williams,Orthopedic Surgery,TN,20,Other
+NPI4232660042,Richard,Singh,Oncology,TN,20,Top 50
+NPI4343521364,Richard,Jackson,Gastroenterology,NC,39,Other
+NPI4877172322,Ahmed,Rodriguez,Rheumatology,IL,9,Top 20
+NPI1330409688,Joseph,Hernandez,Orthopedic Surgery,GA,19,Top 50
+NPI5750347617,Robert,Lee,Dermatology,AZ,24,Top 50
+NPI8302428562,Michael,Wang,General Surgery,MO,11,Top 20
+NPI6945110138,Thomas,Miller,Family Medicine,WA,8,Other
+NPI2785787620,David,O'Brien,Internal Medicine,NJ,2,Top 50
+NPI7552308171,Wei,Garcia,Internal Medicine,AZ,13,Top 50
+NPI7475127456,Anita,Clark,Endocrinology,TX,10,Other
+NPI3362852940,David,White,Endocrinology,WA,8,Top 50
+NPI6605871911,Thomas,Jackson,Psychiatry,CA,11,Top 50
+NPI6498541297,Carlos,Miller,Family Medicine,WI,28,Top 50
+NPI8558088613,Michael,Lee,General Surgery,MO,33,Top 20
+NPI2224650806,Sarah,Martin,Pulmonology,NJ,21,Other
+NPI2753546540,Barbara,Clark,Family Medicine,GA,3,Top 20
+NPI5373725533,Charles,Singh,Orthopedic Surgery,MA,29,Top 50
+NPI1397306339,Ahmed,Moore,Neurology,WA,6,Top 50
+NPI4740347777,Robert,Taylor,Endocrinology,MA,3,Top 50
+NPI8093971377,Jennifer,Taylor,Internal Medicine,NJ,23,Top 50
+NPI2338429545,James,Taylor,General Surgery,PA,17,Top 50
+NPI5139538631,James,Smith,Emergency Medicine,TX,13,Top 50
+NPI9907923099,Mary,Johnson,Orthopedic Surgery,IL,38,Top 20
+NPI5553280120,Priya,Nguyen,Pulmonology,NJ,4,Other
+NPI5484914416,Anita,Davis,Emergency Medicine,NC,3,Top 50
+NPI6029142252,Richard,Thomas,Family Medicine,NJ,23,Top 20
+NPI2674039332,Raj,Patel,Neurology,IL,17,Other
+NPI2324474944,Priya,Thompson,Oncology,MD,32,Top 50
+NPI7096191661,Carlos,Anderson,Emergency Medicine,GA,2,Other
+NPI4561901288,Ahmed,Nguyen,Internal Medicine,IN,17,Top 20
+NPI3609159653,Jennifer,Jones,Family Medicine,GA,6,Other
+NPI1282524579,Sarah,Moore,Gastroenterology,NC,2,Other
+NPI8614454473,Sarah,Brown,Family Medicine,WA,19,Top 50
+NPI1290959792,Lisa,Jackson,General Surgery,IL,29,Top 50
+NPI7749848115,Fatima,Williams,Family Medicine,PA,7,Other
+NPI4437897030,Patricia,Rodriguez,Emergency Medicine,GA,33,Other
+NPI6388190293,Wei,White,Gastroenterology,IN,21,Top 50
+NPI3229102005,Carlos,Davis,Family Medicine,FL,19,Other
+NPI2398596995,Patricia,Thompson,General Surgery,NC,36,Top 50
+NPI5800492006,Richard,Anderson,Family Medicine,AZ,13,Other
+NPI7260559253,Raj,Jackson,Psychiatry,MA,8,Top 50
+NPI2759439654,James,Garcia,Neurology,NC,31,Other
+NPI4927230526,Robert,Jackson,Dermatology,TX,5,Top 20
+NPI5001894732,Carlos,Brown,Cardiology,CA,35,Other
+NPI2943812341,Jennifer,Jones,Internal Medicine,MI,33,Top 50
+NPI6085445015,Priya,Lee,Orthopedic Surgery,IN,39,Other
+NPI2313421180,Anita,Jackson,Rheumatology,CA,18,Other
+NPI5587742559,Joseph,Wilson,Endocrinology,MO,25,Other
+NPI2020883602,Joseph,Johnson,Cardiology,AZ,35,Other
+NPI5369881679,Richard,Thomas,Family Medicine,CA,6,Other
+NPI3804391493,Susan,O'Brien,Gastroenterology,OH,12,Other
+NPI5070216628,Susan,Kim,Cardiology,PA,19,Top 20
+NPI4903744234,Thomas,Johnson,Family Medicine,MD,25,Other
+NPI9171398104,Raj,Rodriguez,Pulmonology,VA,27,Other
+NPI5409420399,Michelle,Thomas,Cardiology,OH,37,Other
+NPI8366490134,Elena,Lee,General Surgery,IL,20,Other
+NPI3030871535,Patricia,Smith,Family Medicine,VA,7,Other
+NPI4168745151,Barbara,Martinez,Gastroenterology,CA,8,Other
+NPI1675804425,Ahmed,Chen,General Surgery,IL,32,Other
+NPI4786730152,Thomas,Martinez,Gastroenterology,NY,18,Other
+NPI7018298983,David,Jones,Internal Medicine,WA,25,Top 50
+NPI8543503306,Barbara,Williams,Rheumatology,AZ,22,Other
+NPI6093234205,Patricia,O'Brien,General Surgery,MI,32,Other
+NPI6760654025,Barbara,Wang,Family Medicine,FL,9,Other
+NPI2595403698,Richard,Johnson,Internal Medicine,GA,7,Other
+NPI1334854344,Richard,O'Brien,Cardiology,IN,29,Other
+NPI8125193305,Thomas,Wang,Emergency Medicine,PA,17,Other
+NPI2503343866,William,Anderson,Orthopedic Surgery,NY,32,Other
+NPI1820525819,Michael,White,Neurology,FL,6,Other
+NPI9438060887,Raj,Davis,Orthopedic Surgery,IN,11,Other
+NPI9671692275,Richard,Davis,Rheumatology,FL,38,Other
+NPI6546315623,Linda,Kim,Oncology,VA,33,Top 50
+NPI4407735453,Lisa,Miller,Oncology,WI,3,Other
+NPI8499155867,Thomas,Anderson,Neurology,WA,32,Other
+NPI2842479633,Karen,Anderson,Internal Medicine,NC,3,Other
+NPI4864530946,Michael,Jones,Gastroenterology,PA,5,Other
+NPI4213155690,Priya,Wang,General Surgery,CA,36,Top 20
+NPI9214299915,Jennifer,Patel,Family Medicine,NY,5,Top 50
+NPI9277996737,Elena,Singh,Psychiatry,WI,12,Other
+NPI6857973336,Richard,Jackson,Internal Medicine,FL,6,Other
+NPI1996661262,Richard,Garcia,Emergency Medicine,CA,24,Other
+NPI5339735106,Susan,Wilson,Gastroenterology,IN,3,Top 50
+NPI3207955295,Richard,Anderson,Pulmonology,NC,12,Other
+NPI8964240967,Lisa,Rodriguez,Family Medicine,GA,13,Other
+NPI2245625191,Joseph,Davis,Internal Medicine,MA,26,Other
+NPI1488792482,Patricia,Patel,Internal Medicine,NJ,20,Top 50
+NPI7339861301,Thomas,Brown,Internal Medicine,MD,8,Top 50
+NPI5079574674,William,Rodriguez,Internal Medicine,MI,19,Other
+NPI8545283987,Patricia,White,Cardiology,MA,18,Other
+NPI1671666680,Elena,Thomas,Emergency Medicine,MO,14,Other
+NPI8209685192,Barbara,Anderson,Cardiology,MI,21,Top 50
+NPI1336012775,Karen,Anderson,Internal Medicine,IL,13,Top 50
+NPI1252630107,Jennifer,Miller,Dermatology,WI,14,Top 50
+NPI5151841765,David,Lee,Psychiatry,PA,31,Other
+NPI2991621606,Susan,Singh,General Surgery,CA,10,Top 50
+NPI6343468362,Robert,Davis,Neurology,VA,13,Other
+NPI1232352947,Michelle,Nguyen,Gastroenterology,WI,6,Other
+NPI1318505881,Barbara,Martin,Neurology,TX,28,Other
+NPI7544336464,Karen,Chen,Endocrinology,IN,28,Top 50
+NPI2891486462,Thomas,Chen,Orthopedic Surgery,IN,27,Other
+NPI6907754112,Richard,Johnson,Oncology,MD,7,Other
+NPI7749299452,Karen,Smith,Family Medicine,NC,18,Top 50
+NPI1533980491,Thomas,O'Brien,Oncology,IL,12,Other
+NPI7927785589,John,Jones,Internal Medicine,NJ,30,Top 50
+NPI3415790961,Wei,Lee,General Surgery,FL,14,Other
+NPI4505913623,Patricia,Nguyen,Family Medicine,IN,17,Other
+NPI1779752730,Jessica,Jackson,Internal Medicine,AZ,18,Top 20
+NPI8547669849,David,Smith,Family Medicine,MI,30,Other
+NPI6046559076,Jessica,Smith,Dermatology,NJ,28,Other
+NPI5541987500,John,Patel,Family Medicine,MA,32,Other
+NPI9716993297,Priya,Murphy,Orthopedic Surgery,NJ,17,Top 50
+NPI4010551839,Richard,Anderson,Dermatology,IN,32,Top 50
+NPI9017013577,Mary,Martin,Cardiology,MD,34,Other
+NPI7477190928,James,Rodriguez,General Surgery,MD,21,Other
+NPI9356753221,Thomas,Wang,Family Medicine,WA,27,Other
+NPI9170218473,Lisa,Martin,Internal Medicine,MA,36,Top 50
+NPI9919268244,Thomas,White,Orthopedic Surgery,OH,33,Other
+NPI2185090768,Priya,Rodriguez,Pulmonology,CA,11,Top 50
+NPI8164147528,Ahmed,Chen,Family Medicine,NC,28,Other
+NPI8240449193,Raj,Thomas,Psychiatry,MO,18,Top 20
+NPI6799361752,Michelle,Patel,Family Medicine,FL,6,Top 50
+NPI3509748623,Raj,Martinez,Rheumatology,NJ,15,Top 50
+NPI9686334443,Fatima,O'Brien,Psychiatry,NY,39,Other
+NPI2839799240,Richard,Williams,Psychiatry,NC,38,Top 50
+NPI5496178404,Sarah,Miller,Psychiatry,FL,31,Other
+NPI5693384014,Charles,Anderson,Internal Medicine,MA,39,Top 20
+NPI2456464103,Jennifer,Miller,Orthopedic Surgery,IN,23,Other
+NPI7502759400,Wei,Lee,Neurology,TN,30,Other
+NPI1799804477,Karen,Kim,Orthopedic Surgery,MA,7,Top 20
+NPI7237880008,Sarah,Murphy,Cardiology,PA,12,Top 20
+NPI8637539465,Elena,Jackson,Oncology,NJ,7,Top 50
+NPI4144567825,Wei,Thompson,Family Medicine,FL,37,Other
+NPI7384787276,Anita,Lee,Internal Medicine,GA,24,Other
+NPI2410966073,Michelle,Smith,Internal Medicine,NJ,37,Top 20
+NPI8613541012,Carlos,Kim,Oncology,AZ,17,Other
+NPI9568285286,William,Smith,Orthopedic Surgery,TX,16,Other
+NPI2374243241,Jennifer,Martin,Internal Medicine,IN,27,Other
+NPI7226735265,William,Clark,Dermatology,MI,23,Other
+NPI5552479868,Priya,Chen,Rheumatology,MO,15,Other
+NPI5783493985,Elena,Jackson,General Surgery,NJ,13,Other
+NPI7358407466,Raj,Martinez,Oncology,NJ,21,Other
+NPI5398664493,Wei,Singh,Endocrinology,AZ,3,Top 50
+NPI6402937527,Wei,Singh,Psychiatry,IN,8,Other
+NPI3078109174,Kevin,Taylor,Pulmonology,NY,2,Other
+NPI4406559368,Wei,Brown,Endocrinology,NJ,7,Other
+NPI8787163149,Robert,Lee,Rheumatology,CA,8,Top 50
+NPI1989122604,Sarah,White,Psychiatry,MI,3,Other
+NPI6378177347,David,Rodriguez,Orthopedic Surgery,IN,3,Top 20
+NPI2658583559,Lisa,Murphy,Cardiology,MO,32,Other
+NPI8618856380,Lisa,Miller,Endocrinology,IL,8,Top 50
+NPI6211395584,William,Davis,Oncology,GA,22,Other
+NPI4627439043,William,Clark,Pulmonology,VA,4,Other
+NPI3248422062,John,Martinez,Endocrinology,GA,37,Top 20
+NPI4931602292,William,Hernandez,Oncology,NY,10,Top 50
+NPI9618510932,Carlos,Martinez,Emergency Medicine,OH,30,Top 20
+NPI5582883607,Lisa,Taylor,Oncology,NC,26,Other
+NPI5225405784,Kevin,Martin,Internal Medicine,NJ,30,Other
+NPI7716464320,Anita,Wilson,Internal Medicine,MD,25,Other
+NPI4411423637,Elena,Thomas,Internal Medicine,NJ,20,Other
+NPI4846815548,Jennifer,Anderson,Cardiology,GA,31,Other
+NPI4032529583,David,Brown,Oncology,AZ,32,Top 50
+NPI2358277797,Mary,Chen,General Surgery,TN,15,Other
+NPI7424282927,John,Murphy,Orthopedic Surgery,NC,37,Other
+NPI8857278224,Michael,Moore,Cardiology,MI,39,Top 20
+NPI9150333842,William,Miller,Psychiatry,PA,29,Other
+NPI8927226441,James,White,Internal Medicine,MO,37,Other
+NPI5066054221,Elena,Martin,Pulmonology,MO,5,Other
+NPI3556595729,Sarah,Martin,Internal Medicine,NY,22,Other
+NPI6741313745,Lisa,Lee,Psychiatry,OH,26,Top 20
+NPI9592344206,Lisa,Kim,Family Medicine,IL,37,Other
+NPI7543455832,Michelle,Johnson,Neurology,MD,5,Top 50
+NPI5453637053,Robert,Williams,Family Medicine,TX,32,Other
+NPI7199277169,David,Williams,General Surgery,PA,4,Top 50
+NPI7952841211,Barbara,Jones,Internal Medicine,OH,14,Other
+NPI9273423351,Thomas,Clark,Gastroenterology,VA,28,Other
+NPI7868941784,Sarah,Kim,Endocrinology,PA,12,Top 50
+NPI4898715000,Fatima,White,General Surgery,NJ,33,Top 50
+NPI3462458665,Thomas,Patel,Dermatology,MA,37,Top 50
+NPI5498934982,Linda,Johnson,Emergency Medicine,IN,7,Other
+NPI3953601501,Thomas,Miller,Internal Medicine,TX,11,Other
+NPI9484881333,Kevin,Chen,Family Medicine,FL,3,Top 50
+NPI5571692590,Karen,Hernandez,Family Medicine,TX,28,Other
+NPI5248507023,Karen,Jackson,Family Medicine,MD,35,Other
+NPI4133765963,Jennifer,Nguyen,Psychiatry,AZ,24,Other
+NPI6754662911,James,Williams,Emergency Medicine,NJ,6,Other
+NPI5680461507,Michael,Chen,Emergency Medicine,TN,7,Other
+NPI2161440305,James,Patel,Endocrinology,VA,2,Other
+NPI8822870296,Jessica,Thomas,Neurology,PA,20,Top 50
+NPI4231115488,Raj,Moore,Dermatology,NJ,29,Top 50
+NPI4893205869,Jessica,Williams,Pulmonology,MA,6,Other
+NPI2851003509,Lisa,Miller,Internal Medicine,CA,34,Other
+NPI5980583868,Elena,Davis,Rheumatology,WA,10,Top 50
+NPI7318495561,Ahmed,Murphy,Dermatology,MI,21,Other
+NPI8930487884,Lisa,Brown,Family Medicine,TX,27,Top 50
+NPI1464468984,Fatima,Wilson,Oncology,IL,22,Other
+NPI9759987186,William,Brown,Emergency Medicine,NC,19,Other
+NPI7334359677,Richard,Wilson,Emergency Medicine,OH,14,Other
+NPI3558688159,Susan,Smith,Gastroenterology,IL,17,Other
+NPI2840272794,Fatima,Wilson,General Surgery,WA,10,Top 50
+NPI3664791267,Richard,Kim,Family Medicine,NC,12,Top 50
+NPI8881531764,Kevin,Chen,Family Medicine,MI,30,Top 50
+NPI3622511558,Jennifer,Taylor,Rheumatology,TN,35,Other
+NPI5165390210,Jennifer,Kim,Rheumatology,TX,34,Top 50
+NPI7351642487,Priya,Thompson,Endocrinology,GA,13,Other
+NPI8847908772,Ahmed,O'Brien,Neurology,TX,13,Top 50
+NPI6927140460,Wei,Wang,Family Medicine,MD,3,Other
+NPI7777982768,Barbara,Miller,General Surgery,NY,11,Top 50
+NPI2559941166,James,Lee,Family Medicine,IN,23,Other
+NPI8896670448,Barbara,Chen,Family Medicine,NY,11,Other
+NPI3481472652,Jessica,Martinez,Internal Medicine,OH,29,Other
+NPI2155403476,Richard,Lee,Internal Medicine,WA,2,Other
+NPI9786198612,Anita,Thomas,Dermatology,IN,17,Other
+NPI2814759328,Elena,Martinez,Oncology,NY,11,Top 50
+NPI2229867730,Fatima,Garcia,Internal Medicine,PA,20,Other
+NPI6634188100,James,Johnson,General Surgery,MO,2,Other
+NPI3869768345,Patricia,Nguyen,Rheumatology,OH,17,Other
+NPI2200142846,Jessica,Wang,Cardiology,PA,31,Other
+NPI6410090054,Charles,White,Family Medicine,MA,34,Top 50
+NPI7830867044,Wei,Davis,Internal Medicine,TX,10,Other
+NPI8138785367,William,Smith,Neurology,MO,17,Top 50
+NPI2399613408,Patricia,Thompson,Family Medicine,MO,27,Top 50
+NPI6011803610,Barbara,Garcia,Cardiology,MO,19,Top 50
+NPI8323105335,Fatima,Martin,Cardiology,IL,22,Other
+NPI2449783102,Michelle,Clark,Psychiatry,FL,14,Top 50
+NPI2869140265,Kevin,Smith,Cardiology,NC,33,Other
+NPI1021702576,Karen,Lee,Dermatology,OH,25,Other
+NPI5721707407,John,Clark,Internal Medicine,WI,38,Other
+NPI2752135271,Michelle,Anderson,Psychiatry,WA,31,Top 20
+NPI7518183180,Robert,Wang,Oncology,MD,15,Other
+NPI9659924699,William,Wang,Oncology,TN,13,Other
+NPI2878799400,Michelle,Moore,Cardiology,MA,4,Other
+NPI6841873105,Sarah,Martinez,General Surgery,FL,25,Other
+NPI2906510152,Jennifer,Patel,Gastroenterology,TX,30,Top 50
+NPI1162061730,Sarah,Thompson,Cardiology,CA,14,Other
+NPI7826987747,John,Moore,Internal Medicine,VA,1,Top 20
+NPI4906042089,Barbara,Garcia,Gastroenterology,PA,33,Other
+NPI9521081752,Kevin,Nguyen,Rheumatology,WI,9,Top 20
+NPI5808572938,William,Miller,Internal Medicine,FL,23,Other
+NPI2417345820,Raj,Jones,Internal Medicine,MD,3,Other
+NPI5047969975,Thomas,Williams,Neurology,AZ,3,Top 20
+NPI2826026153,Lisa,Hernandez,Orthopedic Surgery,FL,36,Other
+NPI8902263453,Priya,Brown,Psychiatry,TX,27,Top 50
+NPI7218128627,Thomas,Anderson,Emergency Medicine,GA,1,Other
+NPI4071149241,Mary,Davis,Endocrinology,OH,4,Other
+NPI5750382904,Anita,Hernandez,Family Medicine,OH,20,Other
+NPI7025321693,Joseph,Chen,Oncology,NJ,27,Other
+NPI8045719449,Lisa,Hernandez,Family Medicine,FL,17,Other
+NPI1721324888,Thomas,Martin,Internal Medicine,FL,35,Other
+NPI1202669577,Lisa,Jones,Cardiology,AZ,26,Other
+NPI2030074274,David,Brown,Family Medicine,WI,24,Top 50
+NPI4554966791,Elena,Clark,Orthopedic Surgery,IL,12,Top 50
+NPI5200359490,Michael,Thompson,Cardiology,MD,27,Other
+NPI2228154671,Lisa,Smith,Oncology,OH,35,Other
+NPI4700378240,Karen,Martin,Neurology,OH,2,Other
+NPI4974605076,Sarah,Smith,Psychiatry,TX,29,Other
+NPI1981809672,James,Williams,General Surgery,NC,35,Other
+NPI9249939640,Susan,Taylor,General Surgery,MI,17,Other
+NPI6392313347,Mary,White,Orthopedic Surgery,AZ,30,Other
+NPI4496819773,Sarah,Thompson,Internal Medicine,NY,14,Other
+NPI5562164650,Wei,Chen,Oncology,NY,8,Other
+NPI3827777377,Sarah,Garcia,Psychiatry,NC,32,Top 50
+NPI8688979283,Ahmed,Garcia,Family Medicine,TX,13,Other
+NPI6175135373,David,Jackson,Cardiology,FL,30,Other
+NPI5454062329,Barbara,Murphy,Internal Medicine,WA,13,Other
+NPI9197968626,Jessica,Kim,Oncology,WI,16,Top 50
+NPI8541817283,Michael,Patel,Family Medicine,VA,27,Other
+NPI8315217022,Carlos,Williams,Internal Medicine,FL,14,Top 50
+NPI3030482837,Carlos,Murphy,Dermatology,WI,32,Top 20
+NPI2378108003,Richard,Clark,Pulmonology,NJ,2,Other
+NPI7210868676,Fatima,Lee,Internal Medicine,MA,1,Other
+NPI5217780306,James,Anderson,Pulmonology,NY,4,Top 20
+NPI7153414415,Robert,White,Cardiology,VA,10,Other
+NPI7845645088,William,White,Pulmonology,TX,3,Other
+NPI3657821565,Susan,O'Brien,Emergency Medicine,WA,15,Other
+NPI3561853897,Michael,Brown,Cardiology,PA,1,Other
+NPI5417484095,Sarah,Jackson,General Surgery,MD,30,Other
+NPI3461943821,Fatima,Kim,Emergency Medicine,TX,6,Other
+NPI7005657483,Jessica,Anderson,Gastroenterology,AZ,38,Other
+NPI7720574012,Jessica,Singh,Emergency Medicine,FL,34,Other
+NPI5248350514,Mary,Johnson,Rheumatology,AZ,28,Top 50
+NPI7514197889,William,Brown,Cardiology,MI,32,Top 50
+NPI5593938121,Carlos,Chen,Dermatology,WI,31,Other
+NPI7415845496,Carlos,Brown,Psychiatry,AZ,33,Top 50
+NPI3024714229,Patricia,Thomas,Psychiatry,GA,22,Other
+NPI7649587412,James,Wilson,Family Medicine,TX,25,Top 50
+NPI7436116210,Carlos,Patel,Psychiatry,VA,19,Other
+NPI3399451363,Jennifer,Smith,Internal Medicine,NC,25,Other
+NPI6003738918,Karen,Anderson,Orthopedic Surgery,TX,15,Other
+NPI8697805010,Carlos,Clark,Cardiology,VA,5,Other
+NPI3245703822,Fatima,Taylor,Orthopedic Surgery,PA,37,Other
+NPI7623818055,Thomas,Lee,Dermatology,PA,28,Other
+NPI9585700453,Susan,Clark,Oncology,CA,28,Top 50
+NPI8796177276,Fatima,Thompson,Endocrinology,GA,11,Other
+NPI4613680743,Wei,Nguyen,Family Medicine,PA,31,Other
+NPI6464869596,Elena,Rodriguez,Emergency Medicine,TX,21,Top 50
+NPI9925931207,Sarah,Thompson,Orthopedic Surgery,NC,3,Top 20
+NPI6115936701,Kevin,Wang,Family Medicine,PA,38,Other
+NPI2035248421,Fatima,Jackson,Internal Medicine,FL,39,Top 50
+NPI1408876792,Mary,Wang,Internal Medicine,MI,34,Other
+NPI8112830586,William,White,Oncology,TX,19,Top 50
+NPI4812654928,Fatima,Anderson,Pulmonology,WI,10,Other
+NPI3221316015,Patricia,Martin,Orthopedic Surgery,MI,1,Other
+NPI4129048275,Priya,Anderson,Internal Medicine,WI,29,Other
+NPI7816355798,David,Taylor,Dermatology,MO,35,Other
+NPI5187226020,Michael,Wilson,Family Medicine,WI,5,Top 50
+NPI8816495431,Thomas,Moore,Dermatology,NJ,27,Other
+NPI7614330298,Anita,Anderson,Internal Medicine,NC,2,Other
+NPI9766127353,Raj,Thompson,Psychiatry,MA,31,Other
+NPI8996533900,Richard,Taylor,Pulmonology,TX,2,Top 50
+NPI3290924905,James,Moore,Family Medicine,IN,39,Top 20
+NPI6931533094,Raj,Jones,Orthopedic Surgery,OH,7,Other
+NPI1184887310,Raj,Taylor,Emergency Medicine,CA,16,Other
+NPI9919960518,Charles,Anderson,Internal Medicine,PA,28,Top 50
+NPI3349054978,Charles,Rodriguez,Internal Medicine,PA,34,Other
+NPI6983155841,Sarah,Hernandez,Neurology,CA,15,Top 20
+NPI8642382589,James,Smith,Family Medicine,AZ,39,Other
+NPI2444181964,Robert,Martinez,Cardiology,TX,1,Top 50
+NPI8630914084,Robert,Kim,Oncology,IN,19,Top 50
+NPI1110210992,Anita,Jones,General Surgery,MI,39,Top 50
+NPI4977794242,Mary,Jones,Family Medicine,MA,11,Top 50
+NPI5248338602,Thomas,Taylor,Family Medicine,OH,21,Other
+NPI4366816418,David,Anderson,Dermatology,FL,18,Top 50
+NPI6277462716,James,Moore,Endocrinology,NY,16,Other
+NPI9233581137,Anita,Johnson,Dermatology,WA,30,Other
+NPI3942902028,James,Kim,Oncology,MA,21,Other
+NPI6213338983,Elena,Miller,Emergency Medicine,IL,28,Other
+NPI8897162730,Fatima,Kim,Neurology,GA,21,Top 50
+NPI7956958555,Fatima,Martin,Internal Medicine,MD,39,Top 20
+NPI1366599383,Robert,Miller,Gastroenterology,MO,19,Other
+NPI9485116876,Raj,Moore,Endocrinology,NC,32,Other
+NPI1419822138,Karen,Johnson,Internal Medicine,PA,24,Other
+NPI6298826268,Richard,Kim,Internal Medicine,OH,32,Other
+NPI6178182582,Wei,Martinez,Orthopedic Surgery,NJ,35,Other
+NPI8077512075,David,Taylor,Cardiology,VA,9,Other
+NPI2335987466,William,Jones,Family Medicine,NY,12,Other
+NPI2614333528,William,Anderson,Internal Medicine,TX,12,Other
+NPI7768962393,Karen,Taylor,Oncology,MI,19,Other
+NPI2345542771,Charles,Miller,Family Medicine,TN,20,Other
+NPI5225006143,Linda,Clark,Endocrinology,NY,1,Other
+NPI7584832811,Linda,Wilson,Family Medicine,NC,35,Top 50
+NPI6861177358,Kevin,Garcia,Cardiology,NY,34,Top 50
+NPI2895437674,Sarah,Martin,Psychiatry,PA,24,Top 50
+NPI3735642327,Elena,Martinez,Family Medicine,WA,12,Other
+NPI9720774128,Barbara,Hernandez,Neurology,IL,33,Other
+NPI5038035580,William,Kim,Internal Medicine,IL,11,Top 50
+NPI1400117287,William,Williams,Cardiology,WI,12,Other
+NPI2976264094,Sarah,Jackson,Family Medicine,NY,39,Top 50
+NPI4081915806,Fatima,Smith,Oncology,NY,37,Other
+NPI9995404637,Sarah,Johnson,Family Medicine,MD,23,Top 50
+NPI3724223926,William,Williams,General Surgery,VA,7,Other
+NPI1237562639,Kevin,Jones,Family Medicine,CA,5,Other
+NPI5616294197,Karen,Anderson,Rheumatology,NC,38,Other
+NPI1752448464,Susan,Rodriguez,Psychiatry,VA,11,Other
+NPI3466608387,James,O'Brien,Cardiology,IL,27,Top 50
+NPI9931448583,Thomas,Brown,Endocrinology,NJ,14,Other
+NPI7341746669,Charles,Clark,Family Medicine,WA,20,Top 50
+NPI1455999663,Anita,White,Family Medicine,IL,39,Other
+NPI5038180466,Michael,Martin,Internal Medicine,IN,24,Other
+NPI2544737613,Robert,Chen,General Surgery,MI,17,Other
+NPI2106501907,Michelle,Moore,Pulmonology,WI,17,Other
+NPI6283588719,Thomas,Davis,Cardiology,TX,9,Top 50
+NPI5550903006,James,Jackson,Psychiatry,OH,22,Other
+NPI7685799258,Patricia,Kim,General Surgery,MA,23,Top 50
+NPI9030756053,Joseph,Patel,Family Medicine,MO,4,Other
+NPI3220136716,Charles,Garcia,General Surgery,PA,16,Other
+NPI9306927878,Linda,Rodriguez,Neurology,WI,26,Other
+NPI5661925952,David,Wilson,Pulmonology,NY,3,Other
+NPI3329514263,Ahmed,Wang,Emergency Medicine,NC,39,Other
+NPI8612072542,Michelle,Martinez,Cardiology,OH,34,Top 50
+NPI1319769262,Joseph,Johnson,Oncology,NC,25,Other
+NPI6035584396,Richard,Clark,Rheumatology,MD,1,Other
+NPI7494593814,David,Lee,Internal Medicine,MA,21,Other
+NPI3519799184,Robert,Miller,Family Medicine,TN,36,Top 20
+NPI8771427257,Mary,Smith,Emergency Medicine,IL,1,Top 50
+NPI3162561069,Elena,Brown,Cardiology,MD,31,Other
+NPI8558868543,Mary,Garcia,Oncology,NC,33,Other
+NPI1706904674,Carlos,O'Brien,Dermatology,AZ,3,Other
+NPI2439348326,Linda,Garcia,Family Medicine,AZ,9,Top 50
+NPI4428861254,Wei,Jones,Oncology,AZ,29,Top 20
+NPI8686499614,Kevin,Singh,Emergency Medicine,WA,36,Other
+NPI2301268285,Ahmed,Murphy,Oncology,MI,31,Top 50
+NPI8878944157,Priya,Miller,Internal Medicine,WA,21,Top 50
+NPI3067583739,Linda,White,Cardiology,MD,24,Top 20
+NPI5072575586,Karen,Martin,Pulmonology,GA,21,Top 50
+NPI4174609637,Lisa,Lee,Family Medicine,NJ,23,Top 50
+NPI2063136039,Richard,Martinez,Endocrinology,NY,31,Other
+NPI9498787654,Mary,Nguyen,Internal Medicine,GA,2,Top 50
+NPI4943604616,Anita,Murphy,Family Medicine,TN,9,Other
+NPI7212981351,Jennifer,Kim,Pulmonology,WA,3,Other
+NPI6177409089,Michelle,O'Brien,Endocrinology,PA,32,Other
+NPI5515443251,Anita,Brown,Emergency Medicine,NJ,29,Other
+NPI6549198611,James,White,Family Medicine,IN,3,Other
+NPI9085080754,Ahmed,Clark,Endocrinology,FL,5,Other
+NPI7293811380,Lisa,Martin,Dermatology,TX,11,Other
+NPI5792320714,Michael,Rodriguez,Oncology,GA,10,Other
+NPI6806673645,Carlos,Anderson,Family Medicine,AZ,21,Other
+NPI6457548523,Patricia,Murphy,Dermatology,OH,20,Other
+NPI4898090866,Linda,Rodriguez,Family Medicine,IN,14,Other
+NPI6622876090,Kevin,Thompson,Rheumatology,IN,7,Top 50
+NPI4992128201,Ahmed,Kim,Emergency Medicine,NJ,26,Top 50
+NPI7818529400,Patricia,Jackson,Internal Medicine,GA,31,Top 50
+NPI9720212350,Robert,Martinez,Family Medicine,CA,25,Other
+NPI9638788216,Linda,Martin,Cardiology,IN,32,Other
+NPI8386622077,John,Rodriguez,Family Medicine,MO,36,Other
+NPI6415830072,Jennifer,Smith,Internal Medicine,NC,33,Top 20
+NPI7743987891,Karen,Miller,Neurology,NJ,26,Top 50
+NPI2602434657,James,Moore,Internal Medicine,TN,2,Top 50
+NPI5311166115,William,Anderson,Neurology,AZ,14,Other
+NPI3315742884,Barbara,Thompson,Family Medicine,FL,17,Top 50
+NPI1031454829,Michelle,Anderson,Family Medicine,AZ,28,Top 20
+NPI9700638171,Michelle,White,Family Medicine,MD,34,Top 20
+NPI8774637055,Elena,Brown,Orthopedic Surgery,TN,25,Other
+NPI5623287565,David,Martinez,Oncology,MI,15,Top 50
+NPI3287370592,Sarah,Patel,Family Medicine,NJ,31,Other
+NPI7236776891,Sarah,Moore,Dermatology,IL,28,Other
+NPI4913209760,Elena,Kim,Psychiatry,AZ,32,Other
+NPI8230145800,Ahmed,White,Internal Medicine,PA,23,Other
+NPI9995662990,Anita,Martinez,Gastroenterology,OH,26,Top 20
+NPI4141743467,Thomas,Thomas,Family Medicine,IL,14,Top 50
+NPI3199627391,Anita,Rodriguez,Cardiology,OH,16,Other
+NPI3406442398,Ahmed,Rodriguez,Endocrinology,GA,11,Top 50
+NPI1840116211,Ahmed,Johnson,Internal Medicine,TX,11,Other
+NPI4546415768,Lisa,Kim,Internal Medicine,MA,26,Other
+NPI1156825474,David,Moore,General Surgery,NC,15,Top 20
+NPI2029560016,Charles,Smith,Internal Medicine,MD,6,Top 50
+NPI3445261725,David,White,General Surgery,NY,2,Other
+NPI2438764983,Lisa,Smith,Pulmonology,AZ,34,Other
+NPI7589431894,Linda,Martinez,Psychiatry,NY,17,Other
+NPI1950443117,Fatima,Patel,Orthopedic Surgery,NJ,23,Top 50
+NPI8793946944,Karen,Wang,Orthopedic Surgery,MI,36,Other
+NPI2990030533,Priya,Thomas,Emergency Medicine,NC,5,Top 50
+NPI1977315552,Michael,Wang,Family Medicine,AZ,37,Top 50
+NPI1090959799,Fatima,Singh,Internal Medicine,IN,28,Other
+NPI7436845038,Carlos,Hernandez,Endocrinology,OH,25,Other
+NPI3309550713,Robert,Garcia,Rheumatology,IN,17,Other
+NPI5585487445,David,White,Internal Medicine,NY,28,Other
+NPI2004544419,Wei,Smith,Psychiatry,IL,8,Top 50
+NPI9867663308,Raj,Murphy,Cardiology,OH,12,Other
+NPI2128462651,Ahmed,Taylor,Pulmonology,WI,38,Top 20
+NPI4707333339,Joseph,Nguyen,Family Medicine,FL,11,Other
+NPI8664845520,William,Nguyen,Cardiology,GA,29,Top 20
+NPI3203982536,Anita,Moore,Internal Medicine,NC,37,Other
+NPI3402746067,Raj,Clark,Internal Medicine,IN,24,Top 50
+NPI8276495642,Raj,Chen,Family Medicine,MI,12,Other
+NPI3460056914,Barbara,Murphy,Cardiology,WI,34,Top 50
+NPI1025841799,Jessica,Williams,Family Medicine,MA,33,Other
+NPI4851223483,Linda,Moore,Internal Medicine,MA,22,Other
+NPI1112816887,Kevin,Rodriguez,Family Medicine,TN,5,Other
+NPI9188130553,Raj,Wang,Family Medicine,NY,18,Other
+NPI6776319016,Jennifer,Hernandez,Family Medicine,NC,17,Top 50
+NPI6247128395,Linda,Williams,Family Medicine,VA,8,Other
+NPI2814305597,Thomas,Wilson,Internal Medicine,PA,16,Other
+NPI7299515668,Richard,Lee,Cardiology,FL,6,Top 50
+NPI7095291792,Jessica,White,Internal Medicine,FL,28,Other
+NPI1544172165,Susan,O'Brien,General Surgery,TN,17,Other
+NPI8927618776,Wei,Williams,Emergency Medicine,AZ,29,Other
+NPI6214720265,Raj,Taylor,Pulmonology,IL,18,Other
+NPI8132201928,Anita,Wilson,Endocrinology,MA,28,Other
+NPI3366226648,Jessica,Rodriguez,Rheumatology,AZ,29,Other
+NPI2098430197,Carlos,Jones,Family Medicine,IN,7,Other
+NPI7322046157,Wei,Miller,General Surgery,MD,18,Other
+NPI8144944175,Jennifer,Wilson,General Surgery,MO,30,Top 50
+NPI4474301802,Fatima,Brown,Dermatology,NY,24,Other
+NPI1213230477,David,White,Gastroenterology,TN,9,Other
+NPI8364286221,Charles,Jackson,Oncology,GA,33,Top 50
+NPI2854845156,Priya,Martin,General Surgery,NC,8,Other
+NPI4051287476,Kevin,O'Brien,General Surgery,WA,39,Other
+NPI6654079069,Kevin,Thomas,Family Medicine,WA,28,Other
+NPI1899592472,Carlos,Martinez,Pulmonology,NC,13,Other
+NPI1647961895,Sarah,Taylor,Internal Medicine,WI,8,Top 50
+NPI1231333944,Richard,Wang,Emergency Medicine,NY,36,Other
+NPI9249758741,Jessica,Jackson,General Surgery,TX,21,Other
+NPI3802444698,Kevin,Garcia,Internal Medicine,CA,32,Other
+NPI6945929335,Michael,Patel,Neurology,IN,33,Top 50
+NPI9903117240,Sarah,Nguyen,Cardiology,NC,3,Other
+NPI7025057141,Wei,Davis,General Surgery,NC,27,Other
+NPI5725853162,James,Martin,General Surgery,WA,14,Top 20
+NPI5688279401,Lisa,Martin,Psychiatry,NC,36,Other
+NPI4392254335,Linda,Garcia,Dermatology,VA,9,Other
+NPI6398016902,William,Smith,Internal Medicine,TX,2,Other
+NPI9629122504,Charles,Kim,Family Medicine,NY,26,Other
+NPI8092396302,James,Thompson,Family Medicine,MD,22,Other
+NPI4818039552,Robert,Kim,Cardiology,MI,22,Other
+NPI3992003460,Jessica,Taylor,Oncology,NY,11,Other
+NPI8951783765,Karen,Jackson,Family Medicine,GA,20,Other
+NPI2222072430,Patricia,Clark,Family Medicine,OH,38,Other
+NPI8646267311,David,Miller,Family Medicine,IL,30,Other
+NPI3295690851,Barbara,White,Gastroenterology,IL,39,Top 20
+NPI7440663121,Thomas,Brown,Family Medicine,MA,13,Top 50
+NPI8255985226,Barbara,Johnson,Gastroenterology,FL,34,Other
+NPI5292968654,James,Rodriguez,Family Medicine,OH,15,Other
+NPI2730555785,Sarah,Brown,Family Medicine,MI,37,Other
+NPI8602909690,Elena,White,Endocrinology,NJ,34,Other
+NPI4307575105,Karen,Jackson,Family Medicine,MO,7,Other
+NPI3886122344,David,Wang,Family Medicine,MD,38,Top 50
+NPI5590145640,Joseph,Martin,Endocrinology,IL,24,Other
+NPI4915776169,Robert,Patel,Internal Medicine,NJ,31,Other
+NPI7147469952,Linda,Murphy,Family Medicine,CA,23,Top 50
+NPI2234780275,Jessica,Wang,Psychiatry,WA,9,Other
+NPI4921206885,Karen,Kim,Family Medicine,NY,39,Other
+NPI9025316300,Joseph,Jones,Dermatology,TX,5,Other
+NPI1324564384,Kevin,Garcia,Family Medicine,AZ,32,Other
+NPI5116044997,Lisa,Moore,Emergency Medicine,NY,9,Top 20
+NPI6944787696,James,White,General Surgery,MI,31,Other
+NPI8989399782,Sarah,Patel,Emergency Medicine,FL,17,Other
+NPI6344076041,Karen,Chen,Dermatology,MA,10,Other
+NPI8420358440,Mary,Brown,Internal Medicine,TN,10,Top 50
+NPI3004219170,Susan,Garcia,Endocrinology,VA,13,Other
+NPI4175284925,Raj,Jones,Internal Medicine,IN,36,Top 50
+NPI9479190464,David,Martin,Dermatology,NC,31,Top 50
+NPI8973776016,Jessica,White,Psychiatry,NY,27,Other
+NPI6021576843,Michael,Brown,Family Medicine,NY,25,Other
+NPI5279395039,John,Murphy,Pulmonology,PA,17,Other
+NPI5059606522,Barbara,Martinez,Internal Medicine,PA,36,Top 20
+NPI1529106954,Fatima,White,Psychiatry,OH,11,Other
+NPI9031393934,Michelle,Nguyen,Orthopedic Surgery,PA,37,Other
+NPI8363345574,Lisa,Johnson,Cardiology,VA,15,Other
+NPI5106260302,Carlos,Singh,Psychiatry,FL,14,Other
+NPI3514959754,Lisa,Clark,General Surgery,WA,19,Other
+NPI4086285457,Lisa,Rodriguez,Cardiology,OH,30,Top 50
+NPI2108445272,Richard,Jones,Endocrinology,AZ,28,Top 50
+NPI7496107671,Mary,Taylor,Family Medicine,NJ,30,Other
+NPI6010028708,Richard,Miller,Neurology,MD,4,Other
+NPI3106930805,Elena,Hernandez,Internal Medicine,NC,7,Other
+NPI6607050148,Thomas,Clark,Pulmonology,IL,34,Other
+NPI9813071927,Ahmed,Nguyen,Gastroenterology,VA,39,Other
+NPI2101556219,Mary,Chen,Internal Medicine,AZ,5,Other
+NPI5126365095,Michael,Thomas,Family Medicine,NC,36,Other
+NPI5447429387,William,Rodriguez,Psychiatry,VA,11,Top 20
+NPI2501174924,David,O'Brien,Orthopedic Surgery,MI,39,Other
+NPI5784221898,Michelle,Wang,Oncology,OH,39,Other
+NPI6453795326,Jessica,Wang,Internal Medicine,OH,25,Top 20
+NPI2416100849,Lisa,White,Internal Medicine,MD,8,Top 50
+NPI2392515090,Lisa,Williams,Emergency Medicine,AZ,31,Other
+NPI8707138439,Richard,Wilson,Oncology,TX,4,Other
+NPI3802486929,Kevin,Chen,Gastroenterology,WI,14,Top 20
+NPI6673000483,Michael,Martinez,Endocrinology,MA,25,Top 50
+NPI6640957680,Mary,Garcia,Pulmonology,TX,3,Top 50
+NPI8552537879,Ahmed,Rodriguez,Internal Medicine,MA,16,Top 50
+NPI7659051680,Lisa,Moore,Internal Medicine,VA,32,Other
+NPI8565187900,Linda,Singh,Pulmonology,MD,4,Other
+NPI6626933106,Raj,Wilson,Emergency Medicine,MI,15,Other
+NPI5045114444,Robert,Anderson,Family Medicine,NJ,1,Top 20
+NPI4542098691,Linda,Anderson,Family Medicine,OH,26,Other
+NPI4411267899,Robert,Taylor,Oncology,OH,4,Top 50
+NPI4765537880,Jennifer,Hernandez,Family Medicine,WA,11,Other
+NPI2163783269,Priya,Wilson,Internal Medicine,IN,21,Other
+NPI4815625338,Priya,Wang,Gastroenterology,MO,9,Other
+NPI4505004164,Lisa,Martinez,Family Medicine,TN,10,Other
+NPI1311144969,Elena,Hernandez,Orthopedic Surgery,WA,33,Top 20
+NPI3476176797,John,Singh,Cardiology,NJ,31,Top 50
+NPI7767162771,Charles,Hernandez,Cardiology,OH,4,Other
+NPI6201510142,Patricia,Smith,Neurology,TN,34,Top 50
+NPI8255507469,Kevin,Smith,Family Medicine,OH,19,Other
+NPI5884192398,Lisa,Hernandez,Neurology,IL,6,Top 50
+NPI8686753888,Ahmed,White,Internal Medicine,MO,36,Other
+NPI8164603895,Karen,Rodriguez,Emergency Medicine,VA,14,Top 50
+NPI1884561131,Susan,Brown,General Surgery,GA,13,Top 50
+NPI9793057311,Wei,Martin,Gastroenterology,MO,6,Other
+NPI1132727022,Elena,Wilson,Internal Medicine,WI,35,Other
+NPI6371542340,Jennifer,Hernandez,Family Medicine,OH,12,Other
+NPI8132603583,Raj,Hernandez,Family Medicine,NJ,24,Other
+NPI3987047258,Priya,Martinez,Rheumatology,MI,10,Top 20
+NPI6387128130,John,Smith,Family Medicine,MA,35,Top 20
+NPI4259102777,Kevin,Williams,Cardiology,WI,31,Top 20
+NPI1545534775,Jennifer,Jackson,Family Medicine,NJ,20,Other
+NPI1076153671,Charles,Miller,Family Medicine,TN,14,Top 50
+NPI1853758270,Patricia,Martinez,Family Medicine,VA,26,Top 50
+NPI1885686346,Jennifer,Williams,Internal Medicine,MO,20,Other
+NPI6498007995,Lisa,Johnson,Family Medicine,NC,37,Other
+NPI5732787078,Wei,Brown,Psychiatry,GA,27,Other
+NPI5099169701,Wei,Taylor,Family Medicine,NC,2,Top 20
+NPI7227293279,David,Jones,Family Medicine,WI,33,Other
+NPI1151435233,Carlos,Miller,Rheumatology,WA,8,Other
+NPI3438851332,Mary,Martinez,General Surgery,NY,12,Top 50
+NPI7996534580,Elena,Wilson,Family Medicine,CA,18,Other
+NPI9189793957,Barbara,Smith,Psychiatry,NJ,9,Top 20
+NPI4945029365,Charles,Brown,Emergency Medicine,IN,37,Other
+NPI1733355821,Anita,Rodriguez,Endocrinology,MI,39,Other
+NPI8188558652,Linda,Patel,Pulmonology,VA,7,Top 20
+NPI8966533898,Richard,Brown,General Surgery,TN,13,Other
+NPI4722942435,Carlos,Wilson,Cardiology,NJ,15,Other
+NPI3190197285,Elena,Taylor,Oncology,MD,27,Other
+NPI1395745013,Linda,O'Brien,Orthopedic Surgery,WA,24,Other
+NPI6319745396,Sarah,Murphy,Emergency Medicine,MA,27,Other
+NPI9188825414,Barbara,Chen,Oncology,TN,2,Top 50
+NPI7100992229,Sarah,Brown,Internal Medicine,WA,21,Top 20
+NPI3855237380,Susan,Moore,Rheumatology,TX,9,Other
+NPI6785994917,James,Moore,Internal Medicine,NC,9,Other
+NPI8488615666,Anita,White,General Surgery,FL,31,Other
+NPI5282470533,Lisa,Singh,Endocrinology,NJ,6,Other
+NPI8377736409,Jessica,Martinez,Orthopedic Surgery,FL,2,Other
+NPI4527187089,Patricia,Martin,Gastroenterology,NJ,19,Other
+NPI4136551107,John,Davis,Neurology,OH,29,Other
+NPI6246897632,Joseph,Miller,Psychiatry,CA,20,Other
+NPI5182177758,Lisa,Martinez,General Surgery,FL,7,Other
+NPI9794007283,Linda,Nguyen,Dermatology,NJ,31,Other
+NPI5647504811,Ahmed,Hernandez,Gastroenterology,TX,15,Other
+NPI4466548259,Susan,Patel,Cardiology,MO,28,Other
+NPI4554401887,James,Patel,Rheumatology,TN,8,Other
+NPI5931459554,Thomas,Anderson,Internal Medicine,MA,36,Top 50
+NPI4194208341,Jennifer,Rodriguez,Dermatology,NY,12,Other
+NPI7506159416,James,Johnson,Neurology,TN,38,Other
+NPI4425966348,Patricia,Murphy,Family Medicine,WA,15,Other
+NPI4457299478,William,Smith,Internal Medicine,GA,29,Top 50
+NPI6552759243,Sarah,Taylor,Family Medicine,CA,20,Other
+NPI1547621854,Michelle,Wang,Orthopedic Surgery,NJ,3,Other
+NPI6898194262,Michael,Patel,Internal Medicine,TN,4,Other
+NPI5544749953,Mary,Martinez,Internal Medicine,CA,16,Top 50
+NPI5077235028,Jennifer,Murphy,Gastroenterology,TX,8,Other
+NPI7473276915,Barbara,Jones,General Surgery,GA,24,Top 20
+NPI7824302037,Michael,Patel,Internal Medicine,NJ,6,Top 50
+NPI8616347769,Barbara,Jackson,Family Medicine,MI,24,Top 50
+NPI4373228086,Michelle,Miller,Emergency Medicine,NC,8,Other
+NPI3943339229,Susan,O'Brien,Orthopedic Surgery,IL,8,Other
+NPI7429078912,Lisa,Nguyen,Psychiatry,TX,15,Other
+NPI6236243731,Wei,Smith,Family Medicine,CA,23,Other
+NPI6686213916,Patricia,Williams,Family Medicine,TX,16,Other
+NPI5999706163,Linda,Johnson,Cardiology,AZ,14,Other
+NPI7954237208,Richard,Thomas,Orthopedic Surgery,TN,14,Top 50
+NPI2710367996,Jessica,Thomas,Cardiology,NC,14,Top 50
+NPI6001409194,James,Kim,Cardiology,TX,16,Top 20
+NPI2422916100,Lisa,Patel,Orthopedic Surgery,NC,33,Other
+NPI4665267453,Barbara,Smith,Emergency Medicine,WI,23,Other
+NPI6975944410,Barbara,Moore,General Surgery,PA,17,Other
+NPI5437644474,Charles,Chen,Oncology,MI,30,Other
+NPI4416323829,Kevin,Murphy,Endocrinology,NJ,21,Top 50
+NPI8964730011,Elena,Wilson,Oncology,OH,38,Other
+NPI7955431429,Michelle,Johnson,Family Medicine,NC,22,Other
+NPI5736617064,Richard,Jones,Endocrinology,MI,9,Top 50
+NPI9550478400,Patricia,Anderson,Oncology,MI,22,Other
+NPI4819287604,Michael,Hernandez,Psychiatry,MA,31,Other
+NPI8092656347,David,Anderson,Gastroenterology,VA,9,Top 50
+NPI2511426158,Barbara,Williams,Emergency Medicine,TX,8,Top 20
+NPI3572132293,Michael,Anderson,Cardiology,CA,24,Top 50
+NPI4042770231,Robert,Wilson,Family Medicine,NC,35,Other
+NPI1952386774,Jennifer,Moore,Internal Medicine,MD,14,Other
+NPI5516243335,Lisa,Williams,Family Medicine,CA,20,Other
+NPI2730341206,Joseph,Chen,Family Medicine,TX,26,Top 20
+NPI6707673004,Mary,Thomas,Internal Medicine,AZ,26,Other
+NPI2710831235,Thomas,Martinez,General Surgery,MI,6,Other
+NPI2111556315,Elena,O'Brien,Endocrinology,PA,16,Other
+NPI9721780547,Richard,Nguyen,Pulmonology,PA,39,Other
+NPI6924162751,Barbara,Jones,Cardiology,AZ,35,Other
+NPI9428058231,William,Jones,Cardiology,NJ,31,Other
+NPI5408990127,Susan,Smith,Family Medicine,WA,1,Other
+NPI1300622167,William,Martin,Cardiology,IL,17,Top 50
+NPI6169340533,Anita,Anderson,Family Medicine,NJ,2,Other
+NPI6024959980,Michelle,Taylor,Emergency Medicine,MO,12,Other
+NPI1134780453,David,Jackson,Internal Medicine,OH,34,Top 50
+NPI8751178398,Anita,Martin,Internal Medicine,GA,16,Top 50
+NPI6579736124,Elena,Smith,Psychiatry,NY,7,Other
+NPI7702220523,John,Brown,Endocrinology,WA,29,Top 50
+NPI5445289954,Joseph,Chen,Psychiatry,CA,30,Top 50
+NPI6565621940,Lisa,Rodriguez,Family Medicine,PA,26,Other
+NPI3317229038,Richard,Singh,Dermatology,MA,32,Top 20
+NPI9763819908,Jessica,O'Brien,Internal Medicine,CA,28,Top 20
+NPI4606480067,Joseph,Hernandez,Oncology,WI,25,Top 20
+NPI2460939591,Wei,Wang,Orthopedic Surgery,NC,35,Top 50
+NPI1503238765,William,Murphy,Gastroenterology,GA,13,Other
+NPI6725547397,Karen,Murphy,Family Medicine,NJ,18,Other
+NPI9850418659,Linda,Jones,Psychiatry,WA,22,Top 50
+NPI9062150470,Raj,Jones,Cardiology,MI,27,Other
+NPI7318941106,John,Thomas,Internal Medicine,MO,19,Other
+NPI9915381359,John,Jackson,Cardiology,WI,18,Top 50
+NPI7505454357,Mary,Rodriguez,Orthopedic Surgery,PA,7,Other
+NPI4053260110,David,Martinez,Family Medicine,MA,25,Top 50
+NPI6410963196,Charles,Wang,Orthopedic Surgery,OH,5,Top 50
+NPI1717899782,Michelle,Murphy,Cardiology,WI,19,Top 50
+NPI2995142411,Jessica,Rodriguez,Dermatology,IL,16,Top 20
+NPI4757862122,Jennifer,Garcia,Dermatology,IL,31,Other
+NPI2816366441,Susan,Davis,Internal Medicine,MA,19,Other
+NPI9581509132,Patricia,Miller,Cardiology,TN,1,Other
+NPI9960377739,Joseph,Nguyen,Cardiology,FL,20,Top 20
+NPI4338423280,Priya,Patel,Dermatology,VA,9,Other
+NPI7383060873,Mary,Thomas,Internal Medicine,OH,15,Other
+NPI4669936575,Fatima,Williams,Rheumatology,WA,12,Top 20
+NPI2255582839,Michael,Jackson,Family Medicine,VA,7,Other
+NPI4032341628,Wei,Kim,General Surgery,WI,37,Other
+NPI3100345288,Carlos,Moore,Endocrinology,MD,10,Top 50
+NPI3952703983,Fatima,Wilson,Endocrinology,AZ,20,Other
+NPI2935195195,Wei,Lee,Emergency Medicine,AZ,33,Top 50
+NPI2011106071,Wei,White,Internal Medicine,MO,15,Other
+NPI2956855864,Jennifer,Lee,Dermatology,NY,37,Top 50
+NPI9151813285,Robert,Murphy,Cardiology,MA,16,Top 50
+NPI1766995081,Susan,Martinez,Oncology,TN,37,Other
+NPI3922809793,Charles,Thompson,Gastroenterology,FL,18,Other
+NPI5756049049,Charles,Singh,Neurology,MO,1,Top 50
+NPI4190613905,Fatima,Miller,Orthopedic Surgery,AZ,34,Other
+NPI5658463854,Barbara,Wilson,Family Medicine,OH,34,Other
+NPI1390780542,Elena,Johnson,Family Medicine,MI,38,Other
+NPI6837126699,Jessica,Taylor,Family Medicine,MI,5,Other
+NPI6071309213,Linda,Johnson,Endocrinology,MD,33,Other
+NPI7128696392,Ahmed,Nguyen,Oncology,WI,14,Other
+NPI6105320341,Patricia,Williams,Family Medicine,IN,33,Top 50
+NPI4941132241,Richard,Patel,Family Medicine,AZ,38,Other
+NPI4151273880,Fatima,Lee,Family Medicine,FL,8,Top 50
+NPI3037916710,Fatima,Clark,Family Medicine,MD,15,Top 50
+NPI5500609540,Linda,Anderson,Internal Medicine,FL,11,Other
+NPI1234472071,Robert,Anderson,Gastroenterology,NY,12,Top 50
+NPI3954167452,James,Davis,Psychiatry,TX,24,Other
+NPI7100850641,John,Martin,Internal Medicine,MD,17,Other
+NPI1978453357,Carlos,Miller,Orthopedic Surgery,MI,26,Other
+NPI1566021180,Fatima,Brown,Dermatology,PA,27,Other
+NPI6869607446,Sarah,Rodriguez,Internal Medicine,TX,8,Other
+NPI4579972489,Karen,Patel,Internal Medicine,NC,2,Other
+NPI8216425328,Barbara,Brown,Cardiology,MA,30,Top 20
+NPI9435801734,Jennifer,Thompson,Cardiology,WI,8,Top 20
+NPI9613364082,James,Martinez,General Surgery,VA,8,Other
+NPI4830335684,Wei,Garcia,Emergency Medicine,WA,24,Other
+NPI3378945018,Mary,Moore,Cardiology,IN,11,Other
+NPI6477523648,Patricia,Chen,General Surgery,MD,8,Top 50
+NPI6653736332,Fatima,Smith,Cardiology,IL,12,Top 20
+NPI6601104424,Karen,Anderson,Psychiatry,WI,21,Other
+NPI3896007523,Joseph,O'Brien,General Surgery,NJ,33,Other
+NPI1573765627,Michael,Taylor,Family Medicine,MD,39,Other
+NPI2890043549,Robert,Williams,Cardiology,FL,29,Other
+NPI2389774852,Jessica,Thomas,Psychiatry,TX,36,Other
+NPI2115103111,David,Patel,Emergency Medicine,MO,21,Top 50
+NPI9336549888,Thomas,Clark,Family Medicine,AZ,16,Other
+NPI1124628813,Robert,Thompson,Internal Medicine,NY,32,Top 50
+NPI6416719652,Michael,Johnson,Internal Medicine,MO,12,Top 50
+NPI9527264160,Patricia,Wang,Rheumatology,FL,32,Other
+NPI4240478147,Richard,Chen,Psychiatry,AZ,39,Top 50
+NPI5743882802,William,White,General Surgery,PA,16,Top 50
+NPI7262052970,Michael,Murphy,General Surgery,TX,25,Other
+NPI3854527251,Thomas,Chen,Gastroenterology,IN,31,Other
+NPI5298867888,Joseph,Miller,General Surgery,IN,31,Other
+NPI8353925652,Michael,Thomas,Family Medicine,FL,9,Other
+NPI7708200986,Wei,Jackson,Rheumatology,TX,38,Top 50
+NPI8276044702,David,Moore,Family Medicine,WA,20,Other
+NPI9886061471,David,White,Family Medicine,CA,2,Top 50
+NPI4332947274,Joseph,Kim,Pulmonology,MA,5,Other
+NPI7723821365,Robert,Brown,Orthopedic Surgery,MD,29,Top 50
+NPI6425061103,Richard,Lee,Emergency Medicine,TN,17,Top 20
+NPI6999442904,Karen,Johnson,Family Medicine,PA,5,Top 20
+NPI7658865142,Patricia,Jackson,Rheumatology,NY,21,Other
+NPI7747581851,Thomas,Thomas,Endocrinology,AZ,24,Top 20
+NPI8971706342,Mary,Miller,Internal Medicine,TX,4,Other
+NPI4143895076,Charles,Clark,Internal Medicine,NJ,14,Other
+NPI6881332204,Mary,Davis,Rheumatology,NC,19,Other
+NPI3522613884,Jennifer,Johnson,Cardiology,MA,31,Other
+NPI6351118345,David,Anderson,Pulmonology,PA,26,Top 50
+NPI7760576260,Charles,Nguyen,Internal Medicine,TN,4,Other
+NPI8119009774,Priya,Smith,Internal Medicine,AZ,24,Other
+NPI4781120526,Joseph,Moore,General Surgery,PA,36,Other
+NPI5578482008,Patricia,Thomas,Internal Medicine,GA,3,Other
+NPI4004648660,Susan,Singh,Gastroenterology,TX,39,Top 50
+NPI2521327118,Fatima,Smith,Orthopedic Surgery,NC,4,Other
+NPI3344656646,John,Smith,Cardiology,IL,25,Top 20
+NPI9209233043,Priya,Martin,Orthopedic Surgery,FL,14,Top 50
+NPI3780725881,Susan,Garcia,Neurology,VA,29,Top 50
+NPI9772834000,James,Kim,General Surgery,VA,33,Other
+NPI3173302766,Wei,Wilson,Dermatology,TX,34,Top 50
+NPI7507639786,James,Martin,Orthopedic Surgery,NY,34,Other
+NPI6165129641,Susan,Johnson,Psychiatry,TX,32,Other
+NPI7271830445,Jennifer,Patel,Family Medicine,AZ,13,Other
+NPI6795621518,Karen,Jackson,Orthopedic Surgery,OH,19,Top 20
+NPI7360737251,Mary,Smith,Emergency Medicine,TX,29,Other
+NPI9149923435,John,Davis,Psychiatry,NY,7,Top 50
+NPI6071225463,Sarah,Johnson,Neurology,WI,23,Other
+NPI1610639046,Michelle,Johnson,Oncology,IL,21,Top 50
+NPI3437428909,Mary,Patel,General Surgery,AZ,39,Other
+NPI7373970822,Jessica,Thomas,Emergency Medicine,MI,2,Top 50
+NPI5446671651,Carlos,Wang,Internal Medicine,NY,4,Other
+NPI5936967843,William,Davis,Internal Medicine,OH,2,Top 50
+NPI6369224097,Joseph,Kim,Rheumatology,CA,22,Top 50
+NPI4443663456,Elena,Thompson,Oncology,MA,22,Other
+NPI7965059725,Priya,White,Psychiatry,OH,24,Top 50
+NPI7511813954,William,Wang,Cardiology,MI,10,Other
+NPI7428694709,Ahmed,Kim,Family Medicine,NY,12,Other
+NPI7437791565,Wei,Nguyen,Psychiatry,IN,17,Other
+NPI9013222013,Sarah,Nguyen,Psychiatry,PA,2,Other
+NPI6358535014,Jessica,Hernandez,Neurology,VA,30,Other
+NPI9703649794,Anita,Kim,Orthopedic Surgery,MO,3,Other
+NPI2072734159,Raj,Singh,Neurology,MA,27,Top 20
+NPI6687630788,Michelle,Nguyen,General Surgery,WA,18,Other
+NPI7452338912,Wei,Thompson,Psychiatry,MO,39,Other
+NPI5294983698,David,Williams,Rheumatology,NY,28,Top 50
+NPI3593875477,Patricia,Hernandez,Psychiatry,WI,19,Top 50
+NPI5950337073,Patricia,Johnson,Internal Medicine,VA,28,Top 50
+NPI4282729122,Kevin,Brown,Family Medicine,NC,5,Other
+NPI9182116638,David,Anderson,Rheumatology,IL,8,Top 50
+NPI4211131712,Patricia,Hernandez,Gastroenterology,MA,20,Other
+NPI2581362934,Michael,Jackson,Neurology,WI,34,Other
+NPI6187502260,James,O'Brien,Internal Medicine,AZ,32,Other
+NPI4563933322,Sarah,Nguyen,Psychiatry,CA,15,Top 50
+NPI1863083303,Karen,Thomas,Internal Medicine,MI,12,Other
+NPI6083581158,Susan,Anderson,Orthopedic Surgery,MA,38,Other
+NPI5840617699,Ahmed,Kim,Dermatology,GA,23,Top 50
+NPI2558773779,Joseph,Wilson,Psychiatry,TN,5,Top 50
+NPI6378743520,Kevin,Murphy,Psychiatry,MA,9,Top 50
+NPI6106230764,Ahmed,Chen,Family Medicine,TX,33,Other
+NPI7962513606,John,Patel,Oncology,VA,36,Top 50
+NPI4254129368,William,Davis,Gastroenterology,NY,36,Top 20
+NPI3238835712,Ahmed,Thompson,Orthopedic Surgery,MI,1,Top 50
+NPI9560978981,Thomas,Wang,Endocrinology,GA,33,Top 20
+NPI6050957704,Ahmed,Williams,Family Medicine,IN,5,Other
+NPI1244259629,David,Garcia,Cardiology,MO,32,Other
+NPI8386405156,Mary,Jackson,Internal Medicine,MI,35,Other
+NPI2770822548,Fatima,Anderson,Internal Medicine,NJ,15,Other
+NPI8074326858,Fatima,Kim,Family Medicine,WA,8,Top 20
+NPI7346461843,Lisa,Thomas,Pulmonology,AZ,28,Other
+NPI9719323517,Richard,Clark,Endocrinology,WA,3,Other
+NPI9690213713,James,Wilson,Internal Medicine,TN,23,Other
+NPI3469695621,Priya,Anderson,Internal Medicine,WI,13,Other
+NPI7898046230,Lisa,Smith,Family Medicine,IN,17,Top 50
+NPI3851695771,Wei,Davis,General Surgery,FL,33,Other
+NPI6662781448,Jennifer,Davis,Family Medicine,MI,39,Other
+NPI6379714763,Priya,Nguyen,General Surgery,MI,16,Top 50
+NPI1490891640,Priya,Anderson,General Surgery,NJ,12,Other
+NPI1046635748,Elena,Miller,Internal Medicine,NJ,33,Top 50
+NPI1519876131,Karen,Martinez,Psychiatry,MA,17,Top 20
+NPI2151478427,Priya,Martin,Emergency Medicine,NC,8,Other
+NPI3318872421,Richard,Chen,Family Medicine,IL,36,Other
+NPI9162597008,Wei,Clark,Cardiology,MI,39,Other
+NPI5667694077,Wei,Johnson,Pulmonology,MO,12,Other
+NPI8172025648,Fatima,Singh,Gastroenterology,OH,7,Top 50
+NPI8544805768,Elena,Taylor,Endocrinology,CA,6,Other
+NPI7614487886,James,Wang,Rheumatology,WI,24,Other
+NPI4522466119,Fatima,Johnson,Internal Medicine,NY,13,Top 50
+NPI8774734543,Fatima,Thompson,Dermatology,WA,25,Other
+NPI7678447779,Thomas,O'Brien,Endocrinology,IN,30,Other
+NPI7688362989,Sarah,Johnson,Cardiology,IL,1,Top 20
+NPI9114168943,Priya,Chen,Orthopedic Surgery,OH,34,Other
+NPI6387971251,Jessica,Brown,Emergency Medicine,IL,2,Other
+NPI5757169869,Richard,Clark,Dermatology,FL,5,Other
+NPI9011463017,Carlos,Nguyen,Family Medicine,NY,29,Other
+NPI5090155553,Fatima,O'Brien,Cardiology,NY,25,Other
+NPI8304136263,Michael,Murphy,Pulmonology,MI,39,Other
+NPI1484617243,Carlos,Martinez,Pulmonology,NJ,23,Top 20
+NPI1011609500,Barbara,Thomas,Rheumatology,CA,17,Other
+NPI5754632405,Robert,Patel,Neurology,IN,27,Other
+NPI1662507044,Raj,Garcia,Oncology,AZ,30,Other
+NPI9788887120,Linda,Martinez,Family Medicine,TX,27,Other
+NPI1049510566,Michael,Williams,Internal Medicine,IN,15,Other
+NPI7463346727,William,Murphy,Internal Medicine,CA,38,Other
+NPI3190462261,Joseph,Davis,Internal Medicine,VA,12,Other
+NPI9707968046,Robert,Thomas,Dermatology,MI,14,Other
+NPI4433874855,Robert,Hernandez,Internal Medicine,NJ,11,Other
+NPI1245550836,Susan,Taylor,Internal Medicine,WI,12,Top 20
+NPI1242421888,Michael,Chen,Rheumatology,MD,9,Top 20
+NPI5980360344,Jennifer,O'Brien,Internal Medicine,IL,23,Other
+NPI9880407810,Anita,Lee,Internal Medicine,VA,29,Top 50
+NPI9817961814,Karen,Singh,Rheumatology,WI,17,Top 50
+NPI4035456750,James,Brown,Family Medicine,MA,36,Top 50
+NPI5344332842,Patricia,Rodriguez,Psychiatry,MO,19,Other
+NPI1904102252,Carlos,Brown,Pulmonology,NC,19,Other
+NPI5699591703,William,Johnson,Internal Medicine,IL,3,Other
+NPI6397314390,Robert,Smith,Pulmonology,NJ,36,Other
+NPI3259554990,Lisa,Davis,Gastroenterology,IN,6,Other
+NPI6509029922,Elena,Singh,Dermatology,MD,7,Top 50
+NPI9097234764,Susan,Martinez,Neurology,AZ,37,Top 50
+NPI1008598000,Ahmed,Chen,Psychiatry,MA,21,Top 50
+NPI3060403968,Richard,Thomas,Neurology,NJ,3,Top 20
+NPI2889276069,Patricia,Brown,Orthopedic Surgery,OH,18,Other
+NPI2114975827,Fatima,Moore,Cardiology,NC,24,Top 50
+NPI2494910914,Anita,Miller,Emergency Medicine,MI,1,Other
+NPI6633212907,Michelle,Wilson,Psychiatry,IN,30,Other
+NPI1924249511,Patricia,Jackson,General Surgery,VA,27,Top 50
+NPI7646784480,Thomas,Chen,Family Medicine,TN,1,Other
+NPI8983203314,Charles,Lee,Cardiology,CA,25,Other
+NPI9339289516,John,Miller,Endocrinology,TN,9,Other
+NPI6941582328,Kevin,Kim,Endocrinology,NJ,29,Other
+NPI2776567695,Patricia,Patel,Oncology,WI,15,Other
+NPI1767669179,William,Davis,Family Medicine,MI,8,Other
+NPI3088224584,Michelle,Singh,Family Medicine,MI,20,Other
+NPI9657614671,Thomas,Singh,Rheumatology,FL,18,Top 20
+NPI9661106814,Wei,Thompson,Family Medicine,IN,14,Other
+NPI4437269954,Joseph,Wilson,Emergency Medicine,MA,35,Other
+NPI3932123869,Ahmed,Anderson,Internal Medicine,MO,26,Top 20
+NPI5590095239,John,Hernandez,Family Medicine,TX,20,Top 20
+NPI3625192822,Wei,Garcia,Family Medicine,PA,9,Top 20
+NPI9816962063,Mary,Martinez,Rheumatology,MO,23,Top 50
+NPI2990992509,Jennifer,Jones,Endocrinology,CA,1,Top 20
+NPI4322284139,Sarah,Jones,Neurology,NJ,35,Other
+NPI4864337880,Jessica,Nguyen,Emergency Medicine,NC,1,Other
+NPI2125576207,Robert,Brown,Family Medicine,MD,28,Other
+NPI4445423440,Fatima,Moore,Orthopedic Surgery,MO,14,Other
+NPI8710576480,Barbara,Thomas,Cardiology,MO,29,Top 20
+NPI2263249012,Elena,Johnson,Family Medicine,IL,15,Other
+NPI6256197556,James,Wang,Oncology,VA,2,Top 50
+NPI4659734242,Linda,Clark,Cardiology,MA,37,Top 50
+NPI2534830534,William,White,Psychiatry,WI,30,Other
+NPI1111025480,Karen,Patel,Neurology,CA,2,Other
+NPI3460089731,Richard,Miller,General Surgery,WI,2,Other
+NPI1556460646,Robert,Singh,Endocrinology,GA,21,Other
+NPI4390916241,Karen,Chen,Psychiatry,FL,38,Other
+NPI8291888700,Kevin,Hernandez,Family Medicine,WA,23,Other
+NPI7477167347,Robert,Kim,Cardiology,TN,1,Other
+NPI9526453404,Linda,Rodriguez,Internal Medicine,FL,28,Top 50
+NPI4843138755,Joseph,Thompson,Neurology,CA,17,Top 50
+NPI7370212586,Priya,Garcia,Emergency Medicine,MO,25,Other
+NPI6988075498,Robert,Martinez,Cardiology,MD,14,Other
+NPI2953416728,Michael,Garcia,Rheumatology,NY,1,Top 50
+NPI3732242546,Linda,Martinez,General Surgery,MD,1,Top 50
+NPI5768465800,Charles,Murphy,Dermatology,MD,25,Top 50
+NPI8169915870,John,Garcia,Rheumatology,WI,25,Other
+NPI5156314609,Lisa,Murphy,Psychiatry,PA,13,Top 50
+NPI3049673825,Richard,Wilson,Orthopedic Surgery,VA,4,Other
+NPI9941191211,Barbara,Moore,Dermatology,WI,31,Top 20
+NPI2040209257,Elena,Jackson,Internal Medicine,MD,6,Top 20
+NPI9603000166,Carlos,Brown,Pulmonology,WA,8,Top 50
+NPI8281416595,Carlos,Garcia,Cardiology,NY,18,Other
+NPI8550041672,Raj,Martinez,Dermatology,TX,28,Top 50
+NPI8154258247,Linda,Johnson,Cardiology,IL,39,Other
+NPI2873538471,Elena,Nguyen,Internal Medicine,TX,25,Other
+NPI6693241395,Jennifer,Martin,Cardiology,NY,38,Other
+NPI7810748311,Barbara,Singh,Oncology,TX,26,Top 50
+NPI7711172128,Thomas,Singh,Family Medicine,TN,34,Other
+NPI3444088334,Ahmed,Anderson,Internal Medicine,VA,7,Top 50
+NPI2630074489,Karen,Wang,Oncology,NJ,3,Other
+NPI3953106854,Thomas,Johnson,Family Medicine,IN,27,Other
+NPI5318600322,Susan,Thomas,General Surgery,NC,39,Other
+NPI6164026722,Karen,White,Gastroenterology,NC,29,Other
+NPI8532553260,Joseph,Hernandez,Neurology,PA,14,Other
+NPI7921308048,Joseph,Nguyen,Internal Medicine,NC,20,Other
+NPI7085354730,Karen,Singh,Family Medicine,NY,5,Top 50
+NPI3371403636,Charles,Thomas,Pulmonology,VA,14,Other
+NPI5309924489,Barbara,Wilson,Internal Medicine,WI,27,Top 50
+NPI4018922866,Robert,Lee,Family Medicine,NJ,7,Top 50
+NPI3114353615,William,Murphy,Pulmonology,IL,19,Other
+NPI1092208243,Richard,Clark,Emergency Medicine,AZ,12,Other
+NPI4055157734,Robert,Wang,Family Medicine,IN,20,Other
+NPI3305046409,Jennifer,Davis,Neurology,MI,30,Other
+NPI6147120942,Kevin,Miller,Oncology,IL,35,Other
+NPI1560715932,William,Lee,General Surgery,MA,16,Other
+NPI3434676370,Ahmed,Thomas,Cardiology,NY,33,Other
+NPI1402925409,Patricia,Thompson,Internal Medicine,WI,28,Other
+NPI6772761139,Michelle,O'Brien,Psychiatry,OH,36,Top 50
+NPI6113706026,Michael,Martin,Internal Medicine,GA,29,Other
+NPI4037320207,Susan,Anderson,Neurology,MA,22,Other
+NPI2326011403,Fatima,Murphy,Family Medicine,CA,27,Other
+NPI9621278493,Michael,Hernandez,Gastroenterology,PA,13,Top 20
+NPI6259532025,Thomas,Thompson,Dermatology,FL,27,Top 50
+NPI7112020298,Fatima,Jones,Endocrinology,GA,28,Top 50
+NPI5782138778,James,Jackson,General Surgery,VA,24,Top 50
+NPI8258799228,James,Thomas,Family Medicine,NY,5,Other
+NPI9067420445,Fatima,Brown,Endocrinology,OH,21,Top 20
+NPI4444394891,Linda,Miller,Internal Medicine,TN,28,Top 50
+NPI7210227809,Anita,Kim,Dermatology,MD,8,Other
+NPI3068987360,Anita,Garcia,Dermatology,CA,31,Other
+NPI6866695423,Raj,Brown,Gastroenterology,WA,33,Top 50
+NPI4592400669,Michelle,Johnson,Gastroenterology,CA,22,Other
+NPI1061034394,Carlos,Smith,Emergency Medicine,NJ,38,Other
+NPI9599750814,Susan,Hernandez,Internal Medicine,MO,34,Other
+NPI8815973908,Michelle,Moore,Pulmonology,TN,19,Other
+NPI3617528952,David,Thompson,Psychiatry,PA,35,Other
+NPI9979815827,Karen,Lee,Family Medicine,IL,37,Top 50
+NPI3854149070,James,Martin,Rheumatology,TN,5,Other
+NPI5129597677,Kevin,Clark,Family Medicine,IN,39,Other
+NPI8661331234,Karen,Davis,Family Medicine,IL,1,Other
+NPI3741367161,Kevin,Kim,Internal Medicine,CA,19,Other
+NPI5054862559,David,Williams,Internal Medicine,NC,37,Top 50
+NPI6990284503,Barbara,Singh,Endocrinology,WA,29,Top 20
+NPI2174207992,Sarah,Anderson,Gastroenterology,NC,11,Other
+NPI4801153317,Elena,Anderson,Neurology,MD,26,Other
+NPI3784689435,Thomas,Jones,Endocrinology,IN,9,Top 50
+NPI7090968752,Fatima,Jackson,Oncology,TN,10,Other
+NPI2223724510,Michael,Taylor,Oncology,CA,36,Other
+NPI3094583311,Fatima,Clark,Internal Medicine,MO,2,Other
+NPI7402385833,Priya,Garcia,Dermatology,TN,38,Top 50
+NPI2406019327,Raj,Thomas,Internal Medicine,GA,18,Other
+NPI4798173359,Mary,O'Brien,Orthopedic Surgery,VA,3,Other
+NPI7415926498,Susan,Wang,General Surgery,IN,31,Other
+NPI7889215459,John,Nguyen,Psychiatry,MD,2,Other
+NPI1853930607,Richard,Jackson,Dermatology,VA,13,Other
+NPI8667960483,Ahmed,Murphy,Family Medicine,CA,10,Top 50
+NPI7515750709,Lisa,Miller,Gastroenterology,WA,31,Other
+NPI4053651297,Ahmed,Wang,Orthopedic Surgery,AZ,16,Top 50
+NPI7874225670,Ahmed,Lee,General Surgery,TX,26,Other
+NPI7554689787,Michelle,Anderson,Neurology,IN,3,Other
+NPI6408021037,Raj,Miller,Dermatology,PA,28,Other
+NPI6026330560,Karen,Jackson,Emergency Medicine,MO,28,Other
+NPI7612331399,Raj,Smith,Family Medicine,VA,12,Top 20
+NPI9993339114,Mary,Kim,General Surgery,OH,35,Other
+NPI6206970243,Priya,Davis,Orthopedic Surgery,TX,19,Other
+NPI8278460845,Sarah,Taylor,Oncology,CA,27,Top 20
+NPI7698463455,Kevin,Garcia,Pulmonology,MA,8,Top 20
+NPI8702275617,Sarah,Hernandez,Family Medicine,GA,37,Other
+NPI9590723751,Jennifer,Taylor,Psychiatry,IN,10,Top 50
+NPI2737748866,Priya,Garcia,Internal Medicine,PA,25,Top 50
+NPI2489136727,Kevin,Murphy,Internal Medicine,MD,4,Top 50
+NPI6277166455,James,Nguyen,Dermatology,MD,2,Other
+NPI5043655565,Mary,Taylor,Family Medicine,FL,5,Other
+NPI6136504235,Lisa,Johnson,Family Medicine,WA,37,Other
+NPI8182384609,Thomas,Singh,Family Medicine,MD,9,Other
+NPI9385430319,Thomas,Patel,Endocrinology,OH,35,Top 20
+NPI4756742426,John,Martin,General Surgery,TX,23,Other
+NPI7461393809,Karen,Thompson,Gastroenterology,MO,4,Top 20
+NPI2771192690,Karen,Smith,Cardiology,MI,18,Other
+NPI5810967543,Elena,Moore,Psychiatry,CA,19,Top 20
+NPI1196243000,Susan,Garcia,Oncology,IN,11,Top 50
+NPI5533755103,David,White,Psychiatry,AZ,24,Other
+NPI5908028131,John,O'Brien,Oncology,TX,34,Top 50
+NPI7619008021,Karen,Jackson,Family Medicine,IL,35,Other
+NPI6845363111,Lisa,Thompson,Oncology,CA,21,Other
+NPI4225570608,William,Patel,Psychiatry,WI,35,Other
+NPI1051578106,Priya,O'Brien,Endocrinology,CA,37,Top 20
+NPI2039372862,Kevin,Johnson,Oncology,TN,4,Other
+NPI9757545880,Jennifer,Martinez,General Surgery,NJ,25,Other
+NPI9300998423,Karen,Wilson,General Surgery,VA,31,Top 50
+NPI3925838467,Wei,Kim,Family Medicine,IN,1,Other
+NPI3329676459,James,Hernandez,General Surgery,MO,24,Other
+NPI4927746642,Jennifer,Chen,Dermatology,FL,36,Other
+NPI7209460265,Susan,Moore,Internal Medicine,CA,11,Other
+NPI4211449053,Robert,Clark,Psychiatry,FL,34,Other
+NPI1605644629,David,Chen,Family Medicine,AZ,37,Top 50
+NPI4625155831,Robert,Smith,Orthopedic Surgery,VA,25,Other
+NPI3345300950,Raj,Clark,Internal Medicine,TX,25,Top 50
+NPI3924370100,Karen,Rodriguez,Neurology,PA,21,Other
+NPI2466615211,Barbara,Johnson,Family Medicine,NJ,16,Other
+NPI6929560624,Fatima,Taylor,Endocrinology,MA,18,Other
+NPI5739678398,James,Clark,Emergency Medicine,OH,21,Other
+NPI3437768055,Karen,Singh,Family Medicine,MD,19,Top 20
+NPI5984762331,Wei,Moore,Gastroenterology,WI,33,Other
+NPI5434370624,Carlos,Martin,Emergency Medicine,TN,30,Top 50
+NPI8163773708,Michael,Smith,Gastroenterology,MI,14,Other
+NPI9603858423,Karen,Martin,Internal Medicine,MO,21,Other
+NPI2176034580,Fatima,White,Dermatology,MA,9,Top 50
+NPI8955221309,Fatima,Anderson,Cardiology,NJ,7,Other
+NPI7343172443,Jennifer,Martinez,Family Medicine,NC,15,Other
+NPI7232981906,Michelle,Wang,Gastroenterology,IN,3,Other
+NPI4368708073,William,Hernandez,Orthopedic Surgery,VA,34,Other
+NPI4095173758,Susan,Davis,Rheumatology,NY,5,Other
+NPI1050755363,Jennifer,Taylor,Family Medicine,WI,13,Other
+NPI9839843870,Robert,Moore,General Surgery,TX,10,Top 20
+NPI6458552490,Linda,Davis,Orthopedic Surgery,AZ,9,Top 50
+NPI4620957614,Robert,Martin,Oncology,AZ,15,Top 20
+NPI5893919396,Priya,Singh,Gastroenterology,VA,29,Top 50
+NPI1364743306,Karen,Nguyen,Internal Medicine,TX,35,Top 50
+NPI2562858597,Susan,Miller,Internal Medicine,MI,8,Other
+NPI6610239324,Thomas,Moore,Neurology,MO,10,Other
+NPI5628355566,Charles,Martin,Emergency Medicine,PA,19,Top 50
+NPI8083673405,Jennifer,Patel,Family Medicine,AZ,13,Other
+NPI6928684213,William,Nguyen,Family Medicine,MO,32,Other
+NPI6412921083,Raj,Moore,Internal Medicine,WI,9,Top 50
+NPI8337391337,James,Martinez,Dermatology,NJ,16,Other
+NPI1614367949,Kevin,White,Internal Medicine,OH,22,Top 20
+NPI7217981167,Kevin,Brown,Endocrinology,AZ,15,Other
+NPI7440316418,Linda,Patel,Emergency Medicine,MI,25,Other
+NPI3476471946,Barbara,Murphy,Cardiology,WA,32,Top 20
+NPI2760846728,Michael,Kim,Rheumatology,MA,21,Top 50
+NPI2924672278,Thomas,Hernandez,Endocrinology,MA,18,Other
+NPI2783267770,Michael,Wang,General Surgery,PA,38,Top 50
+NPI5714039717,Fatima,Jackson,Family Medicine,TN,39,Other
+NPI2220636802,Susan,Martin,Family Medicine,NJ,39,Other
+NPI6933572752,Michelle,Singh,Internal Medicine,MD,1,Top 50
+NPI1945704330,Elena,Garcia,Orthopedic Surgery,AZ,33,Other
+NPI1242006762,Richard,Chen,General Surgery,MO,36,Other
+NPI3873612181,Karen,Patel,Internal Medicine,WI,32,Top 20
+NPI2726737513,James,Jackson,Family Medicine,WI,30,Other
+NPI9897958497,John,Williams,Gastroenterology,MA,15,Other
+NPI3726966705,Sarah,Nguyen,Cardiology,VA,29,Other
+NPI2998576774,Joseph,Miller,Family Medicine,FL,23,Top 50
+NPI2770928411,Susan,Murphy,Rheumatology,GA,33,Top 50
+NPI4364676142,John,Chen,Family Medicine,MI,14,Other
+NPI6452640057,Elena,Anderson,Family Medicine,TN,29,Other
+NPI8037507474,Richard,Hernandez,Oncology,VA,31,Top 50
+NPI4281186229,Joseph,Smith,Internal Medicine,NC,33,Other
+NPI6633738819,Richard,Moore,Rheumatology,FL,7,Other
+NPI5338539084,Joseph,Johnson,Orthopedic Surgery,MA,34,Top 50
+NPI8618458115,Lisa,Clark,Psychiatry,NC,9,Other
+NPI6121375993,Ahmed,White,Internal Medicine,CA,37,Other
+NPI3609025046,Thomas,Davis,Dermatology,IL,2,Other
+NPI7332285313,Robert,Wang,Internal Medicine,MO,9,Other
+NPI8380580391,Raj,Smith,General Surgery,FL,24,Other
+NPI5188965910,William,Martin,Family Medicine,NC,22,Other
+NPI9884775148,James,Brown,General Surgery,NJ,27,Other
+NPI8911871911,Mary,Johnson,Internal Medicine,TX,16,Top 50
+NPI2772592026,Fatima,Davis,Internal Medicine,NY,1,Other
+NPI8080802848,Susan,Wilson,Endocrinology,MD,25,Other
+NPI6408561198,James,Kim,Cardiology,VA,20,Other
+NPI5813301679,Carlos,Murphy,Internal Medicine,PA,20,Top 50
+NPI5625447278,Barbara,Chen,Orthopedic Surgery,NY,15,Top 50
+NPI8680700284,Michelle,Nguyen,Dermatology,NC,35,Top 50
+NPI6497855099,Raj,Martin,Cardiology,MA,31,Other
+NPI5839353864,Mary,Taylor,Gastroenterology,MA,8,Other
+NPI1439739160,Wei,Davis,General Surgery,NY,2,Other
+NPI5034725827,Charles,Rodriguez,Gastroenterology,MA,8,Top 50
+NPI9172374057,Jennifer,Jackson,Orthopedic Surgery,MO,2,Other
+NPI7405630563,David,Martin,Neurology,PA,28,Top 20
+NPI1458585802,Joseph,Smith,Endocrinology,CA,25,Other
+NPI8955930538,Robert,Hernandez,Neurology,WI,19,Top 50
+NPI8440004991,Priya,Patel,Pulmonology,NJ,24,Other
+NPI5920157903,William,Moore,Internal Medicine,TN,32,Other
+NPI1201649186,Kevin,Thompson,Family Medicine,OH,33,Top 50
+NPI6061866561,Carlos,Wang,Cardiology,IL,17,Top 50
+NPI1491301449,Lisa,Smith,Pulmonology,PA,24,Other
+NPI3883410636,Patricia,O'Brien,Oncology,PA,23,Top 20
+NPI6660186569,James,Wang,Neurology,MI,38,Other
+NPI9216217754,Robert,Thomas,Dermatology,FL,30,Top 50
+NPI4220160734,Joseph,Nguyen,Emergency Medicine,IN,13,Top 50
+NPI8740214045,Fatima,Johnson,Internal Medicine,NJ,35,Top 50
+NPI9265249092,Robert,Martinez,General Surgery,MD,16,Other
+NPI1189394924,Priya,Brown,Gastroenterology,NJ,30,Other
+NPI3154850539,Mary,White,Cardiology,OH,39,Top 50
+NPI7388760692,Linda,Singh,General Surgery,NJ,32,Other
+NPI7811587386,Karen,Thompson,Family Medicine,NY,5,Top 20
+NPI4531751651,Carlos,Kim,Neurology,IN,9,Other
+NPI6910791514,Fatima,Jones,Endocrinology,MA,32,Top 50
+NPI6509427555,Sarah,Rodriguez,Family Medicine,FL,5,Other
+NPI7657974653,Mary,Garcia,Internal Medicine,VA,1,Top 20
+NPI7467925848,William,Jackson,Internal Medicine,NJ,11,Other
+NPI1772837181,Fatima,Patel,Internal Medicine,PA,19,Other
+NPI2424251628,John,Singh,Neurology,FL,6,Other
+NPI2194544325,Priya,Rodriguez,Family Medicine,TN,6,Other
+NPI9392320627,Priya,Lee,Internal Medicine,IL,14,Top 20
+NPI9221883834,Ahmed,Lee,Orthopedic Surgery,NJ,24,Other
+NPI8176710425,Michael,Thomas,Orthopedic Surgery,PA,22,Other
+NPI2050467045,Linda,Lee,Rheumatology,AZ,32,Other
+NPI6168443228,Jennifer,Patel,Pulmonology,CA,39,Other
+NPI2685075634,Susan,White,Family Medicine,GA,2,Other
+NPI4315455437,Sarah,Lee,Dermatology,NJ,27,Other
+NPI3403821489,Patricia,Hernandez,Cardiology,NC,7,Other
+NPI8460378832,Karen,Garcia,Orthopedic Surgery,WA,15,Other
+NPI2300062595,Linda,Johnson,Emergency Medicine,NY,14,Other
+NPI6815612516,Thomas,Thomas,Dermatology,NC,28,Other
+NPI9855051973,Barbara,Taylor,Psychiatry,TN,10,Other
+NPI7183491248,Kevin,Thompson,Psychiatry,OH,35,Other
+NPI1713101400,Barbara,O'Brien,Family Medicine,NY,15,Top 20
+NPI9170645516,Raj,Kim,Neurology,IN,32,Other
+NPI6787717098,Jennifer,Wang,General Surgery,TN,38,Other
+NPI5106798815,John,Lee,Emergency Medicine,AZ,20,Top 20
+NPI6937232306,Jennifer,O'Brien,Endocrinology,TN,4,Other
+NPI8911398973,Richard,Rodriguez,Cardiology,TN,28,Top 50
+NPI5294145050,Anita,Jones,Psychiatry,MA,17,Top 20
+NPI5781893344,Jennifer,White,Internal Medicine,NJ,14,Other
+NPI5072026592,Fatima,Jackson,Internal Medicine,CA,18,Other
+NPI1653322836,Wei,Clark,Family Medicine,VA,12,Other
+NPI8083631141,David,Lee,Orthopedic Surgery,IL,11,Top 20
+NPI2137705692,David,Smith,Internal Medicine,TN,39,Other
+NPI4551130092,Kevin,Miller,Internal Medicine,MI,11,Top 20
+NPI4481405610,Priya,Brown,Cardiology,MD,18,Other
+NPI3520367128,Linda,Miller,Gastroenterology,VA,28,Top 50
+NPI4622564132,Anita,Williams,Orthopedic Surgery,VA,9,Other
+NPI6562081992,Richard,Chen,Cardiology,MD,25,Top 20
+NPI3802485809,John,Moore,Cardiology,MI,35,Top 20
+NPI2552607439,Carlos,Patel,Rheumatology,GA,32,Other
+NPI8824307593,Raj,Clark,Family Medicine,GA,2,Other
+NPI9737493847,Jessica,White,Psychiatry,MO,16,Other
+NPI5127254414,Priya,Moore,Oncology,TN,1,Other
+NPI3943177410,Linda,Wilson,Pulmonology,NY,24,Top 50
+NPI1427338699,Elena,Nguyen,Family Medicine,MI,13,Top 20
+NPI1331663865,Susan,Jackson,Neurology,GA,35,Other
+NPI4535937960,William,Nguyen,Cardiology,WA,7,Top 50
+NPI9372178163,Sarah,Smith,Emergency Medicine,TX,34,Other
+NPI7576376889,William,Jones,Emergency Medicine,MA,14,Other
+NPI4143424769,Charles,Brown,Orthopedic Surgery,MA,36,Other
+NPI9712417825,Ahmed,Patel,Oncology,PA,8,Other
+NPI4858821128,Richard,Jackson,Internal Medicine,NY,11,Top 20
+NPI3491134695,Fatima,Martinez,General Surgery,WA,14,Other
+NPI4837179202,Richard,Martinez,Orthopedic Surgery,IL,39,Other
+NPI2903889042,Michelle,Thompson,Internal Medicine,MD,29,Other
+NPI8970748930,Linda,Rodriguez,Oncology,TN,32,Other
+NPI4250559793,Priya,Clark,Oncology,WI,22,Other
+NPI6921720679,Thomas,Moore,Dermatology,NJ,31,Top 50
+NPI4501424789,Kevin,Patel,Orthopedic Surgery,MD,25,Other
+NPI9115582760,Michael,Williams,Neurology,CA,27,Top 50
+NPI6781426764,Jennifer,Rodriguez,Neurology,IL,33,Other
+NPI5394267012,Raj,Smith,Family Medicine,CA,39,Top 50
+NPI2189286722,Anita,Anderson,Family Medicine,AZ,23,Other
+NPI9117249964,Ahmed,Kim,Cardiology,NJ,18,Top 20
+NPI5921351813,Joseph,Clark,General Surgery,IL,26,Top 20
+NPI3565476756,Richard,Garcia,Oncology,OH,29,Other
+NPI8901342025,Lisa,White,Oncology,WA,39,Top 50
+NPI1489963846,Ahmed,Garcia,Internal Medicine,NY,28,Other
+NPI3826692255,William,Johnson,Internal Medicine,NJ,38,Top 20
+NPI5831455610,James,Thomas,Psychiatry,WA,29,Top 50
+NPI4058329024,John,Lee,Internal Medicine,PA,38,Top 50
+NPI5290608297,David,Davis,Cardiology,PA,30,Other
+NPI3378846270,Wei,Clark,General Surgery,GA,35,Top 50
+NPI2170747818,Jessica,Thompson,Family Medicine,VA,8,Top 50
+NPI1331687247,Charles,Hernandez,Family Medicine,IL,39,Other
+NPI2418819084,Joseph,Moore,Oncology,GA,14,Other
+NPI9576518625,Linda,Hernandez,General Surgery,NJ,32,Other
+NPI6178628199,Ahmed,Brown,Family Medicine,NY,16,Top 50
+NPI5400641127,Priya,Thompson,General Surgery,VA,18,Other
+NPI4458914553,Kevin,Chen,Pulmonology,FL,30,Other
+NPI7375781313,Carlos,Thomas,Neurology,FL,22,Other
+NPI2271335283,Susan,Thomas,Oncology,PA,28,Top 50
+NPI3485168808,Priya,O'Brien,General Surgery,IL,4,Top 50
+NPI6903119076,David,Thompson,Oncology,CA,33,Other
+NPI5311579280,Raj,Wilson,Family Medicine,WI,16,Top 50
+NPI7930832849,Charles,Smith,Endocrinology,OH,31,Other
+NPI9073988594,Elena,Wang,Family Medicine,IN,12,Top 50
+NPI8410353321,William,Thompson,Internal Medicine,MD,24,Top 50
+NPI2657869428,James,Thompson,Family Medicine,IN,23,Top 50
+NPI1823232119,Robert,Wilson,Internal Medicine,IN,6,Top 50
+NPI2524965404,Sarah,Garcia,Family Medicine,FL,19,Other
+NPI8051776223,Kevin,Moore,Rheumatology,GA,25,Top 20
+NPI9224479804,Charles,Nguyen,Pulmonology,MA,33,Other
+NPI9329039808,Carlos,Wilson,Cardiology,VA,35,Top 50
+NPI3683942104,Joseph,Jackson,Psychiatry,CA,15,Other
+NPI8563072401,Kevin,Clark,Oncology,VA,26,Other
+NPI5826119814,Kevin,Miller,Cardiology,IN,7,Other
+NPI8405126634,Michael,Miller,Family Medicine,IN,35,Other
+NPI5935283580,Elena,Davis,Internal Medicine,GA,34,Other
+NPI2313038977,James,O'Brien,Internal Medicine,PA,39,Other
+NPI1712975959,Karen,Jackson,Family Medicine,OH,19,Other
+NPI9614972341,Jessica,O'Brien,Family Medicine,IL,15,Other
+NPI4832223007,Barbara,Rodriguez,Rheumatology,OH,30,Top 20
+NPI4154685803,Kevin,Thomas,Cardiology,OH,29,Other
+NPI4206727762,Lisa,Johnson,Internal Medicine,MI,9,Top 20
+NPI4410409702,Robert,Martinez,Internal Medicine,CA,22,Other
+NPI9504971450,Robert,Martin,Rheumatology,IL,26,Top 20
+NPI1564341286,Patricia,Taylor,Family Medicine,OH,18,Top 20
+NPI2071551586,Barbara,Smith,Rheumatology,NY,15,Other
+NPI8106863638,John,Clark,Internal Medicine,MO,10,Other
+NPI5944685421,Linda,Martinez,Cardiology,AZ,17,Other
+NPI2156830821,Ahmed,Thompson,Pulmonology,MD,10,Other
+NPI1310141230,Raj,Rodriguez,Internal Medicine,VA,12,Other
+NPI3018109134,Fatima,Martin,Internal Medicine,FL,8,Other
+NPI3347296639,Joseph,Patel,Internal Medicine,MD,15,Other
+NPI1127917266,Wei,Johnson,Emergency Medicine,MI,25,Top 50
+NPI2944814844,Kevin,Patel,Psychiatry,AZ,15,Top 50
+NPI7644870431,Mary,Singh,Psychiatry,GA,6,Other
+NPI8698903205,Anita,O'Brien,Emergency Medicine,MI,32,Other
+NPI9084122467,Priya,Williams,Internal Medicine,MI,17,Other
+NPI4509226293,Susan,Miller,Emergency Medicine,IL,23,Top 20
+NPI3874723532,Jessica,Johnson,Internal Medicine,VA,21,Top 20
+NPI9998747632,Jessica,O'Brien,Psychiatry,MA,20,Top 20
+NPI7924064057,Robert,Wilson,Family Medicine,CA,18,Other
+NPI5836168727,Michael,Jackson,Family Medicine,FL,30,Other
+NPI3292942893,William,Moore,Pulmonology,IN,34,Other
+NPI3891749075,James,Patel,Internal Medicine,VA,36,Top 20
+NPI5638279138,Sarah,Murphy,Emergency Medicine,WI,18,Top 50
+NPI5878746277,Joseph,Martinez,Family Medicine,WA,14,Top 50
+NPI1123107798,Barbara,Chen,Neurology,AZ,4,Other
+NPI9634600766,Jennifer,Wilson,Emergency Medicine,MO,18,Other
+NPI6180456225,Michelle,Garcia,Cardiology,AZ,39,Top 20
+NPI6302424199,Wei,Brown,Pulmonology,OH,11,Other
+NPI2903240203,Joseph,Taylor,Psychiatry,NJ,33,Other
+NPI7884884608,Priya,Martin,Orthopedic Surgery,PA,30,Top 50
+NPI7635380680,Susan,Chen,Internal Medicine,OH,26,Other
+NPI1856421760,Michael,Singh,Rheumatology,AZ,23,Other
+NPI6354949349,Wei,Jackson,Neurology,FL,30,Other
+NPI6923743707,Fatima,Thomas,Oncology,AZ,4,Top 20
+NPI8520113570,Lisa,Garcia,Internal Medicine,VA,5,Top 50
+NPI2854820610,Thomas,O'Brien,Internal Medicine,OH,8,Other
+NPI8898713170,James,Taylor,Dermatology,CA,30,Top 50
+NPI5153329644,Lisa,Nguyen,Cardiology,MA,17,Other
+NPI1868712573,Charles,Thompson,Orthopedic Surgery,IN,9,Other
+NPI1950590993,Richard,O'Brien,Emergency Medicine,MA,2,Other
+NPI2780240082,Linda,Clark,Cardiology,NC,20,Other
+NPI3544756353,Michelle,Kim,Internal Medicine,AZ,16,Top 50
+NPI5467652239,Susan,White,Neurology,NC,7,Top 50
+NPI7738760778,William,Jones,Cardiology,GA,1,Top 20
+NPI2680533117,Priya,Smith,Psychiatry,OH,30,Other
+NPI9933866149,Joseph,Martin,Orthopedic Surgery,PA,31,Other
+NPI2453697385,Thomas,Kim,Psychiatry,WI,10,Other
+NPI6394401708,Lisa,Nguyen,Family Medicine,AZ,20,Other
+NPI9360463921,Susan,Davis,Orthopedic Surgery,NY,10,Other
+NPI8492566805,Robert,Jackson,Psychiatry,MO,16,Top 50
+NPI6831002814,Jennifer,Singh,Internal Medicine,NY,5,Top 50
+NPI7439436970,Kevin,Williams,Rheumatology,VA,37,Other
+NPI2207850640,Sarah,Taylor,Gastroenterology,NY,29,Top 20
+NPI1086967483,Richard,Rodriguez,Neurology,GA,36,Other
+NPI4907339058,Barbara,Garcia,Oncology,AZ,12,Top 20
+NPI1805670336,Priya,Martinez,Family Medicine,WI,35,Other
+NPI4219773056,Anita,Moore,Internal Medicine,WI,21,Top 20
+NPI3013685141,Fatima,Patel,Internal Medicine,MO,8,Other
+NPI9247120500,Thomas,Davis,Cardiology,PA,13,Top 50
+NPI8920503990,Joseph,Chen,Emergency Medicine,TX,32,Other
+NPI8370485635,Elena,Davis,Internal Medicine,MD,31,Other
+NPI7425498685,Elena,Taylor,General Surgery,MD,29,Other
+NPI2386647361,Susan,Lee,Internal Medicine,IL,9,Top 50
+NPI1435306835,Kevin,Smith,Family Medicine,CA,26,Other
+NPI6884990720,Carlos,Chen,Family Medicine,WA,37,Other
+NPI6780323233,Elena,Patel,Family Medicine,TX,2,Top 20
+NPI4324818562,Mary,Singh,General Surgery,CA,13,Other
+NPI5254179997,Patricia,Wilson,Emergency Medicine,MD,4,Other
+NPI5402344493,William,Taylor,Gastroenterology,MI,5,Other
+NPI3159353194,Ahmed,Murphy,Internal Medicine,FL,39,Other
+NPI3827499506,John,Williams,General Surgery,AZ,10,Other
+NPI4765505991,John,Moore,Internal Medicine,GA,7,Other
+NPI6428611268,James,Moore,Pulmonology,NJ,3,Top 50
+NPI9602372853,Jennifer,Hernandez,Endocrinology,MO,39,Other
+NPI5846361485,Anita,Hernandez,Family Medicine,PA,19,Top 50
+NPI7580475185,Priya,Nguyen,Internal Medicine,WA,31,Top 50
+NPI8263009920,Priya,Garcia,Cardiology,IN,10,Top 50
+NPI2021573091,William,Murphy,Family Medicine,NC,25,Other
+NPI6878122007,Charles,Murphy,Pulmonology,WI,35,Top 50
+NPI5338996481,Fatima,Garcia,General Surgery,NC,27,Top 50
+NPI6151878479,Sarah,Clark,Emergency Medicine,MI,21,Top 50
+NPI1345752421,Elena,Davis,Internal Medicine,MO,9,Top 20
+NPI9155941628,Karen,Johnson,Psychiatry,WA,10,Other
+NPI9575057345,Barbara,Taylor,Family Medicine,MO,24,Other
+NPI1031337313,Lisa,Chen,Rheumatology,TN,18,Other
+NPI2915124328,Kevin,Singh,Family Medicine,MA,2,Other
+NPI2621747563,Carlos,White,Family Medicine,PA,8,Top 50
+NPI8031740654,Joseph,Wang,Psychiatry,GA,17,Other
+NPI6382720531,Karen,Davis,Internal Medicine,MO,7,Other
+NPI2596002969,Michelle,Murphy,Oncology,WA,22,Other
+NPI8325738597,Ahmed,White,Neurology,IL,12,Other
+NPI4181273845,Sarah,Jones,Internal Medicine,OH,12,Other
+NPI5147711886,William,Brown,Pulmonology,TN,5,Other
+NPI4485759447,Anita,Wilson,Endocrinology,NY,20,Top 20
+NPI5692421857,Michelle,Williams,Dermatology,FL,8,Other
+NPI5321282218,John,Wilson,Neurology,TN,25,Top 50
+NPI3471256023,James,Clark,Orthopedic Surgery,IL,37,Other
+NPI4821004337,Patricia,Davis,Orthopedic Surgery,TN,36,Other
+NPI9175034347,Susan,White,Gastroenterology,NJ,27,Other
+NPI5526047227,Robert,Clark,Psychiatry,WI,32,Top 20
+NPI9247477692,Raj,Davis,Family Medicine,NJ,36,Other
+NPI5951143429,Anita,Patel,Internal Medicine,MO,27,Other
+NPI7919355638,Jennifer,Hernandez,Psychiatry,MO,11,Other
+NPI3642321786,Carlos,Wilson,Cardiology,PA,20,Other
+NPI8113721409,Robert,Rodriguez,Internal Medicine,WI,34,Other
+NPI3378894516,Fatima,White,Cardiology,MA,27,Other
+NPI1175949744,David,Hernandez,Rheumatology,FL,15,Top 50
+NPI2446560488,Mary,Wang,Internal Medicine,CA,7,Other
+NPI1194875875,Richard,O'Brien,Psychiatry,IL,6,Other
+NPI9523563776,Carlos,Chen,General Surgery,CA,15,Other
+NPI9999793182,Kevin,Murphy,Dermatology,GA,32,Top 50
+NPI7860072371,Patricia,Martinez,Family Medicine,WI,22,Top 50
+NPI1973153473,Elena,Anderson,Rheumatology,MI,3,Top 50
+NPI9090509142,William,Miller,Rheumatology,CA,36,Other
+NPI7693985648,Jessica,Patel,Oncology,MI,16,Other
+NPI3990200638,Patricia,Wang,Neurology,PA,16,Other
+NPI5520501205,Michelle,White,Internal Medicine,MO,32,Top 20
+NPI6955834070,Fatima,Lee,Emergency Medicine,TX,15,Top 50
+NPI1216454281,Lisa,Chen,Internal Medicine,TN,25,Other
